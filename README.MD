@@ -95,7 +95,19 @@ necessary. For example, to implement a native UI or when working with platform-s
 
 ### 💉 Dependency Injection
 #### [Koin](https://github.com/InsertKoinIO/koin) - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin)](https://github.com/InsertKoinIO/koin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.insert-koin/koin-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.insert-koin/koin-core)
+> A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API
+
 #### [Kodein](https://github.com/Kodein-Framework/Kodein-DI) - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Kodein-DI)](https://github.com/Kodein-Framework/Kodein-DI)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.di/kodein-di/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.di/kodein-di)
+> Kodein-DI is a very simple and yet very useful dependency retrieval container.
+
+#### [PopKorn](https://github.com/corbella83/PopKorn) - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/corbella83/PopKorn)](https://github.com/corbella83/PopKorn)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/cc.popkorn/popkorn/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cc.popkorn/popkorn)
+> PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.
 
 ### 🏗 Architecture
 #### [MVI Kotlin](https://github.com/arkivanov/MVIKotlin) - MVI framework
