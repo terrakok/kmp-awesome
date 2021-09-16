@@ -36,81 +36,81 @@ necessary. For example, to implement a native UI or when working with platform-s
 ## Libraries
 
 ### 📋 Log
-#### [Napier](https://github.com/AAkira/Napier) logger
+#### [Napier](https://github.com/AAkira/Napier) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/AAkira/Napier)](https://github.com/AAkira/Napier)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.aakira/napier/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.aakira/napier)
 > Napier is a logger library for Kotlin Multiplatform. It supports for the Android, Darwin(iOS, macOS, watchOS, tvOS), JVM, JavaScript. Logs written in common module are displayed on logger viewer of each platform.
 
-#### [Kermit](https://github.com/touchlab/Kermit) logger
+#### [Kermit](https://github.com/touchlab/Kermit) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/Kermit)](https://github.com/touchlab/Kermit)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/kermit/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/kermit)
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
 
 ### 🌎 Network
-#### [Ktor](https://github.com/ktorio/ktor) http client
+#### [Ktor](https://github.com/ktorio/ktor) - http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor)](https://github.com/ktorio/ktor)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.ktor/ktor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.ktor)
 > Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on. In this tutorial, we'll create a simple client application for sending a request and receiving a response.
 
-#### [Apollo GraphQL](https://github.com/apollographql/apollo-android) GraphQL client
+#### [Apollo GraphQL](https://github.com/apollographql/apollo-android) - GraphQL client
 [![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android)](https://github.com/apollographql/apollo-android)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3)
 > A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 
-#### [WebRTC KMP](https://github.com/shepeliev/webrtc-kmp) WebRTC client
+#### [WebRTC KMP](https://github.com/shepeliev/webrtc-kmp) - WebRTC client
 [![GitHub Repo stars](https://img.shields.io/github/stars/shepeliev/webrtc-kmp)](https://github.com/shepeliev/webrtc-kmp)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.shepeliev/webrtc-kmp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.shepeliev/webrtc-kmp)
 > WebRTC Kotlin Multiplatform SDK
 
-#### [Krossbow](https://github.com/joffrey-bion/krossbow) WebSocket client
+#### [Krossbow](https://github.com/joffrey-bion/krossbow) - WebSocket client
 [![GitHub Repo stars](https://img.shields.io/github/stars/joffrey-bion/krossbow)](https://github.com/joffrey-bion/krossbow)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.hildan.krossbow/krossbow-stomp-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.hildan.krossbow/krossbow-stomp-core)
 > A coroutine-based Kotlin multi-platform WebSocket client and STOMP 1.2 client over web sockets.
 
-#### [MOKO SocketIo](https://github.com/icerockdev/moko-socket-io) Socket.IO implementation
+#### [MOKO SocketIo](https://github.com/icerockdev/moko-socket-io) - Socket.IO implementation
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-socket-io)](https://github.com/icerockdev/moko-socket-io)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io)
 > This is a Kotlin MultiPlatform library that provides real-time, event-based communication for iOS and Android.
 
 ### 📦 Storage
-#### [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) Key-Value preferences
+#### [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings)](https://github.com/russhwolf/multiplatform-settings)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings)
 > This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data.
 
-#### [SQLDelight](https://github.com/cashapp/sqldelight) SQLite database
+#### [SQLDelight](https://github.com/cashapp/sqldelight) - SQLite database
 [![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/sqldelight)](https://github.com/cashapp/sqldelight)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.squareup.sqldelight/com.squareup.sqldelight.gradle.plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.squareup.sqldelight/com.squareup.sqldelight.gradle.plugin)
 > SQLDelight generates typesafe kotlin APIs from your SQL statements. It verifies your schema, statements, and migrations at compile-time and provides IDE features like autocomplete and refactoring which make writing and maintaining SQL simple.
 
-#### [Realm](https://github.com/realm/realm-kotlin) NoSQL database
+#### [Realm](https://github.com/realm/realm-kotlin) - NoSQL database
 [![GitHub Repo stars](https://img.shields.io/github/stars/realm/realm-kotlin)](https://github.com/realm/realm-kotlin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin)
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
 
 ### 📱 Device
-#### [MOKO Permissions](https://github.com/icerockdev/moko-permissions) System permissions manager
-#### [MOKO Geo](https://github.com/icerockdev/moko-geo) Location manager
-#### [MOKO Biometry](https://github.com/icerockdev/moko-biometry) System biometry manager
+#### [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
+#### [MOKO Geo](https://github.com/icerockdev/moko-geo) - Location manager
+#### [MOKO Biometry](https://github.com/icerockdev/moko-biometry) - System biometry manager
 
 ### 💉 Dependency Injection
-#### [Koin](https://github.com/InsertKoinIO/koin) DI framework
-#### [Kodein](https://github.com/Kodein-Framework/Kodein-DI) DI framework
+#### [Koin](https://github.com/InsertKoinIO/koin) - DI framework
+#### [Kodein](https://github.com/Kodein-Framework/Kodein-DI) - DI framework
 
 ### 🏗 Architecture
-#### [MVI Kotlin](https://github.com/arkivanov/MVIKotlin) MVI framework
+#### [MVI Kotlin](https://github.com/arkivanov/MVIKotlin) - MVI framework
 
 ### 🔍 Analytics
-#### [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) reporting to Crashlytics
+#### [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 
 ### 🩺 Test
-#### [Kotest](https://github.com/kotest/kotest) test framework
+#### [Kotest](https://github.com/kotest/kotest) - test framework
 
 ### 📁 File
-#### [Okio](https://github.com/square/okio) access, store, and process your data
+#### [Okio](https://github.com/square/okio) - access, store, and process your data
 
 ### 🗃 Serializer
-#### [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) JSON serialization
+#### [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
 
 ### ⏰ Date-Time
 
