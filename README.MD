@@ -55,10 +55,13 @@ necessary. For example, to implement a native UI or when working with platform-s
 ### 📦 Storage
 #### [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings)](https://github.com/russhwolf/multiplatform-settings)
-[![Maven Central](https://img.shields.io/maven-central/v/com.russhwolf/multiplatform-settings?label=Maven%20Central)](https://search.maven.org/artifact/com.russhwolf/multiplatform-settings)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings)
 > This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data.
 
 #### [SQLDelight](https://github.com/cashapp/sqldelight) SQLite database
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/sqldelight)](https://github.com/cashapp/sqldelight)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.squareup.sqldelight/com.squareup.sqldelight.gradle.plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.squareup.sqldelight/com.squareup.sqldelight.gradle.plugin)
+> SQLDelight generates typesafe kotlin APIs from your SQL statements. It verifies your schema, statements, and migrations at compile-time and provides IDE features like autocomplete and refactoring which make writing and maintaining SQL simple.
 
 ### 📦 Device
 #### [MOKO Permissions](https://github.com/icerockdev/moko-permissions) System permissions manager
