@@ -54,6 +54,10 @@ necessary. For example, to implement a native UI or when working with platform-s
 
 ### 📦 Storage
 #### [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) Key-Value preferences
+[![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings)](https://github.com/russhwolf/multiplatform-settings)
+[![Maven Central](https://img.shields.io/maven-central/v/com.russhwolf/multiplatform-settings?label=Maven%20Central)](https://search.maven.org/artifact/com.russhwolf/multiplatform-settings)
+> This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data.
+
 #### [SQLDelight](https://github.com/cashapp/sqldelight) SQLite database
 
 ### 📦 Device
