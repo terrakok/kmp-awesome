@@ -35,7 +35,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 
 ## Libraries
 
-### 📦 Log
+### 📋 Log
 #### [Napier](https://github.com/AAkira/Napier) logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/AAkira/Napier)](https://github.com/AAkira/Napier)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.aakira/napier/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.aakira/napier)
@@ -46,11 +46,31 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/kermit/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/kermit)
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
 
-### 📦 Network
+### 🌎 Network
 #### [Ktor](https://github.com/ktorio/ktor) http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor)](https://github.com/ktorio/ktor)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.ktor/ktor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.ktor)
 > Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on. In this tutorial, we'll create a simple client application for sending a request and receiving a response.
+
+#### [Apollo GraphQL](https://github.com/apollographql/apollo-android) GraphQL client
+[![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android)](https://github.com/apollographql/apollo-android)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3)
+> A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
+
+#### [WebRTC KMP](https://github.com/shepeliev/webrtc-kmp) WebRTC client
+[![GitHub Repo stars](https://img.shields.io/github/stars/shepeliev/webrtc-kmp)](https://github.com/shepeliev/webrtc-kmp)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.shepeliev/webrtc-kmp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.shepeliev/webrtc-kmp)
+> WebRTC Kotlin Multiplatform SDK
+
+#### [Krossbow](https://github.com/joffrey-bion/krossbow) WebSocket client
+[![GitHub Repo stars](https://img.shields.io/github/stars/joffrey-bion/krossbow)](https://github.com/joffrey-bion/krossbow)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.hildan.krossbow/krossbow-stomp-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.hildan.krossbow/krossbow-stomp-core)
+> A coroutine-based Kotlin multi-platform WebSocket client and STOMP 1.2 client over web sockets.
+
+#### [MOKO SocketIo](https://github.com/icerockdev/moko-socket-io) Socket.IO implementation
+[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-socket-io)](https://github.com/icerockdev/moko-socket-io)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io)
+> This is a Kotlin MultiPlatform library that provides real-time, event-based communication for iOS and Android.
 
 ### 📦 Storage
 #### [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) Key-Value preferences
@@ -68,32 +88,32 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin)
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
 
-### 📦 Device
+### 📱 Device
 #### [MOKO Permissions](https://github.com/icerockdev/moko-permissions) System permissions manager
 #### [MOKO Geo](https://github.com/icerockdev/moko-geo) Location manager
 #### [MOKO Biometry](https://github.com/icerockdev/moko-biometry) System biometry manager
 
-### 📦 DI
+### 💉 Dependency Injection
 #### [Koin](https://github.com/InsertKoinIO/koin) DI framework
 #### [Kodein](https://github.com/Kodein-Framework/Kodein-DI) DI framework
 
-### 📦 Architecture
+### 🏗 Architecture
 #### [MVI Kotlin](https://github.com/arkivanov/MVIKotlin) MVI framework
 
-### 📦 Analytics
+### 🔍 Analytics
 #### [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) reporting to Crashlytics
 
-### 📦 Test
+### 🩺 Test
 #### [Kotest](https://github.com/kotest/kotest) test framework
 
-### 📦 File
+### 📁 File
 #### [Okio](https://github.com/square/okio) access, store, and process your data
 
-### 📦 Serializer
+### 🗃 Serializer
 #### [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) JSON serialization
 
-### 📦 Date-Time
+### ⏰ Date-Time
 
-### 📦 Asynchronous
+### ➿ Asynchronous
 
-### 📦 Utils
+### 🔧 Utils
