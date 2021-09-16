@@ -89,8 +89,8 @@ necessary. For example, to implement a native UI or when working with platform-s
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
 
 ### 📱 Device
-[MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
-[MOKO Geo](https://github.com/icerockdev/moko-geo) - Location manager
+[MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager  
+[MOKO Geo](https://github.com/icerockdev/moko-geo) - Location manager  
 [MOKO Biometry](https://github.com/icerockdev/moko-biometry) - System biometry manager
 
 ### 💉 Dependency Injection
