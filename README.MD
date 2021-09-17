@@ -165,7 +165,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe)
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 
-[MOKO MVVM](https://github.com/icerockdev/moko-mvvm) - Redux framework
+[MOKO MVVM](https://github.com/icerockdev/moko-mvvm) - MVVM framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-mvvm)](https://github.com/icerockdev/moko-mvvm)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm)
 > This is a Kotlin Multiplatform library that provides architecture components of Model-View-ViewModel for UI applications. Components are lifecycle-aware on Android.
