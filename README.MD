@@ -296,7 +296,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 
 [KaseChange](https://github.com/pearxteam/kasechange) - convert strings between various case formats
 [![GitHub Repo stars](https://img.shields.io/github/stars/pearxteam/kasechange)](https://github.com/pearxteam/kasechange)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/1.3.0/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/1.3.0)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange)
 > Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case 
 
 ## Sample apps
