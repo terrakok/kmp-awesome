@@ -170,6 +170,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm)
 > This is a Kotlin Multiplatform library that provides architecture components of Model-View-ViewModel for UI applications. Components are lifecycle-aware on Android.
 
+[Decompose](https://github.com/arkivanov/Decompose) - componentization and navigation
+[![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/Decompose)](https://github.com/arkivanov/Decompose)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose)
+> Decompose is a Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components (aka BLoC), with routing functionality and pluggable UI (Jetpack Compose, Android Views, SwiftUI, JS React, etc.)
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting)](https://github.com/icerockdev/moko-crash-reporting)
