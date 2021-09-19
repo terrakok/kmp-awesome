@@ -84,7 +84,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [MOKO SocketIo](https://github.com/icerockdev/moko-socket-io) - Socket.IO implementation
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-socket-io)](https://github.com/icerockdev/moko-socket-io)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io)
-> This is a Kotlin MultiPlatform library that provides real-time, event-based communication for iOS and Android.
+> This is a Kotlin Multiplatform library that provides real-time, event-based communication for iOS and Android.
 
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
@@ -116,7 +116,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-permissions)](https://github.com/icerockdev/moko-permissions)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/permissions/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/permissions)
-> Kotlin MultiPlatform library for providing runtime permissions on iOS & Android
+> Kotlin Multiplatform library for providing runtime permissions on iOS & Android
 
 [MOKO Geo](https://github.com/icerockdev/moko-geo) - Location manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-geo)](https://github.com/icerockdev/moko-geo)
@@ -131,7 +131,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 [MOKO Media](https://github.com/icerockdev/moko-media) - System media manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-media)](https://github.com/icerockdev/moko-media)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/media/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/media)
-> This is a Kotlin MultiPlatform library that provides media picking in common code (photo/video) and video player controls.
+> This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.
 
 [MOKO Maps](https://github.com/icerockdev/moko-maps) - Google maps manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-maps)](https://github.com/icerockdev/moko-maps)
@@ -272,12 +272,12 @@ necessary. For example, to implement a native UI or when working with platform-s
 [UUID](https://github.com/benasher44/uuid) - UUID generator
 [![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid)](https://github.com/benasher44/uuid)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid)
-> Kotlin Multiplatform UUID 
+> Kotlin Multiplatform UUID generator
 
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
-> This is a Kotlin MultiPlatform library that provides access to the resources on iOS & Android with the support of the default system localization.
+> This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
 
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
