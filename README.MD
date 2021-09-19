@@ -304,6 +304,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange)
 > Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
+[Kamel](https://github.com/alialbaali/Kamel) - Asynchronous media loading library for Compose.
+[![GitHub Repo stars](https://img.shields.io/github/stars/alialbaali/Kamel)](https://github.com/alialbaali/Kamel)
+[![https://maven-badges.herokuapp.com/maven-central/com.alialbaali.kamel/kamel-image/badge.svg)](https://search.maven.org/artifact/com.alialbaali.kamel/kamel-image/0.2.2/jar)
+> It provides a simple, customizable and efficient way to load, cache, decode and display images in your application.
+
 ## Sample apps
 `todo`
 
