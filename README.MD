@@ -3,6 +3,7 @@
 <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/kmm.svg" align="center" width="650"/>
 
 [![Pull request](https://img.shields.io/badge/PRs-welcome-success)](https://github.com/terrakok/kmm-awesome/pulls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmm-awesome)](https://github.com/terrakok/kmm-awesome)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jetbrains.kotlin%22)
 
