@@ -274,6 +274,12 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.futuremind/koru/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.futuremind/koru)
 > Automatically generates wrappers for suspend functions and Flow for easy access from Swift code in Kotlin Multiplatform projects.
 
+### 🎵 Audio
+[Korau](https://github.com/korlibs/korau) - Kotlin cORoutines AUdio
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korau)](https://github.com/korlibs/korau)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
+>Pure Kotlin WAV, MP3 and OGG vorbis decoders
+
 ### 🔧 Utils
 [UUID](https://github.com/benasher44/uuid) - UUID generator
 [![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid)](https://github.com/benasher44/uuid)
