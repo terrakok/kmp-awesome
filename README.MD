@@ -285,6 +285,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.futuremind/koru/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.futuremind/koru)
 > Automatically generates wrappers for suspend functions and Flow for easy access from Swift code in Kotlin Multiplatform projects.
 
+[KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Swift wrapper for Kotlin Coroutines 
+[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMP-NativeCoroutines)](https://github.com/rickclephas/KMP-NativeCoroutines)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core)
+> Library to use Kotlin Coroutines from Swift code in KMP apps
+
 ### 🎵 Audio
 [Korau](https://github.com/korlibs/korau) - Kotlin cORoutines AUdio
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korau)](https://github.com/korlibs/korau)
