@@ -350,6 +350,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ## Sample apps
 `todo`
 
+
+## Suggest your an idea
+[What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
+
 ## Authors
 https://github.com/terrakok/kmm-awesome/graphs/contributors
 
