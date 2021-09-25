@@ -56,6 +56,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/kermit/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/kermit)
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
 
+[Kodein-Log](https://github.com/Kodein-Framework/Kodein-Log) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Kodein-Log)](https://github.com/Kodein-Framework/Kodein-Log)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.log/kodein-log/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.log/kodein-log)
+> Kodein-Log is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.
+
 [Klogger](https://github.com/korlibs/klogger) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/klogger)](https://github.com/korlibs/klogger)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.klogger/klogger/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.klogger/klogger)
