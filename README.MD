@@ -203,6 +203,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/crash-reporting-crashlytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/crash-reporting-crashlytics)
 > Fatal and Non-Fatal reporting to Crashlytics for Kotlin Multiplatform Mobile
 
+[CrashKiOS](https://github.com/touchlab/CrashKiOS) - Crash reporting for Kotlin/Native iOS applications 
+[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/CrashKiOS)](https://github.com/touchlab/CrashKiOS)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios)
+> Thin library that provides symbolicated crash reports for Kotlin code on iOS.
+
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest)](https://github.com/kotest/kotest)
