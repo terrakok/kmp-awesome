@@ -332,6 +332,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange)
 > Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
+[Result](https://github.com/kittinunf/Result) - success/failure result
+[![GitHub Repo stars](https://img.shields.io/github/stars/kittinunf/Result)](https://github.com/kittinunf/Result)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.kittinunf.result/result/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.kittinunf.result/result)
+> This is a tiny framework for modelling success/failure of operations in Kotlin. In short, it is a model in type of Result<V: Any?, E : Throwable>.
+
 ## Sample apps
 `todo`
 
