@@ -15,7 +15,8 @@ necessary. For example, to implement a native UI or when working with platform-s
 🖼 [KMM website](https://kotlinlang.org/lp/mobile/)  
 📜 [KMM blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
 📺 [KMM YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
-📋 [KMM Documentation](https://kotlinlang.org/docs/kmm-overview.html)
+📋 [KMM Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
+🤩 [KMM Samples](https://kotlinlang.org/docs/kmm-samples.html)
 
 ## Tooling
 
@@ -353,10 +354,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/pearxteam/kasechange)](https://github.com/pearxteam/kasechange)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange)
 > Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
-
-## Sample apps
-`todo`
-
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
