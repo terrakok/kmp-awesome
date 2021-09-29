@@ -319,6 +319,18 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
 >Pure Kotlin WAV, MP3 and OGG vorbis decoders
 
+### 🧮 Arithmetic
+
+[KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum)](https://github.com/korlibs/kbignum)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kbignum/kbignum/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kbignum/kbignum)
+> Library for Big Numbers
+
+[BigNum](https://github.com/ionspin/kotlin-multiplatform-bignum) - Big Numbers
+[![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-bignum)](https://github.com/ionspin/kotlin-multiplatform-bignum)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/bignum/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/bignum)
+> Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
+
 ### 🔧 Utils
 [UUID](https://github.com/benasher44/uuid) - UUID generator
 [![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid)](https://github.com/benasher44/uuid)
@@ -339,16 +351,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kmem)](https://github.com/korlibs/kmem)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kmem/kmem/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kmem/kmem)
 > Kmem is bit, array and fast memory utilities library for multiplatform Kotlin
-
-[KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum)](https://github.com/korlibs/kbignum)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kbignum/kbignum/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kbignum/kbignum)
-> Library for Big Numbers
-
-[BigNum](https://github.com/ionspin/kotlin-multiplatform-bignum) - Big Numbers
-[![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-bignum)](https://github.com/ionspin/kotlin-multiplatform-bignum)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/bignum/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/bignum)
-> Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
 
 [KaseChange](https://github.com/pearxteam/kasechange) - convert strings between various case formats
 [![GitHub Repo stars](https://img.shields.io/github/stars/pearxteam/kasechange)](https://github.com/pearxteam/kasechange)
