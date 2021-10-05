@@ -337,6 +337,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid)
 > Kotlin Multiplatform UUID generator
 
+[GEOK](https://github.com/piruin/geok) - Kotlin geometry library 
+[![GitHub Repo stars](https://img.shields.io/github/stars/piruin/geok)](https://github.com/piruin/geok)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.piruin/geok/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.piruin/geok)
+> Small geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.
+
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
