@@ -160,6 +160,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/permissions/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/permissions)
 > Kotlin Multiplatform library for providing runtime permissions on iOS & Android
 
+[MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
+[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
+> This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
+
 [MOKO Geo](https://github.com/icerockdev/moko-geo) - Location manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-geo)](https://github.com/icerockdev/moko-geo)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/geo/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/geo)
@@ -379,6 +384,17 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
 > Pure Kotlin WAV, MP3 and OGG vorbis decoders
 
+### 🎨 Graphics
+[MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
+[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/graphics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/graphics)
+> This is a Kotlin Multiplatform library that provides graphics primitives to common code.
+
+[Korim](https://github.com/korlibs/korim) - Imaging utilities
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korim)](https://github.com/korlibs/korim)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korim/korim/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korim/korim)
+> Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin
+
 ### 🧩 Service SDK
 [Firebase Kotlin SDK](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase 
 [![GitHub Repo stars](https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk)](https://github.com/GitLiveApp/firebase-kotlin-sdk)
@@ -452,21 +468,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/fluidsonic/fluid-country)](https://github.com/fluidsonic/fluid-country)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.fluidsonic.country/fluid-country/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.fluidsonic.country/fluid-country)
 > Kotlin multiplatform country library.
-
-[MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
-[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
-> This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
-
-[MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
-[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/graphics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/graphics)
-> This is a Kotlin Multiplatform library that provides graphics primitives to common code.
-
-[Korim](https://github.com/korlibs/korim) - Imaging utilities
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korim)](https://github.com/korlibs/korim)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korim/korim/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korim/korim)
-> Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin
 
 [Kmem](https://github.com/korlibs/kmem) - Data primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kmem)](https://github.com/korlibs/kmem)
