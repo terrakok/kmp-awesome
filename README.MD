@@ -67,6 +67,21 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.klogger/klogger/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.klogger/klogger)
 > Klogger is a logger library for multiplatform Kotlin. This library provides a simple interface to do logging into suitable outputs like javascript’s console, or stdout/stderr.
 
+[Cabret](https://github.com/Foso/Cabret-Log) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/Foso/Cabret-Log)](https://github.com/Foso/Cabret-Log)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.jensklingenberg.cabret/cabret-compiler-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.jensklingenberg.cabret/cabret-compiler-runtime)
+> This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform.
+
+[KmLogging](https://github.com/LighthouseGames/KmLogging) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/LighthouseGames/KmLogging)](https://github.com/LighthouseGames/KmLogging)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.lighthousegames/logging/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.lighthousegames/logging)
+> Kotlin multiplatform logging. High performance, composable and simple to use. 
+
+[Kydra Log](https://github.com/PocketByte/kotlin-kydra-log) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/PocketByte/kotlin-kydra-log)](https://github.com/PocketByte/kotlin-kydra-log)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/ru.pocketbyte.kydra/kydra-log/badge.svg)](https://maven-badges.herokuapp.com/maven-central/ru.pocketbyte.kydra/kydra-log)
+> Kotlin Multiplatform Library that allows to write logs in common module.
+
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor)](https://github.com/ktorio/ktor)
@@ -75,8 +90,13 @@ necessary. For example, to implement a native UI or when working with platform-s
 
 [Apollo GraphQL](https://github.com/apollographql/apollo-android) - GraphQL client
 [![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android)](https://github.com/apollographql/apollo-android)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime)
 > A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
+
+[kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator
+[![GitHub Repo stars](https://img.shields.io/github/stars/yshrsmz/kgql)](https://github.com/yshrsmz/kgql)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.codingfeline.kgql/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.codingfeline.kgql/core)
+> GraphQL Document wrapper generator for Kotlin Multiplatform Project. Currently, available for JVM/Android/iOS
 
 [WebRTC KMP](https://github.com/shepeliev/webrtc-kmp) - WebRTC client
 [![GitHub Repo stars](https://img.shields.io/github/stars/shepeliev/webrtc-kmp)](https://github.com/shepeliev/webrtc-kmp)
@@ -93,11 +113,21 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/socket-io)
 > This is a Kotlin Multiplatform library that provides real-time, event-based communication for iOS and Android.
 
+[rsocket](https://github.com/rsocket/rsocket-kotlin) - RSocket Kotlin multi-platform implementation
+[![GitHub Repo stars](https://img.shields.io/github/stars/rsocket/rsocket-kotlin)](https://github.com/rsocket/rsocket-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.rsocket.kotlin/rsocket-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.rsocket.kotlin/rsocket-core)
+> RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings)](https://github.com/russhwolf/multiplatform-settings)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings)
 > This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data
+
+[KVault](https://github.com/Liftric/KVault) - secure key-value storage
+[![GitHub Repo stars](https://img.shields.io/github/stars/Liftric/KVault)](https://github.com/Liftric/KVault)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.liftric/kvault/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.liftric/kvault)
+> It acts as an iOS Keychain wrapper and implements encrypted SharedPreferences for Android.
 
 [SQLDelight](https://github.com/cashapp/sqldelight) - SQLite database
 [![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/sqldelight)](https://github.com/cashapp/sqldelight)
@@ -108,6 +138,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![GitHub Repo stars](https://img.shields.io/github/stars/realm/realm-kotlin)](https://github.com/realm/realm-kotlin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin)
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
+
+[cache4k](https://github.com/ReactiveCircus/cache4k) - In-memory Cache
+[![GitHub Repo stars](https://img.shields.io/github/stars/ReactiveCircus/cache4k)](https://github.com/ReactiveCircus/cache4k)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.reactivecircus.cache4k/cache4k/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.reactivecircus.cache4k/cache4k)
+> Provides a simple in-memory key-value cache for Kotlin Multiplatform, with support for time-based (expiration) and size-based evictions.
 
 [SQLiter](https://github.com/touchlab/SQLiter) - SQLite driver
 [![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/SQLiter)](https://github.com/touchlab/SQLiter)
@@ -183,10 +218,30 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe)
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 
+[FlowRedux](https://github.com/freeletics/FlowRedux) - Statemachine library with nice DSL
+[![GitHub Repo stars](https://img.shields.io/github/stars/freeletics/FlowRedux)](https://github.com/freeletics/FlowRedux)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.freeletics.flowredux/flowredux/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.freeletics.flowredux/flowredux)
+> Building async. running Kotlin Multiplatform state machine made easy with a DSL and coroutines.
+
+[Mobius.kt](https://github.com/DrewCarlson/mobius.kt) - Mobius Framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/DrewCarlson/mobius.kt)](https://github.com/DrewCarlson/mobius.kt)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.drewcarlson/mobiuskt-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.drewcarlson/mobiuskt-core)
+> Kotlin Multiplatform [Mobius](https://github.com/spotify/mobius) implementation.
+
 [MOKO MVVM](https://github.com/icerockdev/moko-mvvm) - MVVM framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-mvvm)](https://github.com/icerockdev/moko-mvvm)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/mvvm)
 > This is a Kotlin Multiplatform library that provides architecture components of Model-View-ViewModel for UI applications. Components are lifecycle-aware on Android.
+
+[Oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform 
+[![GitHub Repo stars](https://img.shields.io/github/stars/oolong-kt/oolong)](https://github.com/oolong-kt/oolong)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.oolong-kt/oolong/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.oolong-kt/oolong)
+> Oolong is an [Elm](https://guide.elm-lang.org/architecture) inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
+
+[Summer](https://github.com/adevone/summer) - Share ViewModels between iOS, Android and Web apps
+[![GitHub Repo stars](https://img.shields.io/github/stars/adevone/summer)](https://github.com/adevone/summer)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.adevone.summer/summer/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.adevone.summer/summer)
+> Summer is a presentation level library with kotlin-multiplatform support. It can be used to share viewModels between iOS, Android and Web apps.  Summer does not use code generation and thus have not significant effort on compilation time and odd build-time errors.  Project aims to have out-of-box support of Android Framework, Jetpack Compose, UIKit and SwiftUI without any adapters and platform-specific limitations.
 
 [Decompose](https://github.com/arkivanov/Decompose) - componentization and navigation
 [![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/Decompose)](https://github.com/arkivanov/Decompose)
@@ -220,6 +275,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium)](https://github.com/ionspin/kotlin-multiplatform-libsodium)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
 > Libsodium bindings project uses libsodium c sources and libsodium.js to provide a kotlin multiplatform wrapper library for libsodium.
+
+[Krypto](https://github.com/korlibs/krypto) - Pure Kotlin cryptography library
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/krypto)](https://github.com/korlibs/krypto)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.krypto/krypto/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.krypto/krypto)
+> SecureRandom, Hash (MD5/SHA1/SHA256), AES
 
 ### 📁 File
 [Okio](https://github.com/square/okio) - access, store, and process your data
@@ -317,7 +377,43 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [Korau](https://github.com/korlibs/korau) - Kotlin cORoutines AUdio
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korau)](https://github.com/korlibs/korau)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
->Pure Kotlin WAV, MP3 and OGG vorbis decoders
+> Pure Kotlin WAV, MP3 and OGG vorbis decoders
+
+### 🧩 Service SDK
+[Firebase Kotlin SDK](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase 
+[![GitHub Repo stars](https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk)](https://github.com/GitLiveApp/firebase-kotlin-sdk)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth)
+> The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.
+
+[VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK 
+[![GitHub Repo stars](https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin)](https://github.com/vksdk/vk-sdk-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.petersamokhin.vksdk/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.petersamokhin.vksdk/core)
+> Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations
+
+[bitcoin-kmp](https://github.com/ACINQ/bitcoin-kmp) - Kotlin Multiplatform Bitcoin Library
+[![GitHub Repo stars](https://img.shields.io/github/stars/ACINQ/bitcoin-kmp)](https://github.com/ACINQ/bitcoin-kmp)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/fr.acinq.bitcoin/bitcoin-kmp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/fr.acinq.bitcoin/bitcoin-kmp)
+> This is a simple Kotlin Multiplatform library which implements most of the bitcoin protocol
+
+[MOKO Tensorflow](https://github.com/icerockdev/moko-tensorflow) - Mobile Kotlin TensorFlow
+[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-tensorflow)](https://github.com/icerockdev/moko-tensorflow)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/tensorflow/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/tensorflow)
+> This is a Kotlin MultiPlatform library that provides access to TensorFlow-Lite functionality from common source set.
+
+[qBittorrent](https://github.com/DrewCarlson/qBittorrent-Kotlin) - wrapper for the qBittorrent Web API
+[![GitHub Repo stars](https://img.shields.io/github/stars/DrewCarlson/qBittorrent-Kotlin)](https://github.com/DrewCarlson/qBittorrent-Kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.drewcarlson/qbittorrent-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.drewcarlson/qbittorrent-client)
+> Multiplatform Kotlin wrapper for the qBittorrent Web API using Ktor.
+
+[Cognito-idp](https://github.com/Liftric/cognito-idp) - AWS Cognito Identity Provider
+[![GitHub Repo stars](https://img.shields.io/github/stars/Liftric/cognito-idp)](https://github.com/Liftric/cognito-idp)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.liftric/cognito-idp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.liftric/cognito-idp)
+> Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.
+
+[TMDb API](https://github.com/MoviebaseApp/tmdb-api) - access to TMDb API 
+[![GitHub Repo stars](https://img.shields.io/github/stars/MoviebaseApp/tmdb-api)](https://github.com/MoviebaseApp/tmdb-api)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api)
+> This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.
 
 ### 🧮 Arithmetic
 
@@ -337,10 +433,25 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid)
 > Kotlin Multiplatform UUID generator
 
+[Colormath](https://github.com/ajalt/colormath) - Multiplatform Kotlin color conversion and manipulation 
+[![GitHub Repo stars](https://img.shields.io/github/stars/ajalt/colormath)](https://github.com/ajalt/colormath)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ajalt/colormath/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ajalt/colormath)
+> Colormath is a Kotlin Multiplatform library for color manipulation and conversion.
+
 [GEOK](https://github.com/piruin/geok) - Kotlin geometry library 
 [![GitHub Repo stars](https://img.shields.io/github/stars/piruin/geok)](https://github.com/piruin/geok)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.piruin/geok/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.piruin/geok)
 > Small geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.
+
+[fluid-currency](https://github.com/fluidsonic/fluid-currency) - currency library
+[![GitHub Repo stars](https://img.shields.io/github/stars/fluidsonic/fluid-currency)](https://github.com/fluidsonic/fluid-currency)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.fluidsonic.currency/fluid-currency/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.fluidsonic.currency/fluid-currency)
+> Kotlin multiplatform currency library.
+
+[fluid-country](https://github.com/fluidsonic/fluid-country) - country library
+[![GitHub Repo stars](https://img.shields.io/github/stars/fluidsonic/fluid-country)](https://github.com/fluidsonic/fluid-country)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.fluidsonic.country/fluid-country/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.fluidsonic.country/fluid-country)
+> Kotlin multiplatform country library.
 
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
@@ -352,6 +463,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/graphics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/graphics)
 > This is a Kotlin Multiplatform library that provides graphics primitives to common code.
 
+[Korim](https://github.com/korlibs/korim) - Imaging utilities
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korim)](https://github.com/korlibs/korim)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korim/korim/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korim/korim)
+> Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin
+
 [Kmem](https://github.com/korlibs/kmem) - Data primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kmem)](https://github.com/korlibs/kmem)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kmem/kmem/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kmem/kmem)
@@ -361,6 +477,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/pearxteam/kasechange)](https://github.com/pearxteam/kasechange)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.pearx.kasechange/kasechange)
 > Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
+
+[FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching for Kotlin
+[![GitHub Repo stars](https://img.shields.io/github/stars/willowtreeapps/fuzzywuzzy-kotlin)](https://github.com/willowtreeapps/fuzzywuzzy-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.willowtreeapps/fuzzywuzzy-kotlin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.willowtreeapps/fuzzywuzzy-kotlin)
+> Useful for selecting the closest matching string from a collection of strings. Various algorithms are available.
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
