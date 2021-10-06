@@ -18,6 +18,45 @@ necessary. For example, to implement a native UI or when working with platform-s
 📋 [KMM Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
 🤩 [KMM Samples](https://kotlinlang.org/docs/kmm-samples.html)
 
+## Contents
+<table>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#tooling">🛠 Tooling</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Log">📋 Log</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Network">🌎 Network</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Storage">📦 Storage</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Device">📱 Device</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Dependency-Injection">💉 Dependency Injection</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Architecture">🏗 Architecture</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Analytics">🔍 Analytics</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Test">🩺 Test</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Crypto">🔑 Crypto</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-File">📁 File</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Language-extentions">🚀 Language extentions</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Serializer">🗃 Serializer</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Date-Time">⏰ Date-Time</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Asynchronous">➿ Asynchronous</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Audio">🎵 Audio</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Graphics">🎨 Graphics</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Service-SDK">🧩 Service SDK</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Arithmetic">🧮 Arithmetic</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Utils">🔧 Utils</a></td>
+    <td></td>
+  </tr>
+</table>
+
 ## Tooling
 
 #### 🛠 [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
