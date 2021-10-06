@@ -157,6 +157,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.rsocket.kotlin/rsocket-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.rsocket.kotlin/rsocket-core)
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
+[Connectivity status](https://github.com/ln-12/multiplatform-connectivity-status) - Multiplatform connectivity status
+[![GitHub Repo stars](https://img.shields.io/github/stars/ln-12/multiplatform-connectivity-status)](https://github.com/rsocket/rsocket-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ln-12/multiplatform-connectivity-status/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ln-12/multiplatform-connectivity-status)
+> This Kotlin multiplatform mobile utility library allows monitoring the internet connection status of the device. You can use it from shared code as well as directly from Android or iOS code.
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings)](https://github.com/russhwolf/multiplatform-settings)
