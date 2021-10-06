@@ -286,6 +286,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.krypto/krypto/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.krypto/krypto)
 > SecureRandom, Hash (MD5/SHA1/SHA256), AES
 
+[cryptohash](https://github.com/appmattus/crypto/tree/main/cryptohash) - A set of cryptographic (and not so cryptographic) hashing functions
+[![GitHub Repo stars](https://img.shields.io/github/stars/appmattus/crypto)](https://github.com/appmattus/crypto)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.appmattus.crypto/cryptohash/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.appmattus.crypto/cryptohash)
+> xxHash, Blake, HMAC, Keccak, MD5, SHA, etc
+
 ### 📁 File
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio)](https://github.com/square/okio)
