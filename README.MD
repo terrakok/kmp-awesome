@@ -235,6 +235,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 >A Bluetooth "Cross Platform" Kotlin Multiplatform library for iOS, Android, MacOS, Raspberry Pi and Javascript.
 Bluetooth in general has the same functionality for all platforms, e.g. connect to device, fetch services, fetch characteristics.
 
+[Connectivity status](https://github.com/ln-12/multiplatform-connectivity-status) - Multiplatform connectivity status
+[![GitHub Repo stars](https://img.shields.io/github/stars/ln-12/multiplatform-connectivity-status)](https://github.com/rsocket/rsocket-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ln-12/multiplatform-connectivity-status/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ln-12/multiplatform-connectivity-status)
+> This Kotlin multiplatform mobile utility library allows monitoring the internet connection status of the device. You can use it from shared code as well as directly from Android or iOS code.
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin)](https://github.com/InsertKoinIO/koin)
