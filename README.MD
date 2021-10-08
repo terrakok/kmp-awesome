@@ -374,6 +374,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/parcelize/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/parcelize)
 > This is a Kotlin Multiplatform library that supports Parcelize in common code.
 
+[Pbandk](https://github.com/streem/pbandk) - Kotlin code generator and runtime for Protocol Buffers.
+[![GitHub Repo stars](https://img.shields.io/github/stars/streem/pbandk)](https://github.com/streem/pbandk)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/pro.streem.pbandk/protoc-gen-pbandk-jvm/badge.svg)](https://maven-badges.herokuapp.com/maven-central/pro.streem.pbandk/protoc-gen-pbandk-jvm)
+>It has the core set of protobuf features implemented and is being used in production.
+
 ### ⏰ Date-Time
 [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) - Date & Time library
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx-datetime)](https://github.com/Kotlin/kotlinx-datetime)
