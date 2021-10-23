@@ -485,6 +485,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api)
 > This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.
 
+[tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - Wrapper and different tools for [Telegram Bots API](https://core.telegram.org/bots/api)
+[![GitHub Repo stars](https://img.shields.io/github/stars/InsanusMokrassar/TelegramBotAPI)](https://github.com/InsanusMokrassar/TelegramBotAPI)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.inmo/tgbotapi/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.inmo/tgbotapi)
+> (JS, JVM) This library will give you a lot of tools for work with [Telegram Bots API](https://core.telegram.org/bots/api) including live location dsl, keyboards dsl, FSM Behaviour Builder and a lot of others
+
 ### 🧮 Arithmetic
 
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
