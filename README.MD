@@ -412,13 +412,13 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/atomicfu/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/atomicfu)
 > The idiomatic way to use atomic operations in Kotlin.
 
-[Stately](https://github.com/Autodesk/coroutineworker) - Kotlin Multiplatform State Library 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Autodesk/coroutineworker)](https://github.com/Autodesk/coroutineworker)
+[Stately](https://github.com/touchlab/Stately) - Kotlin Multiplatform State Library 
+[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/Stately)](https://github.com/touchlab/Stately)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/stately/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/stately)
 > Stately is a state utility library to facilitate state management in Kotlin Multiplatform.
 
-[CoroutineWorker](https://github.com/touchlab/Stately) - Workers for Kotlin Native
-[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/Stately)](https://github.com/touchlab/Stately)
+[CoroutineWorker](https://github.com/Autodesk/coroutineworker) - Workers for Kotlin Native
+[![GitHub Repo stars](https://img.shields.io/github/stars/Autodesk/coroutineworker)](https://github.com/Autodesk/coroutineworker)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.autodesk/CoroutineWorker/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.autodesk/CoroutineWorker)
 > Kotlin Coroutine-based workers for native
 
