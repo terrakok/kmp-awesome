@@ -163,6 +163,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.russhwolf/multiplatform-settings)
 > This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data
 
+[abc-kmm-shared-storage](https://github.com/line/abc-kmm-shared-storage) - Key-Value storage
+[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-shared-storage)](https://github.com/line/abc-kmm-shared-storage)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-shared-storage/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-shared-storage)
+> A local storage management library for Kotlin Multiplatform Mobile iOS and Android 
+
 [KVault](https://github.com/Liftric/KVault) - secure key-value storage
 [![GitHub Repo stars](https://img.shields.io/github/stars/Liftric/KVault)](https://github.com/Liftric/KVault)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.liftric/kvault/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.liftric/kvault)
@@ -199,10 +204,20 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/permissions/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/permissions)
 > Kotlin Multiplatform library for providing runtime permissions on iOS & Android
 
+[abc-kmm-notifications](https://github.com/line/abc-kmm-notifications) - Notification Manager
+[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-notifications)](https://github.com/line/abc-kmm-notifications)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-notifications/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-notifications)
+> Remote Notification Manager for Kotlin Multiplatform Mobile
+
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
 > This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
+
+[abc-kmm-Location](https://github.com/line/abc-kmm-location) - Location manager
+[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-location)](https://github.com/line/abc-kmm-location)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-location/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-location)
+> Location Service Manager for Kotlin Multiplatform Mobile iOS and android
 
 [MOKO Geo](https://github.com/icerockdev/moko-geo) - Location manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-geo)](https://github.com/icerockdev/moko-geo)
@@ -317,6 +332,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/CrashKiOS)](https://github.com/touchlab/CrashKiOS)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios)
 > Thin library that provides symbolicated crash reports for Kotlin code on iOS.
+
+[abc-kmm-analytics-tools](https://github.com/line/abc-kmm-analytics-tools) - Analytics Tools  
+[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-analytics-tools)](https://github.com/line/abc-kmm-analytics-tools)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-analytics-tools/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-analytics-tools)
+> Automatically tracking and sending events of screen view and capture
 
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
