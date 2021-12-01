@@ -17,6 +17,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 📺 [KMM YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 📋 [KMM Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
 🤩 [KMM Samples](https://kotlinlang.org/docs/kmm-samples.html)
+🚀 [Web Wizard](https://terrakok.github.io/kmp-web-wizard/)
 
 ## Contents
 <table>
