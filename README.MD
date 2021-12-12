@@ -55,7 +55,6 @@ necessary. For example, to implement a native UI or when working with platform-s
     <td><a href="https://github.com/terrakok/kmm-awesome#-Arithmetic">🧮 Arithmetic</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-Resources">🛢 Resources</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-Utils">🔧 Utils</a></td>
-    <td></td>
   </tr>
 </table>
 
