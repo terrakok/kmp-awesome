@@ -53,6 +53,7 @@ necessary. For example, to implement a native UI or when working with platform-s
   </tr>
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#-Arithmetic">🧮 Arithmetic</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-Resources">🛢 Resources</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-Utils">🔧 Utils</a></td>
     <td></td>
   </tr>
@@ -209,11 +210,6 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-notifications)](https://github.com/line/abc-kmm-notifications)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-notifications/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-notifications)
 > Remote Notification Manager for Kotlin Multiplatform Mobile
-
-[MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
-[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
-> This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
 
 [abc-kmm-Location](https://github.com/line/abc-kmm-location) - Location manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-location)](https://github.com/line/abc-kmm-location)
@@ -542,6 +538,19 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-bignum)](https://github.com/ionspin/kotlin-multiplatform-bignum)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/bignum/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/bignum)
 > Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
+
+### 🛢 Resources
+
+[MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
+[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
+> This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
+
+[Kotlinx-Resources](https://github.com/goncalossilva/kotlinx-resources) - text resources manager
+[![GitHub Repo stars](https://img.shields.io/github/stars/goncalossilva/kotlinx-resources)](https://github.com/goncalossilva/kotlinx-resources)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.goncalossilva/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.goncalossilva/resources)
+> Kotlin Multiplatform (KMP) plugin and library that add support for reading resources in tests.  
+> The plugin and a library work in tandem to provide a unified API across platforms for reading resources from each source set's resources folder.
 
 ### 🔧 Utils
 [UUID](https://github.com/benasher44/uuid) - UUID generator
