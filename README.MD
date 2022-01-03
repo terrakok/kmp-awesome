@@ -376,6 +376,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.appmattus.crypto/cryptohash/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.appmattus.crypto/cryptohash)
 > xxHash, Blake, HMAC, Keccak, MD5, SHA, etc
 
+[murmurhash](https://github.com/goncalossilva/kotlinx-murmurhash) - library for hashing using MurmurHash
+[![GitHub Repo stars](https://img.shields.io/github/stars/goncalossilva/kotlinx-murmurhash)](https://github.com/goncalossilva/kotlinx-murmurhash)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.goncalossilva/murmurhash/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.goncalossilva/murmurhash)
+> Kotlin Multiplatform (KMP) library for MurmurHash, a non-cryptographic hash function for general hash-based lookup focused on simplicity and performance.
+
 ### 📁 File
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio)](https://github.com/square/okio)
