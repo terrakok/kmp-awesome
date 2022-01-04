@@ -308,10 +308,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.adevone.summer/summer/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.adevone.summer/summer)
 > Summer is a presentation level library with kotlin-multiplatform support. It can be used to share viewModels between iOS, Android and Web apps.  Summer does not use code generation and thus have not significant effort on compilation time and odd build-time errors.  Project aims to have out-of-box support of Android Framework, Jetpack Compose, UIKit and SwiftUI without any adapters and platform-specific limitations.
 
-[Premo](https://github.com/dmdevgo/Premo) — Presentation Model
+[Premo](https://github.com/dmdevgo/Premo) — Presentation Model (aka View Model) and Navigation
 [![GitHub Repo stars](https://img.shields.io/github/stars/dmdevgo/premo)](https://github.com/dmdevgo/Premo)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.dmdev.premo/premo/badge.svg)](https://maven-badges.herokuapp.com/maven-central/me.dmdev.premo/premo)
-> Premo is a Kotlin Multiplatform library that helps you implement the Presentation Layer and share it on iOS and Android. Focus on writing logic instead of solving common and boring UI related issues: lifecycle, persistence, navigation, etc.
+> Premo is a Kotlin Multiplatform library that helps to implement the Presentation Layer and share it on iOS, Android, Desktop and Web. Focus on writing logic instead of solving common and boring UI related issues: lifecycle, persistence, navigation, etc.
 
 [Decompose](https://github.com/arkivanov/Decompose) - componentization and navigation
 [![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/Decompose)](https://github.com/arkivanov/Decompose)
