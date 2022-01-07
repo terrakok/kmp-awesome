@@ -278,6 +278,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.mvikotlin/mvikotlin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.mvikotlin/mvikotlin)
 > MVIKotlin is a Kotlin Multiplatform framework that provides a way of (not only) writing shared code using MVI pattern. It also includes powerful debug tools like logging and time travel.
 
+[Orbit MVI](https://github.com/orbit-mvi/orbit-mvi) - MVI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/orbit-mvi/orbit-mvi)](https://github.com/orbit-mvi/orbit-mvi)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.orbit-mvi/orbit-core/badge.svg)](https://search.maven.org/artifact/org.orbit-mvi/orbit-core)
+> Orbit is a Redux/MVI-like library for KMM, targetting Android and iOS. 
+
 [Redux Kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/reduxkotlin/redux-kotlin)](https://github.com/reduxkotlin/redux-kotlin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe)
