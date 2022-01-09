@@ -602,6 +602,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.willowtreeapps/fuzzywuzzy-kotlin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.willowtreeapps/fuzzywuzzy-kotlin)
 > Useful for selecting the closest matching string from a collection of strings. Various algorithms are available.
 
+[kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic versioning
+[![GitHub Repo stars](https://img.shields.io/github/stars/z4kn4fein/kotlin-semver)](https://github.com/z4kn4fein/kotlin-semver)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.z4kn4fein/semver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.z4kn4fein/semver)
+> Semantic Versioning library for Kotlin Multiplatform.
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
