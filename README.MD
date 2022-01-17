@@ -360,11 +360,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.mockative/mockative/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.mockative/mockative)
 > Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)
 
-[Micro-Mock](https://github.com/Kodein-Framework/Micro-Mock) - Mocking with KSP
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Micro-Mock)](https://github.com/Kodein-Framework/Micro-Mock)
-[![Repo](https://img.shields.io/badge/repo-non%20MavenCentral-yellow)](https://github.com/Kodein-Framework/Micro-Mock)
-> A micro Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.
-
 [MocKMP](https://github.com/Kodein-Framework/MocKMP) - Mocking with KSP
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/MocKMP)](https://github.com/Kodein-Framework/MocKMP)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)
