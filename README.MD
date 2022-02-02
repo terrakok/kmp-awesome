@@ -288,6 +288,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe)
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 
+[Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - Redux for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/abhimuktheeswarar/Flywheel)](https://github.com/abhimuktheeswarar/Flywheel)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.msabhi/flywheel/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.msabhi/flywheel)
+> A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.
+
 [FlowRedux](https://github.com/freeletics/FlowRedux) - Statemachine library with nice DSL
 [![GitHub Repo stars](https://img.shields.io/github/stars/freeletics/FlowRedux)](https://github.com/freeletics/FlowRedux)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.freeletics.flowredux/flowredux/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.freeletics.flowredux/flowredux)
