@@ -251,6 +251,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ln-12/multiplatform-connectivity-status/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ln-12/multiplatform-connectivity-status)
 > This Kotlin multiplatform mobile utility library allows monitoring the internet connection status of the device. You can use it from shared code as well as directly from Android or iOS code.
 
+[Kontrol](https://github.com/chopyourbrain/kontrol) - Debug menu
+[![GitHub Repo stars](https://img.shields.io/github/stars/chopyourbrain/kontrol)](https://github.com/chopyourbrain/kontrol)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.chopyourbrain/kontrol/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.chopyourbrain/kontrol)
+> A Kotlin Multiplatform library for creating debug menu.
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin)](https://github.com/InsertKoinIO/koin)
