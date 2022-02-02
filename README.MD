@@ -370,6 +370,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)
 > A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.
 
+[KLIP](https://github.com/mpetuska/klip) - Snapshot ((c|k)lip) manager for tests. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/mpetuska/klip)](https://github.com/mpetuska/klip)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.petuska/klip/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.petuska/klip)
+> Kotlin Multiplatform snapshot ((c|k)lip) manager for tests. Automatically generates and asserts against a persistent Any::toString() representation of the object until you explicitly trigger an update. Powered by kotlin compiler plugin to inject relevant keys and paths.
+
 ### 🔑 Crypto
 [Libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Libsodium bindings for Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium)](https://github.com/ionspin/kotlin-multiplatform-libsodium)
