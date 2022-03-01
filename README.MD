@@ -70,6 +70,12 @@ necessary. For example, to implement a native UI or when working with platform-s
 #### 🛠 [CocoaPods](https://kotlinlang.org/docs/native-cocoapods.html) integration
 > Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).
 
+#### 🛠 [Swift Package](https://github.com/PaGr0m/kotlin-spm-plugin) integration
+> This gradle plugin provides two-way interoperability between Kotlin dependencies and Kotlin-based Swift Package Multiplatform.
+
+#### 🛠 [Carthage](https://github.com/wireapp/carthage-gradle-plugin) integration
+> Adds support for integrating Carthage dependencies into a KMM project.
+
 #### 🛠 [MOKO KSwift](https://github.com/icerockdev/moko-kswift) gradle plugin
 > KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.
 
