@@ -300,6 +300,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe)
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 
+[CoRed](https://github.com/kittinunf/CoRed) - Opinionated Redux-like implementation
+[![GitHub Repo stars](https://img.shields.io/github/stars/kittinunf/CoRed)](https://github.com/kittinunf/CoRed)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.kittinunf.cored/cored/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.kittinunf.cored/cored)
+> CoRed is Redux-like implementation that maintains the benefits of Redux's core idea without the boilerplate. No more action types, action creators, switch statements or complicated setup. It is Kotlin and it has coroutine supported right out-of-the-box.
+
 [Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - Redux for Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/abhimuktheeswarar/Flywheel)](https://github.com/abhimuktheeswarar/Flywheel)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.msabhi/flywheel/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.msabhi/flywheel)
@@ -442,6 +447,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core)
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
 
+[Kotlin Object Notation](https://github.com/mpetuska/kon) - Lightweight DSL to build fluid JSON trees
+[![GitHub Repo stars](https://img.shields.io/github/stars/mpetuska/kon)](https://github.com/mpetuska/kon)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.petuska/kon/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.petuska/kon)
+> Kotlin Object Notation - Lightweight DSL to build fluid JSON trees
+
 [MOKO Parcelize](https://github.com/icerockdev/moko-parcelize) - Parcelize in common code
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-parcelize)](https://github.com/icerockdev/moko-parcelize)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/parcelize/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/parcelize)
@@ -558,6 +568,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.moviebase/tmdb-api)
 > This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.
 
+[Growth Book SDK](https://github.com/growthbook/growthbook-kotlin) - GrowthBook Kotlin SDK 
+[![GitHub Repo stars](https://img.shields.io/github/stars/growthbook/growthbook-kotlin)](https://github.com/growthbook/growthbook-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.growthbook.sdk/GrowthBook/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.growthbook.sdk/GrowthBook)
+> GrowthBook is an open-source platform for feature flagging and a/b testing built for data teams, engineers, and product managers. It's great whether you're looking to just analyze experiment results or looking to make it easier to deploy code.
+
 ### 🧮 Arithmetic
 
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
@@ -588,6 +603,16 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid)](https://github.com/benasher44/uuid)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid)
 > Kotlin Multiplatform UUID generator
+
+[ByteBuffer](https://github.com/DitchOoM/buffer) - Kotlin Multiplatform bytebuffer/byte[] wrapper 
+[![GitHub Repo stars](https://img.shields.io/github/stars/DitchOoM/buffer)](https://github.com/DitchOoM/buffer)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ditchoom/buffer/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ditchoom/buffer)
+> A kotlin multiplatform library that allows you to allocate and modify byte[] natively using an API similar to Java's ByteBuffer API.
+
+[Kase64](https://github.com/saschpe/kase64) - Base64 encoder/decoder 
+[![GitHub Repo stars](https://img.shields.io/github/stars/saschpe/kase64)](https://github.com/saschpe/kase64)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.peilicke.sascha/kase64/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.peilicke.sascha/kase64)
+> Base64 encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments. 
 
 [Colormath](https://github.com/ajalt/colormath) - Multiplatform Kotlin color conversion and manipulation 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ajalt/colormath)](https://github.com/ajalt/colormath)
