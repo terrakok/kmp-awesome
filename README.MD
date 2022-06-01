@@ -91,6 +91,9 @@ necessary. For example, to implement a native UI or when working with platform-s
 #### 🛠 [Dokka](https://github.com/Kotlin/dokka) documentation generation tool
 > Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.
 
+#### 🛠 [KDoctor](https://github.com/Kotlin/kdoctor) command-line tool
+> KDoctor is a command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development. It ensures that all required components are properly installed and ready for use. If something is missed or not configured Kdoctor highlights the problem and suggests how to fix the problem.
+
 ## Libraries
 
 ### 📋 Log
