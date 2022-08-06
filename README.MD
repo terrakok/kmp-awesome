@@ -375,6 +375,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.kotest/kotest-mpp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.kotest/kotest-mpp)
 > Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing 
 
+[Turbine](https://github.com/cashapp/turbine) - test library
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/turbine)](https://github.com/mpetuska/klip)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.cash.turbine/turbine/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.cash.turbine/turbine)
+> A small testing library for kotlinx.coroutines Flow
+
 [MockingBird](https://github.com/careem/mockingbird) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/careem/mockingbird)](https://github.com/careem/mockingbird)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.careem.mockingbird/mockingbird/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.careem.mockingbird/mockingbird)
