@@ -82,6 +82,9 @@ necessary. For example, to implement a native UI or when working with platform-s
 #### 🛠 [CompleteKotlin](https://github.com/LouisCAD/CompleteKotlin) gradle plugin
 > Gradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.
 
+#### 🛠 [gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin) gradle plugin
+> A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts. 
+
 #### 🛠 [BuildKonfig](https://github.com/yshrsmz/BuildKonfig) gradle plugin
 > BuildConfig for Kotlin Multiplatform Project
 
