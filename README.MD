@@ -301,6 +301,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.orbit-mvi/orbit-core/badge.svg)](https://search.maven.org/artifact/org.orbit-mvi/orbit-core)
 > Orbit is a Redux/MVI-like library for KMM, targetting Android and iOS. 
 
+[VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) - FSM-based MVI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM)](https://github.com/Kontur-Mobile/VisualFSM)
+[![MavenCentral](https://maven-badges.herokuapp.com/maven-central/ru.kontur.mobile.visualfsm/visualfsm-core/badge.svg)](https://search.maven.org/artifact/ru.kontur.mobile.visualfsm/visualfsm-core)
+> VisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.
+
 [Redux Kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/reduxkotlin/redux-kotlin)](https://github.com/reduxkotlin/redux-kotlin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.reduxkotlin/redux-kotlin-threadsafe)
