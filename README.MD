@@ -303,7 +303,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) - FSM-based MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM)](https://github.com/Kontur-Mobile/VisualFSM)
-[![MavenCentral](https://img.shields.io/maven-central/v/ru.kontur.mobile.visualfsm/visualfsm-core)](https://search.maven.org/artifact/ru.kontur.mobile.visualfsm/visualfsm-core)
+[![MavenCentral](https://maven-badges.herokuapp.com/maven-central/ru.kontur.mobile.visualfsm/visualfsm-core/badge.svg)](https://search.maven.org/artifact/ru.kontur.mobile.visualfsm/visualfsm-core)
 > VisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.
 
 [Redux Kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux framework
