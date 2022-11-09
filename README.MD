@@ -670,6 +670,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.z4kn4fein/semver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.z4kn4fein/semver)
 > Semantic Versioning library for Kotlin Multiplatform.
 
+[Kontrol](https://github.com/chopyourbrain/kontrol) - Debug menu
+[![GitHub Repo stars](https://img.shields.io/github/stars/chopyourbrain/kontrol)](https://github.com/chopyourbrain/kontrol)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.chopyourbrain/kontrol/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.chopyourbrain/kontrol/)
+> Kotlin Multiplatform library for creating a debugging menu.
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
