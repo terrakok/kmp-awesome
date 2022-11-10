@@ -356,6 +356,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose)
 > Decompose is a Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components (aka BLoC), with routing functionality and pluggable UI (Jetpack Compose, Android Views, SwiftUI, JS React, etc.)
 
+[multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - Pagination library for KMM by `Cash App`
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/multiplatform-paging)](https://github.com/cashapp/multiplatform-paging)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.cash.paging/paging-common/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.cash.paging/paging-common)
+> A Kotlin Multiplatform library for pagination with the same API as AndroidX Paging
+
 [multiplatform-paging](https://github.com/kuuuurt/multiplatform-paging) - Pagination library for KMM
 [![GitHub Repo stars](https://img.shields.io/github/stars/kuuuurt/multiplatform-paging)](https://github.com/kuuuurt/multiplatform-paging)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.kuuuurt/multiplatform-paging/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.kuuuurt/multiplatform-paging)
