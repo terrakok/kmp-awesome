@@ -141,6 +141,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.ktor/ktor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.ktor)
 > Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on. 
 
+[Ktorfit](https://github.com/Foso/Ktorfit) - Retrofit for Kotlin Multiplatform on KTS
+[![GitHub Repo stars](https://img.shields.io/github/stars/Foso/Ktorfit)](https://github.com/Foso/Ktorfit)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.jensklingenberg.ktorfit/ktorfit-lib/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.jensklingenberg.ktorfit/ktorfit-lib)
+> HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
+
 [Apollo GraphQL](https://github.com/apollographql/apollo-android) - GraphQL client
 [![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android)](https://github.com/apollographql/apollo-android)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.apollographql.apollo3/apollo-runtime)
