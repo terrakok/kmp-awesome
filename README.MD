@@ -12,12 +12,12 @@ help of KMM, you can share common code between iOS and Android apps and write pl
 necessary. For example, to implement a native UI or when working with platform-specific APIs.
 
 ## Resources
-🖼 [KMM website](https://kotlinlang.org/lp/mobile/)  
-📜 [KMM blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
-📺 [KMM YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
-📋 [KMM Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
-🤩 [KMM Samples](https://kotlinlang.org/docs/kmm-samples.html)  
+🖼 [Website](https://kotlinlang.org/lp/mobile/)  
 🚀 [Web Wizard](https://terrakok.github.io/kmp-web-wizard/)  
+📋 [Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
+📜 [Blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
+📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
+🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
 📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
 
