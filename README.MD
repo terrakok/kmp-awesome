@@ -636,6 +636,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ditchoom/buffer/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ditchoom/buffer)
 > A kotlin multiplatform library that allows you to allocate and modify byte[] natively using an API similar to Java's ByteBuffer API.
 
+[zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs 
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/zipline)](https://github.com/cashapp/zipline)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.cash.zipline/zipline/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.cash.zipline/zipline)
+> Zipline works by embedding the QuickJS JavaScript engine in your Kotlin/JVM or Kotlin/Native program. It's a small and fast JavaScript engine that's well-suited to embedding in applications.
+
 [Kase64](https://github.com/saschpe/kase64) - Base64 encoder/decoder 
 [![GitHub Repo stars](https://img.shields.io/github/stars/saschpe/kase64)](https://github.com/saschpe/kase64)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.peilicke.sascha/kase64/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.peilicke.sascha/kase64)
