@@ -218,6 +218,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.db/kodein-db/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.db/kodein-db)
 > Kodein-DB is a Kotlin/Multiplatform embedded NoSQL database that works on JVM, Android, Kotlin/Native and iOS. It is suited for client or mobile applications.
 
+[KStore](https://github.com/xxfast/KStore) - File-based object storage
+[![GitHub Repo stars](https://img.shields.io/github/stars/xxfast/KStore)](https://github.com/xxfast/KStore)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.xxfast/kstore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.xxfast/kstore/)
+> A Kotlin multiplatform library that assists in saving and restoring objects to and from disk
+
 ### 📱 Device
 [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-permissions)](https://github.com/icerockdev/moko-permissions)
