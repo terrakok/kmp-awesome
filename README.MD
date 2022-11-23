@@ -393,6 +393,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-analytics-tools/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-analytics-tools)
 > Automatically tracking and sending events of screen view and capture
 
+[Analytics](https://github.com/ppav/analytics) - analytics facade
+[![GitHub Repo stars](https://img.shields.io/github/stars/ppav/analytics)](https://github.com/ppav/analytics)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.ppav.analytics/analytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.ppav/analytics/analytics)
+> Kotlin Multiplatform library as a simple facade or abstraction for analytics.
+
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest)](https://github.com/kotest/kotest)
