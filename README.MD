@@ -380,7 +380,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [Kotlin Bloc](https://github.com/1gravity/Kotlin-Bloc) - UI framework for Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/1gravity/Kotlin-Bloc)](https://github.com/1gravity/Kotlin-Bloc)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.1gravity/bloc-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.1gravity/bloc-core)
-> Kotlin Bloc is a simple, predictable and composable UI framework for Kotlin Multiplatform supporing Android, iOS and JVM.
+> Kotlin Bloc is a simple, predictable and composable UI framework for Kotlin Multiplatform supporting Android, iOS and JVM.
 
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
