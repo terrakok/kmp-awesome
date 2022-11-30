@@ -377,6 +377,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.kuuuurt/multiplatform-paging/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.kuuuurt/multiplatform-paging)
 > A Kotlin Multiplatform library for pagination.
 
+[Kotlin Bloc](https://github.com/1gravity/Kotlin-Bloc) - UI framework for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/1gravity/Kotlin-Bloc)](https://github.com/1gravity/Kotlin-Bloc)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.1gravity/bloc-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.1gravity/bloc-core)
+> Kotlin Bloc is a simple, predictable and composable UI framework for Kotlin Multiplatform supporting Android, iOS and JVM.
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting)](https://github.com/icerockdev/moko-crash-reporting)
