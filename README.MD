@@ -136,6 +136,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/ru.pocketbyte.kydra/kydra-log/badge.svg)](https://maven-badges.herokuapp.com/maven-central/ru.pocketbyte.kydra/kydra-log)
 > Kotlin Multiplatform Library that allows to write logs in common module.
 
+[kmp-xlog](https://github.com/HackWebRTC/kmp-xlog) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/HackWebRTC/kmp-xlog)](https://github.com/HackWebRTC/kmp-xlog)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.piasy/kmp-xlog/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.piasy/kmp-xlog)
+> KMP wrapper for [tencent mars xlog](https://github.com/Tencent/mars).
+
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor)](https://github.com/ktorio/ktor)
