@@ -208,6 +208,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin)
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
 
+[Store 5](https://github.com/MobileNativeFoundation/Store) - Kotlin Library for Async Data Loading and Caching 
+[![GitHub Repo stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store)](https://github.com/MobileNativeFoundation/Store)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.mobilenativefoundation.store/store5/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.mobilenativefoundation.store/store5)
+> A Store is responsible for managing a particular data request. When you create an implementation of a Store, you provide it with a Fetcher, a function that defines how data will be fetched over network. You can also define how your Store will cache data in-memory and on-disk.
+
 [cache4k](https://github.com/ReactiveCircus/cache4k) - In-memory Cache
 [![GitHub Repo stars](https://img.shields.io/github/stars/ReactiveCircus/cache4k)](https://github.com/ReactiveCircus/cache4k)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.reactivecircus.cache4k/cache4k/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.reactivecircus.cache4k/cache4k)
