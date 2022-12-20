@@ -320,7 +320,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [Orbit MVI](https://github.com/orbit-mvi/orbit-mvi) - MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/orbit-mvi/orbit-mvi)](https://github.com/orbit-mvi/orbit-mvi)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.orbit-mvi/orbit-core/badge.svg)](https://search.maven.org/artifact/org.orbit-mvi/orbit-core)
-> Orbit is a Redux/MVI-like library for KMM, targetting Android and iOS. 
+> Orbit is a Redux/MVI-like library for KMM, targetting Android and iOS.
+
+[KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - KMM ViewModels
+[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMM-ViewModel)](https://github.com/rickclephas/KMM-ViewModel)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmm/kmm-viewmodel-core/badge.svg)](https://search.maven.org/artifact/com.rickclephas.kmm/kmm-viewmodel-core)
+> A library that allows you to share ViewModels between Android and iOS.
 
 [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) - FSM-based MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM)](https://github.com/Kontur-Mobile/VisualFSM)
