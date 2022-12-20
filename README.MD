@@ -590,6 +590,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth)
 > The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.
 
+[Sentry SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) - Sentry Kotlin Multiplatform SDK 
+[![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform)](https://github.com/getsentry/sentry-kotlin-multiplatform)
+> This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.
+
 [VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin)](https://github.com/vksdk/vk-sdk-kotlin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.petersamokhin.vksdk/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.petersamokhin.vksdk/core)
