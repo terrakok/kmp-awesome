@@ -228,6 +228,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/sqliter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/sqliter)
 > SQLiter is a SQLite driver for Kotlin Native, currently Apple and Windows variants. It is designed to serve as a driver to power user-friendly libraries rather than something to use directly. Currently SQLiter powers the SQLDelight library on native clients.
 
+[SQLlin](https://github.com/ctripcorp/SQLlin) - Low-level API for SQLite in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/ctripcorp/SQLlin)](https://github.com/ctripcorp/SQLlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ctrip.kotlin/sqllin-driver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ctrip.kotlin/sqllin-driver)
+> SQLlin is a Kotlin Multiplatform SQLite library that based on DSL and KSP. You can write SQL statements with your Kotlin code and these can be verified by Kotlin compiler.
+
 [Kodein-DB](https://github.com/Kodein-Framework/Kodein-DB) - NoSQL database
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Kodein-DB)](https://github.com/Kodein-Framework/Kodein-DB)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.db/kodein-db/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.db/kodein-db)
@@ -387,6 +392,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose)
 > Decompose is a Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components (aka BLoC), with routing functionality and pluggable UI (Jetpack Compose, Android Views, SwiftUI, JS React, etc.)
 
+[Ballast](https://github.com/copper-leaf/ballast) - State Management framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/copper-leaf/ballast)](https://github.com/copper-leaf/ballast)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.copper-leaf/ballast-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.copper-leaf/ballast-core)
+> Opinionated Application State Management framework for Kotlin Multiplatform
+
 [multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - Pagination library for KMM by `Cash App`
 [![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/multiplatform-paging)](https://github.com/cashapp/multiplatform-paging)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.cash.paging/paging-common/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.cash.paging/paging-common)
@@ -475,6 +485,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.goncalossilva/murmurhash/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.goncalossilva/murmurhash)
 > Kotlin Multiplatform (KMP) library for MurmurHash, a non-cryptographic hash function for general hash-based lookup focused on simplicity and performance.
 
+[Diglol Crypto](https://github.com/diglol/crypto) - Diglol Crypto for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/diglol/crypto)](https://github.com/diglol/crypto)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.diglol.crypto/aead/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.diglol.crypto/aead)
+> Lots of crypto algorithms for Kotlin Multiplatform.
+
 ### 📁 File
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio)](https://github.com/square/okio)
@@ -491,8 +506,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.suparnatural.kotlin/fs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.suparnatural.kotlin/fs)
 > Kotlin multiplatform file system i/o for android, iOS, Java and NodeJS
 
-### 🚀 Language extentions
-
+### 🚀 Language extensions
 [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library 
 [![GitHub Repo stars](https://img.shields.io/github/stars/arrow-kt/arrow)](https://github.com/arrow-kt/arrow)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.arrow-kt/arrow-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.arrow-kt/arrow-core)
@@ -508,6 +522,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization)](https://github.com/Kotlin/kotlinx.serialization)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core)
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
+
+[XmlUtil](https://github.com/pdvrieze/xmlutil) - Component of the XMLUtil library
+[![GitHub Repo stars](https://img.shields.io/github/stars/pdvrieze/xmlutil)](https://github.com/pdvrieze/xmlutil)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
+> XmlUtil is a set of packages that supports multiplatform XML in Kotlin.
 
 [Kotlin Object Notation](https://github.com/mpetuska/kon) - Lightweight DSL to build fluid JSON trees
 [![GitHub Repo stars](https://img.shields.io/github/stars/mpetuska/kon)](https://github.com/mpetuska/kon)
@@ -541,7 +560,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > A Kotlin Multiplatform library for working with dates and times, heavily inspired by the java.time library.
 
 ### ➿ Asynchronous
-
 [Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Kotlin coroutines
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.coroutines)](https://github.com/Kotlin/kotlinx.coroutines)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-coroutines-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-coroutines-core)
@@ -639,8 +657,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.growthbook.sdk/GrowthBook/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.growthbook.sdk/GrowthBook)
 > GrowthBook is an open-source platform for feature flagging and a/b testing built for data teams, engineers, and product managers. It's great whether you're looking to just analyze experiment results or looking to make it easier to deploy code.
 
-### 🧮 Arithmetic
+[ConfigCat](https://github.com/configcat/kotlin-sdk) - Kotlin Multiplatform SDK for ConfigCat
+[![GitHub Repo stars](https://img.shields.io/github/stars/configcat/kotlin-sdk)](https://github.com/configcat/kotlin-sdk)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client)
+> Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
 
+### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum)](https://github.com/korlibs/kbignum)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kbignum/kbignum/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.kbignum/kbignum)
@@ -652,7 +674,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
 
 ### 🛢 Resources
-
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources)](https://github.com/icerockdev/moko-resources)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.icerock.moko/resources)
@@ -669,6 +690,21 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid)](https://github.com/benasher44/uuid)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.benasher44/uuid)
 > Kotlin Multiplatform UUID generator
+
+[Uri KMP](https://github.com/eygraber/uri-kmp) - A library for working with URIs in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/uri-kmp)](https://github.com/eygraber/uri-kmp)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.eygraber/uri-kmp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.eygraber/uri-kmp)
+> A library for working with URIs in Kotlin Multiplatform
+
+[Diglol Encoding](https://github.com/diglol/encoding) - Common encodings for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/diglol/encoding)](https://github.com/diglol/encoding)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.diglol.encoding/encoding/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.diglol.encoding/encoding)
+> Diglol Encoding provides Hex/Base16, Base32, Base64 encodings for Kotlin Multiplatform.
+
+[Diglol Id](https://github.com/diglol/id) - A global Id generator for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/diglol/id)](https://github.com/diglol/id)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.diglol.id/id/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.diglol.id/id)
+> A global Id generator for Kotlin Multiplatform. It modifies the timestamp to 5 bytes based on Xid.
 
 [ByteBuffer](https://github.com/DitchOoM/buffer) - Kotlin Multiplatform bytebuffer/byte[] wrapper 
 [![GitHub Repo stars](https://img.shields.io/github/stars/DitchOoM/buffer)](https://github.com/DitchOoM/buffer)
