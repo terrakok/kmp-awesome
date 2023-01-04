@@ -213,6 +213,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.mobilenativefoundation.store/store5/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.mobilenativefoundation.store/store5)
 > A Store is responsible for managing a particular data request. When you create an implementation of a Store, you provide it with a Fetcher, a function that defines how data will be fetched over network. You can also define how your Store will cache data in-memory and on-disk.
 
+[Flower](https://github.com/hadiyarajesh/flower) - Flower simplifies networking and database caching on Android/Multiplatform. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/hadiyarajesh/flower)](https://github.com/hadiyarajesh/flower)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.hadiyarajesh.flower-core/flower-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.hadiyarajesh.flower-core/flower-core)
+> Flower is a Kotlin multi-platform library that makes networking and database caching easy. It enables developers to fetch network resources and use them as is OR combine them with local database at single place with fault-tolerant architecture.
+
 [cache4k](https://github.com/ReactiveCircus/cache4k) - In-memory Cache
 [![GitHub Repo stars](https://img.shields.io/github/stars/ReactiveCircus/cache4k)](https://github.com/ReactiveCircus/cache4k)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.reactivecircus.cache4k/cache4k/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.reactivecircus.cache4k/cache4k)
