@@ -618,6 +618,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.gitlive/firebase-auth)
 > The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.
 
+[openai-kotlin](https://github.com/Aallam/openai-kotlin) - OpenAI SDK 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Aallam/openai-kotlin)](https://github.com/Aallam/openai-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.aallam.openai/openai-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.aallam.openai/openai-client)
+> Kotlin client for [OpenAI's API](https://beta.openai.com/docs/api-reference) with multiplatform and coroutines capabilities.
+
 [Sentry SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) - Sentry Kotlin Multiplatform SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform)](https://github.com/getsentry/sentry-kotlin-multiplatform)
 > This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.
