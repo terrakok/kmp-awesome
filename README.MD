@@ -98,6 +98,9 @@ necessary. For example, to implement a native UI or when working with platform-s
 #### 🛠 [KDoctor](https://github.com/Kotlin/kdoctor) command-line tool
 > KDoctor is a command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development. It ensures that all required components are properly installed and ready for use. If something is missed or not configured Kdoctor highlights the problem and suggests how to fix the problem.
 
+#### 🛠 [Swift Klib](https://github.com/ttypic/swift-klib-plugin) gradle plugin
+> Gradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.
+
 ## Libraries
 
 ### 📋 Log
