@@ -638,11 +638,21 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core)
 > Library to use Kotlin Coroutines from Swift code in KMP apps
 
-### 🎵 Audio
-[Korau](https://github.com/korlibs/korau) - Kotlin cORoutines AUdio
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korau)](https://github.com/korlibs/korau)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
-> Pure Kotlin WAV, MP3 and OGG vorbis decoders
+### 🍎 Compose UI
+[Voyager](https://github.com/adrielcafe/voyager) Compose Navigation. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/adrielcafe/voyager)](https://github.com/adrielcafe/voyager)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core)
+> A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose.
+
+[Libres-Compose](https://github.com/Skeptick/libres) Resources generation in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres)](https://github.com/Skeptick/libres)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose)
+> This artifact provides painterResource function that can be used to get Painter from io.github.skeptick.libres.Image in common code.
+
+[Compose-Imageloader](https://github.com/qdsfdhvh/compose-imageloader) Compose Image library for Kotlin Multiplatform. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/qdsfdhvh/compose-imageloader)](https://github.com/qdsfdhvh/compose-imageloader)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
+> Compose Image library for Kotlin Multiplatform.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
@@ -814,6 +824,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/chopyourbrain/kontrol)](https://github.com/chopyourbrain/kontrol)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.chopyourbrain/kontrol/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.chopyourbrain/kontrol/)
 > Kotlin Multiplatform library for creating a debugging menu.
+
+[Korau](https://github.com/korlibs/korau) - Kotlin cORoutines AUdio
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korau)](https://github.com/korlibs/korau)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
+> Pure Kotlin WAV, MP3 and OGG vorbis decoders
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
