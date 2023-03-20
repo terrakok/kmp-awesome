@@ -60,45 +60,56 @@ necessary. For example, to implement a native UI or when working with platform-s
   </tr>
 </table>
 
-## Tooling
+### 🛠 Tooling
 
-#### 🛠 [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
+[Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
 > The Kotlin Multiplatform Mobile (KMM) plugin helps you develop applications that work on both Android and iOS.
 
-#### 🛠 [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/17098-kotlin-multiplatform-mobile-for-appcode/) for AppCode
-> The Kotlin Multiplatform Mobile (KMM) plugin for AppCode helps you develop applications for Android and iOS using the unified Gradle project model.
-
-#### 🛠 [CocoaPods](https://kotlinlang.org/docs/native-cocoapods.html) integration
+[CocoaPods](https://kotlinlang.org/docs/native-cocoapods.html) integration
 > Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).
 
-#### 🛠 [Swift Package](https://github.com/PaGr0m/kotlin-spm-plugin) integration
+[Swift Package](https://github.com/PaGr0m/kotlin-spm-plugin) integration 
+[![GitHub Repo stars](https://img.shields.io/github/stars/PaGr0m/kotlin-spm-plugin)](https://github.com/PaGr0m/kotlin-spm-plugin)
 > This gradle plugin provides two-way interoperability between Kotlin dependencies and Kotlin-based Swift Package Multiplatform.
 
-#### 🛠 [Carthage](https://github.com/wireapp/carthage-gradle-plugin) integration
+[Carthage](https://github.com/wireapp/carthage-gradle-plugin) integration 
+[![GitHub Repo stars](https://img.shields.io/github/stars/wireapp/carthage-gradle-plugin)](https://github.com/wireapp/carthage-gradle-plugin)
 > Adds support for integrating Carthage dependencies into a KMM project.
 
-#### 🛠 [MOKO KSwift](https://github.com/icerockdev/moko-kswift) gradle plugin
+[Libres](https://github.com/Skeptick/libres) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres)](https://github.com/Skeptick/libres)
+> String/Image resources generation in Kotlin Multiplatform.
+
+[MOKO KSwift](https://github.com/icerockdev/moko-kswift) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-kswift)](https://github.com/icerockdev/moko-kswift)
 > KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.
 
-#### 🛠 [CompleteKotlin](https://github.com/LouisCAD/CompleteKotlin) gradle plugin
+[CompleteKotlin](https://github.com/LouisCAD/CompleteKotlin) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/LouisCAD/CompleteKotlin)](https://github.com/LouisCAD/CompleteKotlin)
 > Gradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.
 
-#### 🛠 [gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin) gradle plugin
+[gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/gmazzo/gradle-buildconfig-plugin)](https://github.com/gmazzo/gradle-buildconfig-plugin)
 > A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts. 
 
-#### 🛠 [BuildKonfig](https://github.com/yshrsmz/BuildKonfig) gradle plugin
+[BuildKonfig](https://github.com/yshrsmz/BuildKonfig) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/yshrsmz/BuildKonfig)](https://github.com/yshrsmz/BuildKonfig)
 > BuildConfig for Kotlin Multiplatform Project
 
-#### 🛠 [Kotlin Native Xcode Support](https://github.com/touchlab/xcode-kotlin)
+[Kotlin Native Xcode Support](https://github.com/touchlab/xcode-kotlin) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/xcode-kotlin)](https://github.com/touchlab/xcode-kotlin)
 > Plugin to facilitate debugging iOS applications using Kotlin Native in Xcode. Defines Kotlin files as source code, with basic highlighting. Allows you to set breakpoints and includes llvm support to view data in the debug window. Xcode does not officially support custom language definitions, but they also don't explicitly block them.
 
-#### 🛠 [Dokka](https://github.com/Kotlin/dokka) documentation generation tool
+[Dokka](https://github.com/Kotlin/dokka) documentation generation tool 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/dokka)](https://github.com/Kotlin/dokka)
 > Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.
 
-#### 🛠 [KDoctor](https://github.com/Kotlin/kdoctor) command-line tool
+[KDoctor](https://github.com/Kotlin/kdoctor) command-line tool 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kdoctor)](https://github.com/Kotlin/kdoctor)
 > KDoctor is a command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development. It ensures that all required components are properly installed and ready for use. If something is missed or not configured Kdoctor highlights the problem and suggests how to fix the problem.
 
-#### 🛠 [Swift Klib](https://github.com/ttypic/swift-klib-plugin) gradle plugin
+[Swift Klib](https://github.com/ttypic/swift-klib-plugin) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/ttypic/swift-klib-plugin)](https://github.com/ttypic/swift-klib-plugin)
 > Gradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.
 
 ## Libraries
