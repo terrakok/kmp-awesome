@@ -49,7 +49,7 @@ necessary. For example, to implement a native UI or when working with platform-s
     <td><a href="https://github.com/terrakok/kmm-awesome#-Asynchronous">➿ Asynchronous</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Audio">🎵 Audio</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-compose-ui">🍎 Compose UI</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-Graphics">🎨 Graphics</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-Service-SDK">🧩 Service SDK</a></td>
   </tr>
