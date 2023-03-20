@@ -112,6 +112,10 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![GitHub Repo stars](https://img.shields.io/github/stars/ttypic/swift-klib-plugin)](https://github.com/ttypic/swift-klib-plugin)
 > Gradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.
 
+[parcelize-darwin](https://github.com/arkivanov/parcelize-darwin) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/parcelize-darwin)](https://github.com/arkivanov/parcelize-darwin)
+> Kotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets. Allows writing Parcelable classes for all Darwin targets, similary to the Android's kotlin-parcelize plugin. Can be also used together with the kotlin-parcelize plugin to write Parcelable classes in the commonMain source set.
+
 ## Libraries
 
 ### 📋 Log
