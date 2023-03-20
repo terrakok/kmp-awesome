@@ -415,6 +415,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.copper-leaf/ballast-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.copper-leaf/ballast-core)
 > Opinionated Application State Management framework for Kotlin Multiplatform
 
+[Essenty/Lifecycle](https://github.com/arkivanov/Essenty#lifecyle) - lifecycle handling in the Kotlin Multiplatform common code 
+[![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/Essenty)](https://github.com/arkivanov/Essenty)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.essenty/lifecycle/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.essenty/lifecycle)
+> Essenty provides the Lifecycle API to help with lifecycle handling in the common code. It is very similar to Android Activity lifecycle.
+
 [multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - Pagination library for KMM by `Cash App`
 [![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/multiplatform-paging)](https://github.com/cashapp/multiplatform-paging)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/app.cash.paging/paging-common/badge.svg)](https://maven-badges.herokuapp.com/maven-central/app.cash.paging/paging-common)
@@ -560,6 +565,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/pdvrieze/xmlutil)](https://github.com/pdvrieze/xmlutil)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
 > XmlUtil is a set of packages that supports multiplatform XML in Kotlin.
+
+[Essenty/Parcelable](https://github.com/arkivanov/Essenty#parcelable-and-parcelize) - @Parcelize annotation for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/Essenty)](https://github.com/arkivanov/Essenty)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.essenty/parcelable/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.essenty/parcelable)
+> Essenty brings both Android Parcelable interface and the `@Parcelize` annotation from kotlin-parcelize compiler plugin to Kotlin Multiplatform, so they both can be used in common code. 
 
 [Kotlin Object Notation](https://github.com/mpetuska/kon) - Lightweight DSL to build fluid JSON trees
 [![GitHub Repo stars](https://img.shields.io/github/stars/mpetuska/kon)](https://github.com/mpetuska/kon)
