@@ -659,6 +659,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
 > Compose Image library for Kotlin Multiplatform.
 
+[Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
+[![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/MaterialThemePrefs)](https://github.com/softartdev/MaterialThemePrefs)
+![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)
+> Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
