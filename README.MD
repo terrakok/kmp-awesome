@@ -329,6 +329,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kodein.di/kodein-di/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kodein.di/kodein-di)
 > Kodein-DI is a very simple and yet very useful dependency retrieval container.
 
+[kotlin-inject](https://github.com/evant/kotlin-inject) - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/evant/kotlin-inject)](https://github.com/evant/kotlin-inject)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.tatarka.inject/kotlin-inject-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/me.tatarka.inject/kotlin-inject-runtime)
+> A compile-time dependency injection library for kotlin.
+
 [DI.kt](https://github.com/sergeshustoff/dikt) - DI for kotlin multiplatform 
 [![GitHub Repo stars](https://img.shields.io/github/stars/sergeshustoff/dikt)](https://github.com/sergeshustoff/dikt)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.sergeshustoff.dikt/dikt-compiler-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.sergeshustoff.dikt/dikt-compiler-plugin)
