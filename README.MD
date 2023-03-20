@@ -493,6 +493,21 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.diglol.crypto/aead/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.diglol.crypto/aead)
 > Lots of crypto algorithms for Kotlin Multiplatform.
 
+[KotlinCrypto/MACs](https://github.com/KotlinCrypto/MACs) - Message Authentication Code algorithms for Kotlin Multiplatform 
+[![GitHub Repo stars](https://img.shields.io/github/stars/KotlinCrypto/MACs)](https://github.com/KotlinCrypto/MACs)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto.macs/hmac/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto.macs/hmac)
+> Message Authentication Code algorithms for Kotlin Multiplatform: HmacMD5, HmacSHA1, HmacSHA224, HmacSHA256, HmacSHA384, HmacSHA512, HmacSHA512/224, HmacSHA512/256
+
+[KotlinCrypto/hash](https://github.com/KotlinCrypto/hash) - Cryptographic hash functions for Kotlin Multiplatform 
+[![GitHub Repo stars](https://img.shields.io/github/stars/KotlinCrypto/hash)](https://github.com/KotlinCrypto/hash)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto.hash/md5/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto.hash/md5)
+> Cryptographic hash functions for Kotlin Multiplatform: MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224, SHA-512/256
+
+[KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - cryptographically secure random data from system sources 
+[![GitHub Repo stars](https://img.shields.io/github/stars/KotlinCrypto/secure-random)](https://github.com/KotlinCrypto/secure-random)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto/secure-random/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto/secure-random)
+> Kotlin Multiplatform library for obtaining cryptographically secure random data from the system. Modeled after Java's SecureRandom class, it provides a simple API surface area. Under the hood it utilizes system functions so that SecureRandom is accessible from common code.
+
 ### 📁 File
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio)](https://github.com/square/okio)
@@ -628,6 +643,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [Sentry SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) - Sentry Kotlin Multiplatform SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform)](https://github.com/getsentry/sentry-kotlin-multiplatform)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.sentry/sentry-kotlin-multiplatform/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.sentry/sentry-kotlin-multiplatform)
 > This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.
 
 [VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK 
