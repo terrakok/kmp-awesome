@@ -661,7 +661,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
 [![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/MaterialThemePrefs)](https://github.com/softartdev/MaterialThemePrefs)
-![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs)
 > Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.
 
 ### 🎨 Graphics
