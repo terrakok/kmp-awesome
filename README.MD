@@ -495,7 +495,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ### 🔑 Crypto
 [Cryptography-Kotlin](https://github.com/whyoleg/cryptography-kotlin) - Type-safe Multiplatform cryptography library for Kotlin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/whyoleg/cryptography-kotlin)](https://github.com/whyoleg/cryptography-kotlin)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.whyoleg.cryptography/cryptography-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.whyoleg.cryptography/cryptography-core)
 > The library doesn’t implement any cryptography algorithm on its own, but wraps well-known future-proof solutions like OpenSSL 3.x, WebCrypto or JCA with type-safe multiplatform API providing uniform experience with aligned default behavior, and same expected results using identical parameters while allowing to use platform-specific capabilities.
 
 [Libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Libsodium bindings for Kotlin Multiplatform
