@@ -493,6 +493,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Kotlin Multiplatform snapshot ((c|k)lip) manager for tests. Automatically generates and asserts against a persistent Any::toString() representation of the object until you explicitly trigger an update. Powered by kotlin compiler plugin to inject relevant keys and paths.
 
 ### 🔑 Crypto
+[Cryptography-Kotlin](https://github.com/whyoleg/cryptography-kotlin) - Type-safe Multiplatform cryptography library for Kotlin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/whyoleg/cryptography-kotlin)](https://github.com/whyoleg/cryptography-kotlin)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
+> The library doesn’t implement any cryptography algorithm on its own, but wraps well-known future-proof solutions like OpenSSL 3.x, WebCrypto or JCA with type-safe multiplatform API providing uniform experience with aligned default behavior, and same expected results using identical parameters while allowing to use platform-specific capabilities.
+
 [Libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Libsodium bindings for Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium)](https://github.com/ionspin/kotlin-multiplatform-libsodium)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
