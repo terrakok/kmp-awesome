@@ -350,6 +350,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.mvikotlin/mvikotlin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.mvikotlin/mvikotlin)
 > MVIKotlin is a Kotlin Multiplatform framework that provides a way of (not only) writing shared code using MVI pattern. It also includes powerful debug tools like logging and time travel.
 
+[D-KMP Architecture](https://github.com/dbaroncelli/D-KMP-sample) - MVI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/dbaroncelli/D-KMP-sample)](https://github.com/dbaroncelli/D-KMP-sample)
+> KMP architecture using Compose and SwiftUI. Targetting Android, iOS and Desktop. It will also target the Web using Kotlin/Wasm soon.
+It fully shares the ViewModel (including navigation logic and data layer) via Kotlin MultiPlatform. Coroutine scopes are cancelled/reinitialized automatically, based on the current active screens and the app lifecycle (using LifecycleObserver on Android and the SwiftUI lifecycle on iOS).
+ 
 [Orbit MVI](https://github.com/orbit-mvi/orbit-mvi) - MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/orbit-mvi/orbit-mvi)](https://github.com/orbit-mvi/orbit-mvi)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.orbit-mvi/orbit-core/badge.svg)](https://search.maven.org/artifact/org.orbit-mvi/orbit-core)
