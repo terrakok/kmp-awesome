@@ -654,7 +654,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > A Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.
 
 ### 🍎 Compose UI
-[Voyager](https://github.com/adrielcafe/voyager) Compose Navigation. 
+[Voyager](https://github.com/adrielcafe/voyager) Compose Multiplatform Navigation. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/adrielcafe/voyager)](https://github.com/adrielcafe/voyager)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core)
 > A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose.
@@ -668,6 +668,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/qdsfdhvh/compose-imageloader)](https://github.com/qdsfdhvh/compose-imageloader)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
 > Compose Image library for Kotlin Multiplatform.
+
+[Compose Icons](https://github.com/DevSrSouza/compose-icons) Open Source icon packs for Compose Multiplatform. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/DevSrSouza/compose-icons)](https://github.com/DevSrSouza/compose-icons)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
+> Compose Multiplatform icons is a pack of libraries that provide well known Icon Packs. The library usage is inspired by Compose Material Icons.
 
 [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
 [![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/MaterialThemePrefs)](https://github.com/softartdev/MaterialThemePrefs)
