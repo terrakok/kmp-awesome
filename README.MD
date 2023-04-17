@@ -671,7 +671,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [Compose Icons](https://github.com/DevSrSouza/compose-icons) Open Source icon packs for Compose Multiplatform. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/DevSrSouza/compose-icons)](https://github.com/DevSrSouza/compose-icons)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/br.com.devsrsouza.compose.icons.jetbrains/simple-icons/badge.svg)](https://maven-badges.herokuapp.com/maven-central/br.com.devsrsouza.compose.icons.jetbrains/simple-icons)
 > Compose Multiplatform icons is a pack of libraries that provide well known Icon Packs. The library usage is inspired by Compose Material Icons.
 
 [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
