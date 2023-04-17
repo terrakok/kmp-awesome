@@ -648,6 +648,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/kmp-nativecoroutines-core)
 > Library to use Kotlin Coroutines from Swift code in KMP apps
 
+[FlowExt](https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions
+[![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/FlowExt)](https://github.com/hoc081098/FlowExt)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.hoc081098/FlowExt/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.hoc081098/FlowExt)
+> A Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.
+
 ### 🍎 Compose UI
 [Voyager](https://github.com/adrielcafe/voyager) Compose Navigation. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/adrielcafe/voyager)](https://github.com/adrielcafe/voyager)
