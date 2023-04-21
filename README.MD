@@ -612,6 +612,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.islandtime/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.islandtime/core)
 > A Kotlin Multiplatform library for working with dates and times, heavily inspired by the java.time library.
 
+[Kronos Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Network Time Protocol (NTP) client
+[![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/Kronos-Multiplatform)](https://github.com/softartdev/Kronos-Multiplatform)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/kronos/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/kronos)
+> Kotlin Multiplatform library for network time synchronization. Extension for [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) library.
+
 ### ➿ Asynchronous
 [Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Kotlin coroutines
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.coroutines)](https://github.com/Kotlin/kotlinx.coroutines)
