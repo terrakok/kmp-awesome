@@ -684,6 +684,9 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs)
 > Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.
 
+[Jetpack Compose Components](https://www.composables.com/components) All Jetpack Compose components.
+> Website with all available Jetpack Compose components you can use in your projects.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
