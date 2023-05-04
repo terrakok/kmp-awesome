@@ -415,6 +415,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.decompose/decompose)
 > Decompose is a Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components (aka BLoC), with routing functionality and pluggable UI (Jetpack Compose, Android Views, SwiftUI, JS React, etc.)
 
+[Decompose-Router](https://github.com/xxfast/Decompose-Router) - navigation
+[![GitHub Repo stars](https://img.shields.io/github/stars/xxfast/Decompose-Router)](https://github.com/xxfast/Decompose-Router)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.xxfast/decompose-router/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.xxfast/decompose-router/)
+> A Compose-multiplatform navigation library that leverage Decompose to create an API inspired by Conductor
+
 [Ballast](https://github.com/copper-leaf/ballast) - State Management framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/copper-leaf/ballast)](https://github.com/copper-leaf/ballast)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.copper-leaf/ballast-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.copper-leaf/ballast-core)
