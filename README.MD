@@ -587,6 +587,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
 > XmlUtil is a set of packages that supports multiplatform XML in Kotlin.
 
+[Ksoup](https://github.com/MohamedRejeb/ksoup) - Kotlin Multiplatform HTML Parser
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/ksoup)](https://github.com/MohamedRejeb/ksoup)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.ksoup/ksoup-html/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.ksoup/ksoup-html)
+> Ksoup is a lightweight Kotlin Multiplatform library for parsing HTML, extracting HTML tags, attributes, and text, and encoding and decoding HTML entities. 
+
 [Essenty/Parcelable](https://github.com/arkivanov/Essenty#parcelable-and-parcelize) - @Parcelize annotation for Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/Essenty)](https://github.com/arkivanov/Essenty)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.essenty/parcelable/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.arkivanov.essenty/parcelable)
