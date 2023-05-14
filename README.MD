@@ -14,6 +14,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 ## Resources
 🖼 [Website](https://kotlinlang.org/lp/mobile/)  
 🚀 [Web Wizard](https://terrakok.github.io/kmp-web-wizard/)  
+🍏 [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)  
 📋 [Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
 📜 [Blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
