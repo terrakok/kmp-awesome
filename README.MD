@@ -440,6 +440,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.1gravity/bloc-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.1gravity/bloc-core)
 > Kotlin Bloc is a simple, predictable and composable UI framework for Kotlin Multiplatform supporting Android, iOS and JVM.
 
+[kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - Kotlin Multiplatform ViewModel
+[![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/kmp-viewmodel)](https://github.com/hoc081098/kmp-viewmodel)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.hoc081098/kmp-viewmodel/badge.svg)](https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel/)
+> A Kotlin Multiplatform library that provides shared MVVM. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting)](https://github.com/icerockdev/moko-crash-reporting)
