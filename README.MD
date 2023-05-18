@@ -462,6 +462,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios/badge.svg)](https://maven-badges.herokuapp.com/maven-central/co.touchlab/crashkios)
 > Thin library that provides symbolicated crash reports for Kotlin code on iOS.
 
+[NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - Better crash reports on Apple platforms
+[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/NSExceptionKt)](https://github.com/rickclephas/NSExceptionKt)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/nsexception-kt-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmp/nsexception-kt-core)
+> Unhandled Kotlin exceptions logging for Apple platforms.
+
 [abc-kmm-analytics-tools](https://github.com/line/abc-kmm-analytics-tools) - Analytics Tools 
 [![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-analytics-tools)](https://github.com/line/abc-kmm-analytics-tools)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-analytics-tools/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.linecorp.abc/kmm-analytics-tools)
