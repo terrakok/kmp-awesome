@@ -700,6 +700,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/br.com.devsrsouza.compose.icons/simple-icons/badge.svg)](https://maven-badges.herokuapp.com/maven-central/br.com.devsrsouza.compose.icons/simple-icons)
 > Compose Multiplatform icons is a pack of libraries that provide well known Icon Packs. The library usage is inspired by Compose Material Icons.
 
+[Compose Rich Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) Provides Rich Editor component for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor)](https://github.com/MohamedRejeb/Compose-Rich-Editor)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.richeditor/richeditor-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.richeditor/richeditor-compose)
+> A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
+
 [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
 [![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/MaterialThemePrefs)](https://github.com/softartdev/MaterialThemePrefs)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs)
