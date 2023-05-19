@@ -696,7 +696,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Compose Multiplatform icons is a pack of libraries that provide well known Icon Packs. The library usage is inspired by Compose Material Icons.
 
 [Compose Rich Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) Provides Rich Editor component for Compose Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor)](https://github.com/softartdev/MaterialThemePrefs)
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor)](https://github.com/MohamedRejeb/Compose-Rich-Editor)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.richeditor/richeditor-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.MohamedRejeb/Compose-Rich-Editor)
 > A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 
