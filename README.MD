@@ -690,6 +690,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose)
 > This artifact provides painterResource function that can be used to get Painter from io.github.skeptick.libres.Image in common code.
 
+[InsetsX](https://github.com/mori-atsushi/insetsx) WindowInsets
+[![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/insetsx)](https://github.com/mori-atsushi/insetsx)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.insetsx/insetsx/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.insetsx/insetsx)
+> InsetsX provides a WindowInsets utility for Compose Multiplatform.
+
 [Compose-Imageloader](https://github.com/qdsfdhvh/compose-imageloader) Compose Image library for Kotlin Multiplatform. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/qdsfdhvh/compose-imageloader)](https://github.com/qdsfdhvh/compose-imageloader)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
