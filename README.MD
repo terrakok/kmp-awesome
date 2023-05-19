@@ -697,7 +697,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [Compose Rich Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) Provides Rich Editor component for Compose Multiplatform.
 [![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor)](https://github.com/MohamedRejeb/Compose-Rich-Editor)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.richeditor/richeditor-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.MohamedRejeb/Compose-Rich-Editor)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.richeditor/richeditor-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.richeditor/richeditor-compose)
 > A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 
 [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
