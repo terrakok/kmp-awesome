@@ -891,6 +891,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.soywiz.korlibs.korau/korau)
 > Pure Kotlin WAV, MP3 and OGG vorbis decoders
 
+[Kim](https://github.com/realAshampoo/kim) - Kotlin Image Metadata
+[![GitHub Repo stars](https://img.shields.io/github/stars/realAshampoo/kim)](https://github.com/realAshampoo/kim)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/kim/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/kim)
+> Kotlin Multiplatform library for reading and writing image metadata
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
