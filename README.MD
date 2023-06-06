@@ -700,6 +700,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.qdsfdhvh/image-loader)
 > Compose Image library for Kotlin Multiplatform.
 
+[Kamel](https://github.com/Kamel-Media/Kamel) Compose Multiplatform image loading.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kamel-Media/Kamel)](https://github.com/Kamel-Media/Kamel)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/media.kamel/kamel-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/media.kamel/kamel-core)
+> An asynchronous media loading library for Compose Multiplatform.
+
 [Compose Icons](https://github.com/DevSrSouza/compose-icons) Open Source icon packs for Compose Multiplatform. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/DevSrSouza/compose-icons)](https://github.com/DevSrSouza/compose-icons)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/br.com.devsrsouza.compose.icons/simple-icons/badge.svg)](https://maven-badges.herokuapp.com/maven-central/br.com.devsrsouza.compose.icons/simple-icons)
