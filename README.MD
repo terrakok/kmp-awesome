@@ -477,7 +477,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.ppav.analytics/analytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.ppav/analytics/analytics)
 > Kotlin Multiplatform library as a simple facade or abstraction for analytics.
 
-[trckr](https://github.com/dzmpr/trckr) - zero-boilerplaite way to collect analytics across platforms
+[trckr](https://github.com/dzmpr/trckr) - KSP processor
 [![GitHub Repo stars](https://img.shields.io/github/stars/dzmpr/trckr)](https://github.com/dzmpr/trckr)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/ru.cookedapp.trckr/trckr-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/ru.cookedapp.trckr/trckr-core)
 > KSP processer that simplifies the collection of analytics
