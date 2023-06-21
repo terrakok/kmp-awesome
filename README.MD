@@ -720,6 +720,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs)
 > Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.
 
+[Drag Select Compose](https://github.com/jordond/drag-select-compose) Google Photos style drag-to-select multi-selection.
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/drag-select-compose)](https://github.com/jordond/drag-select-compose)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.dragselectcompose/dragselect/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.dragselectcompose/dragselect)
+> Compose Multiplatform library that allows you to easily implement a "Google Photos"-style multi-selection in
+your Compose apps.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
