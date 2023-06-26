@@ -907,6 +907,14 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/kim/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/kim)
 > Kotlin Multiplatform library for reading and writing image metadata
 
+[ktmpwasm](https://github.com/Yeicor/ktmpwasm) - A WebAssembly interpreter in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Yeicor/ktmpwasm)](https://github.com/Yeicor/ktmpwasm)
+> Executes WebAssembly on all platforms supported by Kotlin Multiplatform.
+
+[Kraphviz](https://github.com/Yeicor/kraphviz) - Graphviz for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Yeicor/kraphviz)](https://github.com/Yeicor/kraphviz)
+> Graphviz compiled to WebAssembly and then embedded and interpreted in a Kotlin Multiplatform library.
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
