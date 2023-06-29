@@ -19,6 +19,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 📜 [Blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
+🗄 [Jetpack Compose Components](https://www.composables.com/components)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
 📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
 
