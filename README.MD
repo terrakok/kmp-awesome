@@ -18,6 +18,7 @@ necessary. For example, to implement a native UI or when working with platform-s
 📜 [Blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
+🗄 [Jetpack Compose Components](https://www.composables.com/components)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
 📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
 
@@ -683,9 +684,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/MaterialThemePrefs)](https://github.com/softartdev/MaterialThemePrefs)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.softartdev/material-theme-prefs)
 > Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.
-
-[Jetpack Compose Components](https://www.composables.com/components) All Jetpack Compose components.
-> Website with all available Jetpack Compose components you can use in your projects.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
