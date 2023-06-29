@@ -335,6 +335,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.tatarka.inject/kotlin-inject-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/me.tatarka.inject/kotlin-inject-runtime)
 > A compile-time dependency injection library for kotlin.
 
+[Koject](https://github.com/evant/kotlin-inject) - KSP DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/koject)](https://github.com/mori-atsushi/koject)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.koject/koject-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.koject/koject-core)
+> Koject is a DI Container Library for Kolin Multiplatform using KSP.
+
 [DI.kt](https://github.com/sergeshustoff/dikt) - DI for kotlin multiplatform 
 [![GitHub Repo stars](https://img.shields.io/github/stars/sergeshustoff/dikt)](https://github.com/sergeshustoff/dikt)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.sergeshustoff.dikt/dikt-compiler-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.sergeshustoff.dikt/dikt-compiler-plugin)
@@ -694,6 +699,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/insetsx)](https://github.com/mori-atsushi/insetsx)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.insetsx/insetsx/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.insetsx/insetsx)
 > InsetsX provides a WindowInsets utility for Compose Multiplatform.
+
+[Window Size Class](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) Window Size Class
+[![GitHub Repo stars](https://img.shields.io/github/stars/chrisbanes/material3-windowsizeclass-multiplatform)](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.chrisbanes.material3/material3-window-size-class-multiplatform/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.chrisbanes.material3/material3-window-size-class-multiplatform)
+> Compose Multiplatform: Material 3 Window Size Class
 
 [Compose-Imageloader](https://github.com/qdsfdhvh/compose-imageloader) Compose Image library for Kotlin Multiplatform. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/qdsfdhvh/compose-imageloader)](https://github.com/qdsfdhvh/compose-imageloader)
