@@ -514,6 +514,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.petuska/klip/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.petuska/klip)
 > Kotlin Multiplatform snapshot ((c|k)lip) manager for tests. Automatically generates and asserts against a persistent Any::toString() representation of the object until you explicitly trigger an update. Powered by kotlin compiler plugin to inject relevant keys and paths.
 
+[Assertk](https://github.com/willowtreeapps/assertk) - Fluent assertions library
+[![GitHub Repo stars](https://img.shields.io/github/stars/willowtreeapps/assertk)](https://github.com/willowtreeapps/assertk)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.willowtreeapps.assertk/assertk/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.willowtreeapps.assertk/assertk)
+> Fluent assertions library for Kotlin with full Multiplatform support.
+
 ### 🔑 Crypto
 [Cryptography-Kotlin](https://github.com/whyoleg/cryptography-kotlin) - Type-safe Multiplatform cryptography library for Kotlin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/whyoleg/cryptography-kotlin)](https://github.com/whyoleg/cryptography-kotlin)
