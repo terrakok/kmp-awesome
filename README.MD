@@ -742,6 +742,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Compose Multiplatform library that allows you to easily implement a "Google Photos"-style multi-selection in
 your Compose apps.
 
+[MaterialKolor](https://github.com/jordond/materialkolor) Google Photos style drag-to-select multi-selection.
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/materialkolor)](https://github.com/jordond/materialkolor)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.materialkolor/material-kolor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.materialkolor/material-kolor)
+> Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
