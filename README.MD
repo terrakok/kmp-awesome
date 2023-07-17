@@ -118,6 +118,10 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/parcelize-darwin)](https://github.com/arkivanov/parcelize-darwin)
 > Kotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets. Allows writing Parcelable classes for all Darwin targets, similary to the Android's kotlin-parcelize plugin. Can be also used together with the kotlin-parcelize plugin to write Parcelable classes in the commonMain source set.
 
+[AboutLibraries](https://github.com/mikepenz/AboutLibraries) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/AboutLibraries)](https://github.com/mikepenz/AboutLibraries)
+> Collects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.
+
 ## Libraries
 
 ### 📋 Log
