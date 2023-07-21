@@ -695,6 +695,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > A Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.
 
 ### 🍎 Compose UI
+[Appyx](https://github.com/bumble-tech/appyx) Navigation, transition animations, gestures, UI components.
+[![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx)](https://github.com/bumble-tech/appyx)
+[![Maven Central](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)
+> Model-driven navigation + UI components with gesture control for Compose Multiplatform
+
 [Voyager](https://github.com/adrielcafe/voyager) Compose Multiplatform Navigation. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/adrielcafe/voyager)](https://github.com/adrielcafe/voyager)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core)
