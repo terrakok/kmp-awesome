@@ -340,7 +340,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.tatarka.inject/kotlin-inject-runtime/badge.svg)](https://maven-badges.herokuapp.com/maven-central/me.tatarka.inject/kotlin-inject-runtime)
 > A compile-time dependency injection library for kotlin.
 
-[Koject](https://github.com/evant/kotlin-inject) - KSP DI framework
+[Koject](https://github.com/mori-atsushi/koject) - KSP DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/koject)](https://github.com/mori-atsushi/koject)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.koject/koject-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.moriatsushi.koject/koject-core)
 > Koject is a DI Container Library for Kolin Multiplatform using KSP.
