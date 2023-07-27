@@ -27,38 +27,38 @@ necessary. For example, to implement a native UI or when working with platform-s
 <table>
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#tooling">🛠 Tooling</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Log">📋 Log</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Network">🌎 Network</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-log">📋 Log</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-network">🌎 Network</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Storage">📦 Storage</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Device">📱 Device</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Dependency-Injection">💉 Dependency Injection</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-storage">📦 Storage</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-device">📱 Device</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-dependency-injection">💉 Dependency Injection</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Architecture">🏗 Architecture</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Analytics">🔍 Analytics</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Test">🩺 Test</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-architecture">🏗 Architecture</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-analytics">🔍 Analytics</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-test">🩺 Test</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Crypto">🔑 Crypto</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-File">📁 File</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Language-extentions">🚀 Language extentions</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-crypto">🔑 Crypto</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-file">📁 File</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extentions">🚀 Language extentions</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Serializer">🗃 Serializer</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Date-Time">⏰ Date-Time</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Asynchronous">➿ Asynchronous</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-serializer">🗃 Serializer</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-date-time">⏰ Date-Time</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-asynchronous">➿ Asynchronous</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#-compose-ui">🍎 Compose UI</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Graphics">🎨 Graphics</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Service-SDK">🧩 Service SDK</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-graphics">🎨 Graphics</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-service-sdk">🧩 Service SDK</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Arithmetic">🧮 Arithmetic</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Resources">🛢 Resources</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-Utils">🔧 Utils</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-arithmetic">🧮 Arithmetic</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-resources">🛢 Resources</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-utils">🔧 Utils</a></td>
   </tr>
 </table>
 
