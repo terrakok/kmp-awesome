@@ -267,6 +267,11 @@ necessary. For example, to implement a native UI or when working with platform-s
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.xxfast/kstore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.xxfast/kstore/)
 > A Kotlin multiplatform library that assists in saving and restoring objects to and from disk
 
+[Universal-Cache](https://github.com/andrew0000/universal-cache) - Kotlin caching and request sharing
+[![GitHub Repo stars](https://img.shields.io/github/stars/andrew0000/universal-cache)](https://github.com/andrew0000/universal-cache)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.andrew0000/universal-cache/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.andrew0000/universal-cache/)
+> Kotlin Flow caching and request sharing. Main idea: don't request data more times than it's needed.
+
 ### 📱 Device
 [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-permissions)](https://github.com/icerockdev/moko-permissions)
