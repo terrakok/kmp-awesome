@@ -466,6 +466,12 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.hoc081098/kmp-viewmodel/badge.svg)](https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel/)
 > A Kotlin Multiplatform library that provides shared MVVM. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
 
+
+[Meteor](https://github.com/getspherelabs/meteor-kmp)  - MVI framework with CommonViewModel, CommonStateFlow, UseCase
+[![GitHub Repo stars](https://img.shields.io/github/stars/getspherelabs/meteor-kmp)](https://github.com/getspherelabs/meteor-kmp)
+![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.behzodhalil/meteor-mvi/badge.svg)
+>  MVI/Redux framework for Kotlin Multiplatform
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting)](https://github.com/icerockdev/moko-crash-reporting)
@@ -946,6 +952,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/Ashampoo/xmpcore)](https://github.com/Ashampoo/xmpcore)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/xmpcore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/xmpcore)
 > Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files
+
+[BlahBlah](https://github.com/getspherelabs/blahblah)  - Blah-Blah generates fake data for robust testing and development
+[![GitHub Repo stars](https://img.shields.io/github/stars/getspherelabs/blahblah)](https://github.com/getspherelabs/blahblah)
+![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.behzodhalil/blahblah-fake/badge.svg)
+> Blah-Blah generates fake data for robust testing and development
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
