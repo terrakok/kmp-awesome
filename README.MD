@@ -498,6 +498,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.ppav.analytics/analytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.ppav/analytics/analytics)
 > Kotlin Multiplatform library as a simple facade or abstraction for analytics.
 
+[trckr](https://github.com/dzmpr/trckr) - KSP processor
+[![GitHub Repo stars](https://img.shields.io/github/stars/dzmpr/trckr)](https://github.com/dzmpr/trckr)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/ru.cookedapp.trckr/trckr-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/ru.cookedapp.trckr/trckr-core)
+> KSP processer that simplifies the collection of analytics
+
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest)](https://github.com/kotest/kotest)
@@ -952,6 +957,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/Ashampoo/xmpcore)](https://github.com/Ashampoo/xmpcore)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/xmpcore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/xmpcore)
 > Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files
+
+[Highlights](https://github.com/SnipMeDev/Highlights) - Kotlin Multiplatform syntax highlighting engine
+[![GitHub Repo stars](https://img.shields.io/github/stars/SnipMeDev/Highlights)](https://github.com/SnipMeDev/Highlights)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.snipme/highlights/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.snipme/highlights)
+ > Kotlin Multiplatform library for analyzing and coloring syntax of code string
 
 [BlahBlah](https://github.com/getspherelabs/blahblah)  - Blah-Blah generates fake data for robust testing and development
 [![GitHub Repo stars](https://img.shields.io/github/stars/getspherelabs/blahblah)](https://github.com/getspherelabs/blahblah)
