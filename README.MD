@@ -947,6 +947,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/xmpcore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ashampoo/xmpcore)
 > Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files
 
+[Highlights](https://github.com/SnipMeDev/Highlights) - Kotlin Multiplatform syntax highlighting engine
+[![GitHub Repo stars](https://img.shields.io/github/stars/SnipMeDev/Highlights)](https://github.com/SnipMeDev/Highlights)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.snipme/highlights/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.snipme/highlights)
+ > Kotlin Multiplatform library for analyzing and coloring syntax of code string
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
