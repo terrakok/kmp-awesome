@@ -1,6 +1,6 @@
 # <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/pluginIcon.svg" width="30"/> Awesome Kotlin Multiplatform
 
-<img src="https://github.com/terrakok/kmm-awesome/raw/master/img/kmm.svg" align="center" width="650"/>
+<img src="https://github.com/terrakok/kmm-awesome/raw/master/img/multiplatform-sharing.svg" align="center" width="650"/>
 
 [![Pull request](https://img.shields.io/badge/PRs-welcome-success)](https://github.com/terrakok/kmm-awesome/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
