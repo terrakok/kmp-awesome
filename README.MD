@@ -1,4 +1,4 @@
-# <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/pluginIcon.svg" width="30"/> Awesome KMM
+# <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/pluginIcon.svg" width="30"/> Awesome Kotlin Multiplatform
 
 <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/kmm.svg" align="center" width="650"/>
 
@@ -7,9 +7,8 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmm-awesome)](https://github.com/terrakok/kmm-awesome)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jetbrains.kotlin%22)
 
-Kotlin Multiplatform Mobile (KMM) is an SDK designed to simplify creating cross-platform mobile applications. With the
-help of KMM, you can share common code between iOS and Android apps and write platform-specific code only where it’s
-necessary. For example, to implement a native UI or when working with platform-specific APIs.
+Kotlin Multiplatform technology simplifies the development of cross-platform projects.
+It reduces time spent writing and maintaining the same code for different platforms while retaining the flexibility and benefits of native programming.
 
 ## Resources
 🖼 [Website](https://kotlinlang.org/lp/mobile/)  
