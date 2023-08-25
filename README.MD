@@ -10,6 +10,8 @@
 Kotlin Multiplatform technology simplifies the development of cross-platform projects.
 It reduces time spent writing and maintaining the same code for different platforms while retaining the flexibility and benefits of native programming.
 
+**This list contains libraries which support iOS and Android targets in first place.**
+
 ## Resources
 🖼 [Website](https://kotlinlang.org/lp/mobile/)  
 🚀 [Web Wizard](https://terrakok.github.io/kmp-web-wizard/)  
