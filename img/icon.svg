@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="132.23874mm"
+   height="132.15938mm"
+   viewBox="0 0 132.23874 132.15938"
+   version="1.1"
+   id="svg347"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs344">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="499.3847"
+       y1="-619.59338"
+       x2="-0.37009999"
+       y2="-1119.3483"
+       gradientTransform="matrix(0.9998,0,0,-0.9998,0.4448,-599.1481)">
+					<stop
+   offset="3.435144e-03"
+   style="stop-color:#E44857"
+   id="stop4" />
+
+					<stop
+   offset="0.4689"
+   style="stop-color:#C711E1"
+   id="stop6" />
+
+					<stop
+   offset="1"
+   style="stop-color:#7F52FF"
+   id="stop8" />
+
+				</linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-9.7392351,-72.429998)">
+    <g
+       id="Logotypes"
+       transform="matrix(0.26458333,0,0,0.26458333,9.7392347,67.032506)">
+			<g
+   id="g13">
+				
+					<linearGradient
+   id="linearGradient339"
+   gradientUnits="userSpaceOnUse"
+   x1="499.3847"
+   y1="-619.59338"
+   x2="-0.37009999"
+   y2="-1119.3483"
+   gradientTransform="matrix(0.9998,0,0,-0.9998,0.4448,-599.1481)">
+					<stop
+   offset="3.435144e-03"
+   style="stop-color:#E44857"
+   id="stop333" />
+
+					<stop
+   offset="0.4689"
+   style="stop-color:#C711E1"
+   id="stop335" />
+
+					<stop
+   offset="1"
+   style="stop-color:#7F52FF"
+   id="stop337" />
+
+				</linearGradient>
+
+				<polygon
+   class="st0"
+   points="499.8,519.9 0,519.9 0,20.4 499.8,20.4 249.9,270 "
+   id="polygon11"
+   style="fill:url(#SVGID_1_)" />
+
+			</g>
+
+		</g>
+  </g>
+</svg>
