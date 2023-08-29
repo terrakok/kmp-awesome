@@ -44,7 +44,7 @@ It reduces time spent writing and maintaining the same code for different platfo
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#-crypto">🔑 Crypto</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-file">📁 File</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extentions">🚀 Language extentions</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extentions">🚀 Language extensions</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#-serializer">🗃 Serializer</a></td>
@@ -372,6 +372,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.orbit-mvi/orbit-core/badge.svg)](https://search.maven.org/artifact/org.orbit-mvi/orbit-core)
 > Orbit is a Redux/MVI-like library for KMM, targetting Android and iOS.
 
+[FlowMVI](https://github.com/respawn-app/FlowMVI) - Plugin-based MVI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/respawn-app/FlowMVI)](https://github.com/respawn-app/FlowMVI)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/pro.respawn.flowmvi/core/badge.svg)](https://central.sonatype.com/namespace/pro.respawn.flowmvi)
+> FlowMVI is a KMP MVI library based on coroutines with a rich DSL and a powerful plugin system.
+
 [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - KMM ViewModels
 [![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMM-ViewModel)](https://github.com/rickclephas/KMM-ViewModel)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.rickclephas.kmm/kmm-viewmodel-core/badge.svg)](https://search.maven.org/artifact/com.rickclephas.kmm/kmm-viewmodel-core)
@@ -612,6 +617,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/kittinunf/Result)](https://github.com/kittinunf/Result)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.kittinunf.result/result/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.kittinunf.result/result)
 > This is a tiny framework for modelling success/failure of operations in Kotlin. In short, it is a model in type of Result<V: Any?, E : Throwable>.
+
+[ApiResult](https://github.com/respawn-app/ApiResult) - Declarative Error Handling
+[![GitHub Repo stars](https://img.shields.io/github/stars/respawn-app/ApiResult)](https://github.com/respawn-app/ApiResult)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/pro.respawn.apiresult/core/badge.svg)](https://central.sonatype.com/namespace/pro.respawn.apiresult)
+> ApiResult is a Kotlin Multiplatform declarative error handling framework that is performant, easy to use and feature-rich.
 
 ### 🗃 Serializer
 [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
@@ -968,6 +978,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/getspherelabs/blahblah)](https://github.com/getspherelabs/blahblah)
 ![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.behzodhalil/blahblah-fake/badge.svg)
 > Blah-Blah generates fake data for robust testing and development
+
+[KMPUtils](https://github.com/respawn-app/KMMUtils) - Kotlin STL Extensions & Utils
+[![GitHub Repo stars](https://img.shields.io/github/stars/respawn-app/KMMUtils)](https://github.com/respawn-app/KMMUtils)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/pro.respawn.kmmutils/core/badge.svg)](https://central.sonatype.com/namespace/pro.respawn.kmmutils)
+> KMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
