@@ -783,6 +783,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.materialkolor/material-kolor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.materialkolor/material-kolor)
 > Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.
 
+[AAY-chart](https://github.com/TheChance101/AAY-chart) Compose Multiplatform chart library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart)](https://github.com/TheChance101/AAY-chart)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart)
+> The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and soon IOS
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
