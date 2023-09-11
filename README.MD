@@ -786,7 +786,7 @@ your Compose apps.
 [AAY-chart](https://github.com/TheChance101/AAY-chart) Compose Multiplatform chart library.
 [![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart)](https://github.com/TheChance101/AAY-chart)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart)
-> The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and soon IOS
+> The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
