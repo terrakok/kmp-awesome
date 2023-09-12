@@ -788,6 +788,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart)
 > The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
 
+[KMP-ComposeUIViewController](https://github.com/GuilhE/KMP-ComposeUIViewController) KMP-ComposeUIViewController.
+[![GitHub Repo stars](https://img.shields.io/github/stars/GuilhE/KMP-ComposeUIViewController)](https://github.com/GuilhE/KMP-ComposeUIViewController)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp)
+> KSP library for generating ComposeUIViewController and UIViewControllerRepresentable files when using Compose Multiplatform for iOS.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
