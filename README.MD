@@ -989,6 +989,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/pro.respawn.kmmutils/core/badge.svg)](https://central.sonatype.com/namespace/pro.respawn.kmmutils)
 > KMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.
 
+[RSSParser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed
+[![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser)](https://github.com/prof18/RSS-Parser)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.prof18.rssparser/rssparser/badge.svg)](https://central.sonatype.com/namespace/com.prof18.rssparser)
+> RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
