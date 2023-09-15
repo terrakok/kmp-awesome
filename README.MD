@@ -87,6 +87,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-kswift)](https://github.com/icerockdev/moko-kswift)
 > KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.
 
+[SKIE](https://github.com/touchlab/SKIE) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/SKIE)](https://github.com/touchlab/SKIE)
+> A Swift-friendly API Generator for Kotlin Multiplatform.
+
 [CompleteKotlin](https://github.com/LouisCAD/CompleteKotlin) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/LouisCAD/CompleteKotlin)](https://github.com/LouisCAD/CompleteKotlin)
 > Gradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.
