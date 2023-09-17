@@ -792,6 +792,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart)
 > The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
 
+[kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette)](https://github.com/jordond/kmpalette)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.kmpalette/material-kolor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.kmpalette/kmpalette-core)
+> A Compose Multiplatform library for generating color palettes from images, including the dominant color.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
