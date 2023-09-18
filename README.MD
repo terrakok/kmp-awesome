@@ -807,6 +807,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.kmpalette/material-kolor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.kmpalette/kmpalette-core)
 > A Compose Multiplatform library for generating color palettes from images, including the dominant color.
 
+[Reveal](https://github.com/svenjacobs/reveal) Reveal effect for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/svenjacobs/reveal)](https://github.com/svenjacobs/reveal)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.svenjacobs.reveal/reveal-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.svenjacobs.reveal/reveal-core/badge.svg)
+> A reveal effect (coach mark, tutorial, onboarding) for Compose Multiplatform (Android, iOS, desktop, Web)
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
