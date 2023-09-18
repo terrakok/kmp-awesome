@@ -874,6 +874,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client)
 > Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
 
+[ktgbotapi](https://github.com/InsanusMokrassar/ktgbotapi) - Kotlin Multiplatform Telegram Bots API
+[![GitHub Repo stars](https://img.shields.io/github/stars/InsanusMokrassar/ktgbotapi)](https://github.com/InsanusMokrassar/ktgbotapi)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.inmo/tgbotapi/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.inmo/tgbotapi)
+> Kotlin Multiplatform Telegram Bots API wrapper with several helpful DSL
+
 ### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum)](https://github.com/korlibs/kbignum)
@@ -1012,6 +1017,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser)](https://github.com/prof18/RSS-Parser)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.prof18.rssparser/rssparser/badge.svg)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
+
+[krontab](https://github.com/InsanusMokrassar/krontab) - Kotlin Multiplatform Crontab-like scheduler
+[![GitHub Repo stars](https://img.shields.io/github/stars/InsanusMokrassar/krontab)](https://github.com/InsanusMokrassar/krontab)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.inmo/krontab/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.inmo/krontab)
+> Kotlin Multiplatform tasks scheduler with Crontab-like setup syntax
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
