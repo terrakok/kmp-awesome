@@ -736,6 +736,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core)
 > A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose.
 
+[Calf](https://github.com/MohamedRejeb/Calf) Compose Adaptive Look & Feel 
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Calf)](https://github.com/MohamedRejeb/Calf)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.calf/calf-ui/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.calf/calf-ui)
+> Calf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.
+
 [Libres-Compose](https://github.com/Skeptick/libres) Resources generation in Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres)](https://github.com/Skeptick/libres)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose)
