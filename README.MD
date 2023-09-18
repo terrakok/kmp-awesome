@@ -630,13 +630,18 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ### 🗃 Serializer
 [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization)](https://github.com/Kotlin/kotlinx.serialization)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.peanuuutz.tomlkt/tomlkt/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.peanuuutz.tomlkt/tomlkt)
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
 
 [XmlUtil](https://github.com/pdvrieze/xmlutil) - Component of the XMLUtil library
 [![GitHub Repo stars](https://img.shields.io/github/stars/pdvrieze/xmlutil)](https://github.com/pdvrieze/xmlutil)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
 > XmlUtil is a set of packages that supports multiplatform XML in Kotlin.
+
+[tomlkt](https://github.com/Peanuuutz/tomlkt) - Multiplatform TOML encoder and decoder, powered by kotlinx.serialization 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Peanuuutz/tomlkt)](https://github.com/Peanuuutz/tomlkt)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
+> Lightweight and easy to use kotlinx.serialization plugin for TOML serialization and deserialization.
 
 [Ksoup](https://github.com/MohamedRejeb/ksoup) - Kotlin Multiplatform HTML Parser
 [![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/ksoup)](https://github.com/MohamedRejeb/ksoup)
