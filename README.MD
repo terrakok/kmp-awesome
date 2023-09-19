@@ -87,6 +87,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-kswift)](https://github.com/icerockdev/moko-kswift)
 > KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.
 
+[SKIE](https://github.com/touchlab/SKIE) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/SKIE)](https://github.com/touchlab/SKIE)
+> A Swift-friendly API Generator for Kotlin Multiplatform.
+
 [CompleteKotlin](https://github.com/LouisCAD/CompleteKotlin) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/LouisCAD/CompleteKotlin)](https://github.com/LouisCAD/CompleteKotlin)
 > Gradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.
@@ -626,13 +630,18 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ### 🗃 Serializer
 [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization)](https://github.com/Kotlin/kotlinx.serialization)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jetbrains.kotlinx/kotlinx-serialization-core)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.peanuuutz.tomlkt/tomlkt/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.peanuuutz.tomlkt/tomlkt)
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
 
 [XmlUtil](https://github.com/pdvrieze/xmlutil) - Component of the XMLUtil library
 [![GitHub Repo stars](https://img.shields.io/github/stars/pdvrieze/xmlutil)](https://github.com/pdvrieze/xmlutil)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
 > XmlUtil is a set of packages that supports multiplatform XML in Kotlin.
+
+[tomlkt](https://github.com/Peanuuutz/tomlkt) - Multiplatform TOML encoder and decoder, powered by kotlinx.serialization 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Peanuuutz/tomlkt)](https://github.com/Peanuuutz/tomlkt)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.pdvrieze.xmlutil/core)
+> Lightweight and easy to use kotlinx.serialization plugin for TOML serialization and deserialization.
 
 [Ksoup](https://github.com/MohamedRejeb/ksoup) - Kotlin Multiplatform HTML Parser
 [![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/ksoup)](https://github.com/MohamedRejeb/ksoup)
@@ -732,6 +741,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cafe.adriel.voyager/voyager-core)
 > A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose.
 
+[Calf](https://github.com/MohamedRejeb/Calf) Compose Adaptive Look & Feel 
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Calf)](https://github.com/MohamedRejeb/Calf)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.calf/calf-ui/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.mohamedrejeb.calf/calf-ui)
+> Calf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.
+
 [Libres-Compose](https://github.com/Skeptick/libres) Resources generation in Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres)](https://github.com/Skeptick/libres)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.skeptick.libres/libres-compose)
@@ -787,6 +801,16 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart)](https://github.com/TheChance101/AAY-chart)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.thechance101/chart)
 > The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
+
+[kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette)](https://github.com/jordond/kmpalette)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.kmpalette/material-kolor/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.kmpalette/kmpalette-core)
+> A Compose Multiplatform library for generating color palettes from images, including the dominant color.
+
+[Reveal](https://github.com/svenjacobs/reveal) Reveal effect for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/svenjacobs/reveal)](https://github.com/svenjacobs/reveal)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.svenjacobs.reveal/reveal-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.svenjacobs.reveal/reveal-core/badge.svg)
+> A reveal effect (coach mark, tutorial, onboarding) for Compose Multiplatform (Android, iOS, desktop, Web)
 
 [KMP-ComposeUIViewController](https://github.com/GuilhE/KMP-ComposeUIViewController) KMP-ComposeUIViewController.
 [![GitHub Repo stars](https://img.shields.io/github/stars/GuilhE/KMP-ComposeUIViewController)](https://github.com/GuilhE/KMP-ComposeUIViewController)
@@ -993,6 +1017,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/respawn-app/KMMUtils)](https://github.com/respawn-app/KMMUtils)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/pro.respawn.kmmutils/core/badge.svg)](https://central.sonatype.com/namespace/pro.respawn.kmmutils)
 > KMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.
+
+[RSSParser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed
+[![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser)](https://github.com/prof18/RSS-Parser)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.prof18.rssparser/rssparser/badge.svg)](https://central.sonatype.com/namespace/com.prof18.rssparser)
+> RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
