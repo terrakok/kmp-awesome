@@ -476,7 +476,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.hoc081098/kmp-viewmodel/badge.svg)](https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel/)
 > A Kotlin Multiplatform library that provides shared MVVM. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
 
-
 [Meteor](https://github.com/getspherelabs/meteor-kmp)  - MVI framework with CommonViewModel, CommonStateFlow, UseCase
 [![GitHub Repo stars](https://img.shields.io/github/stars/getspherelabs/meteor-kmp)](https://github.com/getspherelabs/meteor-kmp)
 ![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.behzodhalil/meteor-mvi/badge.svg)
@@ -816,6 +815,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/GuilhE/KMP-ComposeUIViewController)](https://github.com/GuilhE/KMP-ComposeUIViewController)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp)
 > KSP library for generating ComposeUIViewController and UIViewControllerRepresentable files when using Compose Multiplatform for iOS.
+
+[KodeView](https://github.com/SnipMeDev/KodeView) KodeView
+[![GitHub Repo stars](https://img.shields.io/github/stars/SnipMeDev/KodeView)](https://github.com/SnipMeDev/KodeView)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.snipme/kodeview/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.snipme/kodeview/badge.svg)
+> Kotlin Multiplatform syntax highlighting views.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
