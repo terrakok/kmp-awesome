@@ -594,11 +594,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto/secure-random/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.kotlincrypto/secure-random)
 > Kotlin Multiplatform library for obtaining cryptographically secure random data from the system. Modeled after Java's SecureRandom class, it provides a simple API surface area. Under the hood it utilizes system functions so that SecureRandom is accessible from common code.
 
-[Solana-kmp](https://github.com/metaplex-foundation/solana-kmp) - Kotlin Multiplatform SDK for Kotlin 
-[![GitHub Repo stars](https://img.shields.io/github/stars/metaplex-foundation/solana-kmp)](https://github.com/metaplex-foundation/solana-kmp)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/foundation.metaplex/solana/badge.svg)](https://maven-badges.herokuapp.com/maven-central/foundation.metaplex/solana)
-> Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.
-
 ### 📁 File
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio)](https://github.com/square/okio)
@@ -892,6 +887,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/configcat/kotlin-sdk)](https://github.com/configcat/kotlin-sdk)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client)
 > Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
+
+[Solana-kmp](https://github.com/metaplex-foundation/solana-kmp) - Kotlin Multiplatform SDK for Kotlin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/metaplex-foundation/solana-kmp)](https://github.com/metaplex-foundation/solana-kmp)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/foundation.metaplex/solana/badge.svg)](https://maven-badges.herokuapp.com/maven-central/foundation.metaplex/solana)
+> Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.
 
 ### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
