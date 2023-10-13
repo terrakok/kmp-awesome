@@ -888,6 +888,11 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.configcat/configcat-kotlin-client)
 > Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
 
+[Solana-kmp](https://github.com/metaplex-foundation/solana-kmp) - Kotlin Multiplatform SDK for Kotlin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/metaplex-foundation/solana-kmp)](https://github.com/metaplex-foundation/solana-kmp)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/foundation.metaplex/solana/badge.svg)](https://maven-badges.herokuapp.com/maven-central/foundation.metaplex/solana)
+> Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.
+
 ### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum)](https://github.com/korlibs/kbignum)
