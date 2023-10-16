@@ -821,7 +821,7 @@ your Compose apps.
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.snipme/kodeview/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dev.snipme/kodeview/badge.svg)
 > Kotlin Multiplatform syntax highlighting views.
 
-[QRose](https://github.com/alexzhirkevich/qrose) Multiplatform QR code generator
+[QRose](https://github.com/alexzhirkevich/qrose) - Multiplatform QR code generator
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexzhirkevich/qrose)](https://github.com/alexzhirkevich/qrose)
 > Styled QR code generation library for Compose Multiplatform.
 
