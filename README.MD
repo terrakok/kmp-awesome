@@ -44,7 +44,7 @@ It reduces time spent writing and maintaining the same code for different platfo
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#-crypto">🔑 Crypto</a></td>
     <td><a href="https://github.com/terrakok/kmm-awesome#-file">📁 File</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extentions">🚀 Language extensions</a></td>
+    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extensions">🚀 Language extensions</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/terrakok/kmm-awesome#-serializer">🗃 Serializer</a></td>
