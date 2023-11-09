@@ -127,6 +127,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/AboutLibraries)](https://github.com/mikepenz/AboutLibraries)
 > Collects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.
 
+[Sekret](https://github.com/DatL4g/Sekret) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/DatL4g/Sekret)](https://github.com/DatL4g/Sekret)
+> 🔒 Deeply hide secrets with Kotlin Multiplatform. Useful for API Keys, Application credentials and more.
+
 ## Libraries
 
 ### 📋 Log
