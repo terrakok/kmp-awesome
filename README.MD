@@ -481,6 +481,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.behzodhalil/meteor-mvi/badge.svg)
 >  MVI/Redux framework for Kotlin Multiplatform
 
+[KStateMachine](https://github.com/nsk90/kstatemachine) - Multiplatform state machine library with coroutines support
+[![GitHub Repo stars](https://img.shields.io/github/stars/nsk90/kstatemachine)](https://github.com/nsk90/kstatemachine)
+![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.nsk90/kstatemachine/badge.svg)
+> KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting)](https://github.com/icerockdev/moko-crash-reporting)
