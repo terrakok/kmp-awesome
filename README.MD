@@ -237,6 +237,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/gradle-plugin)
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
 
+[Kotbase](https://github.com/jeffdgr8/kotbase) - NoSQL JSON document database
+[![GitHub Repo stars](https://img.shields.io/github/stars/jeffdgr8/kotbase)](https://github.com/jeffdgr8/kotbase)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.kotbase/couchbase-lite)](https://central.sonatype.com/namespace/dev.kotbase)
+> Kotlin Multiplatform library for Couchbase Lite—a lightweight, embedded, NoSQL JSON document database—supporting SQL++, key/value, and full-text search queries; observability; binary attachments; and data sync.
+
 [Store 5](https://github.com/MobileNativeFoundation/Store) - Kotlin Library for Async Data Loading and Caching 
 [![GitHub Repo stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store)](https://github.com/MobileNativeFoundation/Store)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.mobilenativefoundation.store/store5/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.mobilenativefoundation.store/store5)
