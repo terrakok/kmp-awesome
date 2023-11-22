@@ -282,6 +282,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.andrew0000/universal-cache)](https://central.sonatype.com/artifact/io.github.andrew0000/universal-cache/)
 > Kotlin Flow caching and request sharing. Main idea: don't request data more times than it's needed.
 
+[AWS KMP](https://github.com/estivensh4/aws-kmp) - AWS KMP is an extension to AWS Kotlin Multiplatform 
+[![GitHub Repo stars](https://img.shields.io/github/stars/estivensh4/aws-kmp)](https://github.com/estivensh4/aws-kmp)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.estivensh4/aws-kmp)](https://central.sonatype.com/artifact/io.estivensh4.estivensh4/aws-kmp/)
+> AWS KMP is an extension to AWS Kotlin Multiplatform for JVM, Android and iOS.
+
 ### 📱 Device
 [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-permissions)](https://github.com/icerockdev/moko-permissions)
