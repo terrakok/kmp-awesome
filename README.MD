@@ -836,6 +836,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/qrose)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/qrose/badge.svg)
 > Styled QR code generation library for Compose Multiplatform.
 
+[ZoomImage](https://github.com/panpf/zoomimage) - Multiplatform Image Zoom Component
+[![GitHub Repo stars](https://img.shields.io/github/stars/panpf/zoomimage)](https://github.com/panpf/zoomimage)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.panpf.zoomimage/zoomimage-compose)](https://central.sonatype.com/artifact/io.github.panpf.zoomimage/zoomimage-compose)
+> Library for zoom images, supported scale, pan, locate, rotation, and super-large image subsampling
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
