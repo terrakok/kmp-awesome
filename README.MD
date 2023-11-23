@@ -13,14 +13,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 **This list contains libraries which support iOS and Android targets in first place.**
 
 ## Resources
-🖼 [Website](https://www.jetbrains.com/kotlin-multiplatform/)
-🚀 [KMP Web Wizard](https://kmp.jetbrains.com/)
+🖼 [Website](https://www.jetbrains.com/kotlin-multiplatform/)  
+🚀 [KMP Web Wizard](https://kmp.jetbrains.com/)  
 🍏 [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)  
-📋 [Documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
-📜 [Blog](https://blog.jetbrains.com/kotlin/category/multiplatform/)
+📋 [Documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)  
+📜 [Blog](https://blog.jetbrains.com/kotlin/category/multiplatform/)  
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
-🗄 [Jetpack Compose Components](https://m3.material.io/components)
+🗄 [Jetpack Compose Components](https://m3.material.io/components)  
 🗄 [Compose Materia 3 Gallery](https://terrakok.github.io/compose-material-3-gallery/)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
 📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
