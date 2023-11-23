@@ -13,14 +13,15 @@ It reduces time spent writing and maintaining the same code for different platfo
 **This list contains libraries which support iOS and Android targets in first place.**
 
 ## Resources
-🖼 [Website](https://kotlinlang.org/lp/mobile/)  
-🚀 [Web Wizard](https://terrakok.github.io/kmp-web-wizard/)  
+🖼 [Website](https://www.jetbrains.com/kotlin-multiplatform/)
+🚀 [KMP Web Wizard](https://kmp.jetbrains.com/)
 🍏 [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)  
-📋 [Documentation](https://kotlinlang.org/docs/kmm-overview.html)  
-📜 [Blog](https://blog.jetbrains.com/kotlin/category/mobile/)  
+📋 [Documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
+📜 [Blog](https://blog.jetbrains.com/kotlin/category/multiplatform/)
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
-🗄 [Jetpack Compose Components](https://www.composables.com/components)  
+🗄 [Jetpack Compose Components](https://m3.material.io/components)
+🗄 [Compose Materia 3 Gallery](https://terrakok.github.io/compose-material-3-gallery/)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
 📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
 
@@ -281,6 +282,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/andrew0000/universal-cache)](https://github.com/andrew0000/universal-cache)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.andrew0000/universal-cache)](https://central.sonatype.com/artifact/io.github.andrew0000/universal-cache/)
 > Kotlin Flow caching and request sharing. Main idea: don't request data more times than it's needed.
+
+[kotlin-cacheable](https://github.com/mori-atsushi/kotlin-cacheable) - Annotation-based caching library
+[![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/kotlin-cacheable)](https://github.com/mori-atsushi/kotlin-cacheable)
+[![Maven Central](https://img.shields.io/maven-central/v/com.moriatsushi.cacheable/cacheable-core)](https://central.sonatype.com/artifact/com.moriatsushi.cacheable/cacheable-core)
+> Kotlin Cacheable is an annotation-based caching library for Kotlin Multiplatform.
 
 ### 📱 Device
 [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
@@ -813,7 +819,7 @@ your Compose apps.
 
 [kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette)](https://github.com/jordond/kmpalette)
-[![Maven Central](https://img.shields.io/maven-central/v/com.kmpalette/material-kolor)](https://central.sonatype.com/artifact/com.kmpalette/kmpalette-core)
+[![Maven Central](https://img.shields.io/maven-central/v/com.kmpalette/kmpalette-core)](https://central.sonatype.com/artifact/com.kmpalette/kmpalette-core)
 > A Compose Multiplatform library for generating color palettes from images, including the dominant color.
 
 [Reveal](https://github.com/svenjacobs/reveal) Reveal effect for Compose Multiplatform
@@ -840,6 +846,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/panpf/zoomimage)](https://github.com/panpf/zoomimage)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.panpf.zoomimage/zoomimage-compose)](https://central.sonatype.com/artifact/io.github.panpf.zoomimage/zoomimage-compose)
 > Library for zoom images, supported scale, pan, locate, rotation, and super-large image subsampling
+
+[rebugger](https://github.com/theapache64/rebugger) - A recomposition debugger
+[![GitHub Repo stars](https://img.shields.io/github/stars/theapache64/rebugger)](https://github.com/theapache64/rebugger)
+[![jitpack.io](https://jitpack.io/v/theapache64/rebugger.svg)](https://jitpack.io/#theapache64/rebugger)
+> A simple Compose library to print the reason for recomposition in your `Logcat` window.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
