@@ -751,6 +751,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > A Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.
 
 ### 🍎 Compose UI
+[Compose WebView Multiplatform](https://github.com/KevinnZou/compose-webview-multiplatform) WebView for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/KevinnZou/compose-webview-multiplatform)](https://github.com/KevinnZou/compose-webview-multiplatform)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kevinnzou/compose-webview-multiplatform.svg)](https://search.maven.org/artifact/io.github.kevinnzou/compose-webview-multiplatform)
+> A WebView library that offers essential WebView features for Compose Multiplatform. It supports loading URLs and HTML data, evaluating JavaScript, and managing cookies. Currently, it is available for Android, iOS, and Desktop platforms.
+
 [Appyx](https://github.com/bumble-tech/appyx) Navigation, transition animations, gestures, UI components.
 [![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx)](https://github.com/bumble-tech/appyx)
 [![Maven Central](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)
