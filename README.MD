@@ -345,6 +345,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.chopyourbrain/kontrol)](https://central.sonatype.com/artifact/io.github.chopyourbrain/kontrol)
 > A Kotlin Multiplatform library for creating debug menu.
 
+[KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Firebase Push Notification library for iOS and Android
+[![GitHub Repo stars](https://img.shields.io/github/stars/mirzemehdi/KMPNotifier)](https://img.shields.io/github/stars/mirzemehdi/KMPNotifier)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.mirzemehdi/kmpnotifier)](https://central.sonatype.com/artifact/io.github.mirzemehdi/kmpnotifier)
+> Kotlin Multiplatform Push Notification Library using Firebase for iOS and Android.
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin)](https://github.com/InsertKoinIO/koin)
