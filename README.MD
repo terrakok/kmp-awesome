@@ -72,6 +72,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [CocoaPods](https://kotlinlang.org/docs/native-cocoapods.html) integration
 > Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).
 
+[Amper](https://github.com/JetBrains/amper) new experimental way for project configuration
+[![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/amper)](https://github.com/JetBrains/amper)
+> Improving developer experience while configuring project setup. Kotlin multiplatform support is out-of-the-box. Project now has experimental status.
+
 [Swift Package](https://github.com/PaGr0m/kotlin-spm-plugin) integration 
 [![GitHub Repo stars](https://img.shields.io/github/stars/PaGr0m/kotlin-spm-plugin)](https://github.com/PaGr0m/kotlin-spm-plugin)
 > This gradle plugin provides two-way interoperability between Kotlin dependencies and Kotlin-based Swift Package Multiplatform.
