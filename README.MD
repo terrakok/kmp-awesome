@@ -1092,6 +1092,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
+[PartialJsonPaserKMP](https://github.com/FunnySaltyFish/partial-json-parser-kmp) - Parse incomplete JSON in KMP
+[![GitHub Repo stars](https://img.shields.io/github/stars/FunnySaltyFish/partial-json-parser-kmp)](https://github.com/FunnySaltyFish/partial-json-parser-kmp)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.funnysaltyfish/partial-json-parser)](https://central.sonatype.com/artifact/io.github.funnysaltyfish/partial-json-parser)
+> Parse incomplete JSON (like what ChatGPT generates in stream mode) in Kotlin, obtain information as much as possible.
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
