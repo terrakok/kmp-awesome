@@ -651,6 +651,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/pro.respawn.apiresult/core)](https://central.sonatype.com/namespace/pro.respawn.apiresult)
 > ApiResult is a Kotlin Multiplatform declarative error handling framework that is performant, easy to use and feature-rich.
 
+[Sandwich](https://github.com/skydoves/sandwich) - Handling API responses and exceptions in Kotlin for Retrofit, Ktor, Ktorfit
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/sandwich)](https://github.com/skydoves/sandwich)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/sandwich.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%22sandwich%22)
+> Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.
+
 ### 🗃 Serializer
 [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization)](https://github.com/Kotlin/kotlinx.serialization)
@@ -884,6 +889,15 @@ your Compose apps.
 [FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet) - Flexible BottomSheet library Compose Multiplatform [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/FlexibleBottomSheet)](https://img.shields.io/github/stars/skydoves/FlexibleBottomSheet)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/flexible-core.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%flexible-core%22)
 > Advanced Compose Multiplatform bottom sheet for segmented sizing and non-modal type, similar to Google Maps.
+
+[orbitral](https://github.com/skydoves/orbital) - Dynamic animation library for Compose Multiplatform [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/orbital)](https://img.shields.io/github/stars/skydoves/orbital)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/orbital.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%22orbital%22)
+> Jetpack Compose animation library that allows you to implement animations such as shared element transition.
+
+[compose-stable-marker](https://github.com/skydoves/compose-stable-marker) - Compose stable markers for KMP to tell stable/immutable guarantees
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/compose-stable-marker)](https://img.shields.io/github/stars/skydoves/compose-stable-marker)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/compose-stable-marker.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%compose-stable-marker%22)
+> Compose stable markers were originated Compose runtime, which improves Compose performance by telling stable and skippable guarantees to the compose compiler from non-compose dependent modules. 
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
