@@ -881,6 +881,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.team-preat/peekaboo-image-picker)](https://search.maven.org/search?q=g:io.github.team-preat)
 > Kotlin Multiplatform library for Compose Multiplatform, designed for seamless integration of an image picker feature in iOS and Android applications.
 
+[compose-stable-marker](https://github.com/skydoves/compose-stable-marker) - Compose stable markers for KMP to tell stable/immutable guarantees
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/compose-stable-marker)](https://img.shields.io/github/stars/skydoves/compose-stable-marker)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/compose-stable-marker.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%compose-stable-marker%22)
+> Compose stable markers were originated Compose runtime, which improves Compose performance by telling stable and skippable guarantees to the compose compiler from non-compose dependent modules. 
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
