@@ -899,6 +899,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/compose-stable-marker.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%compose-stable-marker%22)
 > Compose stable markers were originated Compose runtime, which improves Compose performance by telling stable and skippable guarantees to the compose compiler from non-compose dependent modules. 
 
+[Wavy slider](https://github.com/mahozad/wavy-slider) A dancing slider/progress bar. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/mahozad/wavy-slider)](https://github.com/mahozad/wavy-slider/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/ir.mahozad.multiplatform/wavy-slider)](https://central.sonatype.com/artifact/ir.mahozad.multiplatform/wavy-slider)
+> Inpired by Android 13 squiggly progress bar. Also, a demo for how to create a multiplatform Composable.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
