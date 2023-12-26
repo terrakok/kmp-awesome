@@ -905,7 +905,7 @@ your Compose apps.
 > Inpired by Android 13 squiggly progress bar. Also, a demo for how to create a multiplatform Composable.
 
 [Koala Plot](https://github.com/KoalaPlot/koalaplot-core) - A charting and plotting library for Compose Multiplatform.
-[!GitHub Repo stars](https://img.shields.io/github/stars/KoalaPlot/koalaplot-core)](https://github.com/KoalaPlot/koalaplot-core/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/KoalaPlot/koalaplot-core)](https://github.com/KoalaPlot/koalaplot-core/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.koalaplot/koalaplot-core)](https://central.sonatype.com/artifact/io.github.koalaplot/koalaplot-core)
 > Build great-looking interactive plots for Android, Desktop, iOS, and Web using a single API and common code base. Supports over 7 graph types.
 
