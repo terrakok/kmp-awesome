@@ -780,6 +780,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.calf/calf-ui)](https://central.sonatype.com/artifact/com.mohamedrejeb.calf/calf-ui)
 > Calf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.
 
+[Compose DND](https://github.com/MohamedRejeb/compose-dnd) Compose Drag And Drop
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/compose-dnd)](https://github.com/MohamedRejeb/compose-dnd)
+[![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.dnd/compose-dnd)](https://central.sonatype.com/artifact/com.mohamedrejeb.dnd/compose-dnd)
+> Compose DND is a library that allows you to easily add drag and drop functionality to your Jetpack Compose and Compose Multiplatform projects.
+
 [Libres-Compose](https://github.com/Skeptick/libres) Resources generation in Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres)](https://github.com/Skeptick/libres)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.skeptick.libres/libres-compose)](https://central.sonatype.com/artifact/io.github.skeptick.libres/libres-compose)
