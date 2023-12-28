@@ -909,6 +909,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.koalaplot/koalaplot-core)](https://central.sonatype.com/artifact/io.github.koalaplot/koalaplot-core)
 > Build great-looking interactive plots for Android, Desktop, iOS, and Web using a single API and common code base. Supports over 7 graph types.
 
+[Precompose](https://github.com/Tlaster/PreCompose) Compose Multiplatform Navigation.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Tlaster/PreCompose)](https://github.com/Tlaster/PreCompose)
+[![Maven Central](https://img.shields.io/maven-central/v/moe.tlaster/precompose)](https://central.sonatype.com/artifact/moe.tlaster/precompose)
+> Compose Multiplatform Navigation && ViewModel library, inspired by Jetpack Navigation, ViewModel and Lifecycle.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics)](https://github.com/icerockdev/moko-graphics)
