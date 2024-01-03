@@ -936,6 +936,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/dev.gitlive/firebase-auth)](https://central.sonatype.com/artifact/dev.gitlive/firebase-auth)
 > The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.
 
+[supabase-kt](https://github.com/supabase-community/supabase-kt) - KMP Client for Supabase 
+[![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/supabase-kt)](https://github.com/supabase-community/supabase-kt)
+[![Maven Central](https://img.shields.io/maven-central/v/dio.github.jan-tennert.supabase/supabase-kt)](https://central.sonatype.com/artifact/io.github.jan-tennert.supabase/supabase-kt)
+> Supabase is an open source Firebase alternative. Database, Auth, Storage, Edge Functions, Realtime, AI & Vectors
+
 [openai-kotlin](https://github.com/Aallam/openai-kotlin) - OpenAI SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Aallam/openai-kotlin)](https://github.com/Aallam/openai-kotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.aallam.openai/openai-client)](https://central.sonatype.com/artifact/com.aallam.openai/openai-client)
