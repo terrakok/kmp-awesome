@@ -765,6 +765,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > A Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.
 
 ### 🍎 Compose UI
+[Coil3](https://github.com/coil-kt/coil/tree/3.x) Image Loader for compose multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/coil-kt/coil)](https://github.com/coil-kt/coil)
+[![Maven Central](https://img.shields.io/maven-central/v/io.coil-kt/coil)](https://img.shields.io/maven-central/v/io.coil-kt/coil)
+> An image loading library for Android backed by Kotlin Coroutines
+
 [Appyx](https://github.com/bumble-tech/appyx) Navigation, transition animations, gestures, UI components.
 [![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx)](https://github.com/bumble-tech/appyx)
 [![Maven Central](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)
