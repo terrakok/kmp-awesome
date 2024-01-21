@@ -922,7 +922,7 @@ your Compose apps.
 
 [KMPAuth](https://github.com/mirzemehdi/KMPAuth) Compose Multiplatform Authentication Library. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mirzemehdi/KMPAuth?style=flat)](https://github.com/mirzemehdi/KMPAuth)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.mirzemehdi/kmpauth-core)](https://central.sonatype.com/artifact/io.github.mirzemehdi/kmpauth core)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.mirzemehdi/kmpauth-core)](https://central.sonatype.com/artifact/io.github.mirzemehdi/kmpauth-core)
 > Compose Multiplatform Authentication Library targetting android and iOS.
 
 ### 🎨 Graphics
