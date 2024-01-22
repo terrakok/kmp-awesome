@@ -145,10 +145,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/co.touchlab/kermit)](https://central.sonatype.com/artifact/co.touchlab/kermit)
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
 
-[Kodein-Log](https://github.com/Kodein-Framework/Kodein-Log) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Kodein-Log?style=flat)](https://github.com/Kodein-Framework/Kodein-Log)
-[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.log/kodein-log)](https://central.sonatype.com/artifact/org.kodein.log/kodein-log)
-> Kodein-Log is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.
+[Canard](https://github.com/kosi-libs/Canard) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/Canard?style=flat)](https://github.com/kosi-libs/Canard)
+[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.log/canard)](https://mvnrepository.com/artifact/org.kodein.log/canard)
+> Canard is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.
 
 [Klogger](https://github.com/korlibs/klogger) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/klogger?style=flat)](https://github.com/korlibs/klogger)
@@ -272,11 +272,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/com.ctrip.kotlin/sqllin-driver)](https://central.sonatype.com/artifact/com.ctrip.kotlin/sqllin-driver)
 > SQLlin is a Kotlin Multiplatform SQLite library that based on DSL and KSP. You can write SQL statements with your Kotlin code and these can be verified by Kotlin compiler.
 
-[Kodein-DB](https://github.com/Kodein-Framework/Kodein-DB) - NoSQL database
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Kodein-DB?style=flat)](https://github.com/Kodein-Framework/Kodein-DB)
-[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.db/kodein-db)](https://central.sonatype.com/artifact/org.kodein.db/kodein-db)
-> Kodein-DB is a Kotlin/Multiplatform embedded NoSQL database that works on JVM, Android, Kotlin/Native and iOS. It is suited for client or mobile applications.
-
 [KStore](https://github.com/xxfast/KStore) - File-based object storage
 [![GitHub Repo stars](https://img.shields.io/github/stars/xxfast/KStore?style=flat)](https://github.com/xxfast/KStore)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.xxfast/kstore)](https://central.sonatype.com/artifact/io.github.xxfast/kstore/)
@@ -360,10 +355,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.insert-koin/koin-core)](https://central.sonatype.com/artifact/io.insert-koin/koin-core)
 > A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API
 
-[Kodein](https://github.com/Kodein-Framework/Kodein-DI) - DI framework
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/Kodein-DI?style=flat)](https://github.com/Kodein-Framework/Kodein-DI)
-[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.di/kodein-di)](https://central.sonatype.com/artifact/org.kodein.di/kodein-di)
-> Kodein-DI is a very simple and yet very useful dependency retrieval container.
+[Kodein](https://github.com/kosi-libs/Kodein) - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/kodein?style=flat)](https://github.com/kosi-libs/kodein)
+[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.di/kodein-di)](https://mvnrepository.com/artifact/org.kodein.di/kodein-di)
+> Kodein is a very simple and yet very useful dependency retrieval container.
 
 [kotlin-inject](https://github.com/evant/kotlin-inject) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/evant/kotlin-inject?style=flat)](https://github.com/evant/kotlin-inject)
@@ -558,8 +553,8 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.mockative/mockative)](https://central.sonatype.com/artifact/io.mockative/mockative)
 > Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)
 
-[MocKMP](https://github.com/Kodein-Framework/MocKMP) - Mocking with KSP
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kodein-Framework/MocKMP?style=flat)](https://github.com/Kodein-Framework/MocKMP)
+[MocKMP](https://github.com/kosi-libs/MocKMP) - Mocking with KSP
+[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/MocKMP?style=flat)](https://github.com/kosi-libs/MocKMP)
 [![Maven Central](https://img.shields.io/maven-central/v/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)](https://central.sonatype.com/artifact/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)
 > A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.
 
