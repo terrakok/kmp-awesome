@@ -922,7 +922,7 @@ your Compose apps.
 
 [Kottie](https://github.com/ismai117/kottie) Compose Multiplatform Animation library. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ismai117/Kottie?style=flat)](https://github.com/ismai117/kottie)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/kottie-core)](https://central.sonatype.com/artifact/io.github.ismai117/kottie-core)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/kottie)](https://central.sonatype.com/artifact/io.github.ismai117/kottie)
 > Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Airbnb/Lottie..
 
 ### 🎨 Graphics
