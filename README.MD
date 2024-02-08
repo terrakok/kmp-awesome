@@ -759,6 +759,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/FlowExt)](https://central.sonatype.com/artifact/io.github.hoc081098/FlowExt)
 > A Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.
 
+[Human-Readable](https://github.com/jacobras/Human-Readable) - A small set of data formatting utilities. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/jacobras/human-readable?style=flat)](https://github.com/jacobras/Human-Readable/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/nl.jacobras/Human-Readable)](https://central.sonatype.com/artifact/nl.jacobras/Human-Readable)
+> Works with kotlinx-datetime and offers features like relative time ("2 hours ago"), durations and file sizes.
+
 ### 🍎 Compose UI
 [Appyx](https://github.com/bumble-tech/appyx) Navigation, transition animations, gestures, UI components.
 [![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx?style=flat)](https://github.com/bumble-tech/appyx)
