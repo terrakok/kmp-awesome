@@ -558,6 +558,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)](https://central.sonatype.com/artifact/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)
 > A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.
 
+[Mokkery](https://github.com/lupuuss/Mokkery) - Mocking library
+[![GitHub Repo stars](https://img.shields.io/github/stars/lupuuss/Mokkery?style=flat)](https://github.com/lupuuss/Mokkery)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.mokkery/mokkery-plugin)](https://central.sonatype.com/artifact/dev.mokkery/mokkery-plugin)
+> Mokkery is a mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven. Highly inspired by MockK.
+
 [KLIP](https://github.com/mpetuska/klip) - Snapshot ((c|k)lip) manager for tests. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mpetuska/klip?style=flat)](https://github.com/mpetuska/klip)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.petuska/klip)](https://central.sonatype.com/artifact/dev.petuska/klip)
