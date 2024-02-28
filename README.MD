@@ -558,6 +558,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)](https://central.sonatype.com/artifact/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)
 > A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.
 
+[Mokkery](https://github.com/lupuuss/Mokkery) - Mocking library
+[![GitHub Repo stars](https://img.shields.io/github/stars/lupuuss/Mokkery?style=flat)](https://github.com/lupuuss/Mokkery)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.mokkery/mokkery-plugin)](https://central.sonatype.com/artifact/dev.mokkery/mokkery-plugin)
+> Mokkery is a mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven. Highly inspired by MockK.
+
 [KLIP](https://github.com/mpetuska/klip) - Snapshot ((c|k)lip) manager for tests. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mpetuska/klip?style=flat)](https://github.com/mpetuska/klip)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.petuska/klip)](https://central.sonatype.com/artifact/dev.petuska/klip)
@@ -929,6 +934,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/ismai117/Kottie?style=flat)](https://github.com/ismai117/kottie)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/kottie)](https://central.sonatype.com/artifact/io.github.ismai117/kottie)
 > Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Airbnb/Lottie.
+
+[Compose Cupertino](https://github.com/alexzhirkevich/compose-cupertino/) - Compose Multiplatform UI components for iOS.
+[![GitHub Repo stars](https://img.shields.io/github/stars/alexzhirkevich/compose-cupertino?style=flat)](https://github.com/alexzhirkevich/compose-cupertino/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/cupertino)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/cupertino)
+> Compose Cupertino is a Kotlin Multiplatform library for the Compose Multiplatform UI framework. It provides various UI components and adaptive wrappers for making native-looking iOS applications.
 
 [solivagant](https://github.com/hoc081098/solivagant) - Compose Multiplatform Navigation library.
 [![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/solivagant?style=flat)](https://github.com/hoc081098/solivagant)
