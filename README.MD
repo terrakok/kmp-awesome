@@ -1156,6 +1156,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
+[Monarch](https://github.com/kevincianfarini/monarch) - Multiplatform, multi module, type safe feature flagging. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/kevincianfarini/monarch?style=flat)](https://github.com/kevincianfarini/monarch)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kevincianfarini.monarch/core)](https://central.sonatype.com/namespace/io.github.kevincianfarini.monarch)
+> Monarch is a small, flexible, type safe, and multiplatform abstraction for feature flags.
+
 ## Suggest your an idea
 [What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
 
