@@ -977,6 +977,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.petersamokhin.vksdk/core)](https://central.sonatype.com/artifact/com.petersamokhin.vksdk/core)
 > Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations
 
+[Telegram bot](https://github.com/vendelieu/telegram-bot) - Telegram Bot Api wrapper
+[![GitHub Repo stars](https://img.shields.io/github/stars/vendelieu/telegram-bot?style=flat)](https://github.com/vendelieu/telegram-bot)
+[![Maven Central](https://img.shields.io/maven-central/v/eu.vendeli/telegram-bot)](https://central.sonatype.com/artifact/eu.vendeli/telegram-bot)
+> Telegram Bot API wrapper with handy Kotlin DSL.
+
 [bitcoin-kmp](https://github.com/ACINQ/bitcoin-kmp) - Kotlin Multiplatform Bitcoin Library
 [![GitHub Repo stars](https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat)](https://github.com/ACINQ/bitcoin-kmp)
 [![Maven Central](https://img.shields.io/maven-central/v/fr.acinq.bitcoin/bitcoin-kmp)](https://central.sonatype.com/artifact/fr.acinq.bitcoin/bitcoin-kmp)
