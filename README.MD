@@ -17,6 +17,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 🚀 [KMP Library Wizard](https://terrakok.github.io/kmp-web-wizard/)  
 🍏 [Compose Multiplatform App Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)  
 📋 [Documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)  
+❤️ [Kotlin -> Swift Interopedia](https://github.com/kotlin-hands-on/kotlin-swift-interopedia)  
 📜 [Blog](https://blog.jetbrains.com/kotlin/category/multiplatform/)  
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
