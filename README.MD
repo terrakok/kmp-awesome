@@ -941,6 +941,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/cupertino)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/cupertino)
 > Compose Cupertino is a Kotlin Multiplatform library for the Compose Multiplatform UI framework. It provides various UI components and adaptive wrappers for making native-looking iOS applications.
 
+[ConstraintLayout Compose Multiplatform](https://github.com/Lavmee/constraintlayout-compose-multiplatform/) - ConstraintLayout Compose for Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/lavmee/constraintlayout-compose-multiplatform?style=flat)](https://github.com/lavmee/constraintlayout-compose-multiplatform/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
+> Useful when implementing larger layouts with more complicated alignment requirements.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
