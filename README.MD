@@ -1158,8 +1158,8 @@ your Compose apps.
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
 ## Contribution guide
-Feel free to contribute. Follow common style and welcome!
-Few rules:
+Feel free to contribute. Follow common style and welcome!  
+Few rules:  
  0) every suggesion should contain link to any project uses the library (not an author's sample)
  1) the library is supposed to support Android + iOS targets
  2) the library must be published to the MavenCentral
