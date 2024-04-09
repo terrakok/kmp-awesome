@@ -1160,7 +1160,8 @@ your Compose apps.
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!
 Few rules:
- 1) every suggesion should contain link to any project uses the library
+ 0) every suggesion should contain link to any project uses the library (not an author's sample)
+ 1) the library is supposed to support Android + iOS targets
  2) the library must be published to the MavenCentral
  3) the library should be a popular (github stars > 20, at least)
 
