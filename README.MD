@@ -17,6 +17,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 🚀 [KMP Library Wizard](https://terrakok.github.io/kmp-web-wizard/)  
 🍏 [Compose Multiplatform App Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)  
 📋 [Documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)  
+❤️ [Kotlin -> Swift Interopedia](https://github.com/kotlin-hands-on/kotlin-swift-interopedia)  
 📜 [Blog](https://blog.jetbrains.com/kotlin/category/multiplatform/)  
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
@@ -940,6 +941,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/cupertino)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/cupertino)
 > Compose Cupertino is a Kotlin Multiplatform library for the Compose Multiplatform UI framework. It provides various UI components and adaptive wrappers for making native-looking iOS applications.
 
+[ConstraintLayout Compose Multiplatform](https://github.com/Lavmee/constraintlayout-compose-multiplatform/) - ConstraintLayout Compose for Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/lavmee/constraintlayout-compose-multiplatform?style=flat)](https://github.com/lavmee/constraintlayout-compose-multiplatform/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
+> Useful when implementing larger layouts with more complicated alignment requirements.
+
 [solivagant](https://github.com/hoc081098/solivagant) - Compose Multiplatform Navigation library.
 [![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/solivagant?style=flat)](https://github.com/hoc081098/solivagant)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/solivagant-navigation)](https://central.sonatype.com/artifact/io.github.hoc081098/solivagant-navigation/)
@@ -1161,14 +1167,13 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
-## Suggest your an idea
-[What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
-
-## Authors
-https://github.com/terrakok/kmm-awesome/graphs/contributors
-
 ## Contribution guide
-Feel free to contribute. Follow common style and welcome! :)
+Feel free to contribute. Follow common style and welcome!  
+Few rules:  
+ 1) every suggesion should contain link to any project uses the library (not an author's sample)
+ 2) the library is supposed to support Android + iOS targets
+ 3) the library must be published to the MavenCentral
+ 4) the library should be a popular (github stars ~ 50, at least)
 
 ## License
 ```
