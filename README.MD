@@ -946,6 +946,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/cupertino)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/cupertino)
 > Compose Cupertino is a Kotlin Multiplatform library for the Compose Multiplatform UI framework. It provides various UI components and adaptive wrappers for making native-looking iOS applications.
 
+[ConstraintLayout Compose Multiplatform](https://github.com/Lavmee/constraintlayout-compose-multiplatform/) - ConstraintLayout Compose for Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/lavmee/constraintlayout-compose-multiplatform?style=flat)](https://github.com/lavmee/constraintlayout-compose-multiplatform/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
+> Useful when implementing larger layouts with more complicated alignment requirements.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
@@ -1162,14 +1167,13 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
-## Suggest your an idea
-[What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
-
-## Authors
-https://github.com/terrakok/kmm-awesome/graphs/contributors
-
 ## Contribution guide
-Feel free to contribute. Follow common style and welcome! :)
+Feel free to contribute. Follow common style and welcome!  
+Few rules:  
+ 1) every suggesion should contain link to any project uses the library (not an author's sample)
+ 2) the library is supposed to support Android + iOS targets
+ 3) the library must be published to the MavenCentral
+ 4) the library should be a popular (github stars ~ 50, at least)
 
 ## License
 ```
