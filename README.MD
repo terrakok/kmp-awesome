@@ -217,6 +217,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.rsocket.kotlin/rsocket-core)](https://central.sonatype.com/artifact/io.rsocket.kotlin/rsocket-core)
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
+[Ktor Simple Cache](https://github.com/Scogun/ktor-simple-cache) - Ktor server cache plugin
+[![GitHub Repo stars](https://img.shields.io/github/stars/Scogun/ktor-simple-cache?style=flat)](https://github.com/Scogun/ktor-simple-cache)
+[![Maven Central](https://img.shields.io/maven-central/v/com.ucasoft.ktor/ktor-simple-cache)](https://central.sonatype.com/artifact/com.ucasoft.ktor/ktor-simple-cache)
+> Easy-to-use lightweight library which adds configurable output cache support to [Ktor](https://github.com/ktorio/ktor), including [Memory](https://github.com/Scogun/ktor-simple-cache/tree/main/ktor-simple-memory-cache) and [Redis](https://github.com/Scogun/ktor-simple-cache/tree/main/ktor-simple-redis-cache) providers.
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
