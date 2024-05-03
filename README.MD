@@ -585,9 +585,9 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)](https://central.sonatype.com/artifact/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
 > Libsodium bindings project uses libsodium c sources and libsodium.js to provide a kotlin multiplatform wrapper library for libsodium.
 
-[Krypto](https://github.com/korlibs/krypto) - Pure Kotlin cryptography library
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/krypto?style=flat)](https://github.com/korlibs/krypto)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.krypto/krypto)](https://central.sonatype.com/artifact/com.soywiz.korlibs.krypto/krypto)
+[korlibs-crypto](https://github.com/korlibs/korlibs/tree/main/korlibs-crypto) - Pure Kotlin cryptography library
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korlibs?style=flat)](https://github.com/korlibs/korlibs/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korge/korlibs-crypto)](https://central.sonatype.com/artifact/com.soywiz.korge/korlibs-crypto)
 > SecureRandom, Hash (MD5/SHA1/SHA256), AES
 
 [cryptohash](https://github.com/appmattus/crypto/tree/main/cryptohash) - A set of cryptographic (and not so cryptographic) hashing functions
