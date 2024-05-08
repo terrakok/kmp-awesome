@@ -956,6 +956,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
 > Useful when implementing larger layouts with more complicated alignment requirements.
 
+[KaptureX](https://github.com/estivensh4/kapturex/) - Camera and Video Library for Kotlin Multiplatform. 📸
+[![GitHub Repo stars](https://img.shields.io/github/stars/estivensh4/kapturex?style=flat)](https://github.com/estivensh4/kapturex)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.estivensh4/kaptureX)](https://central.sonatype.com/artifact/io.github.estivensh4/kaptureX)
+> Camera and Video Library for Kotlin Multiplatform.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
