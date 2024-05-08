@@ -288,6 +288,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/com.moriatsushi.cacheable/cacheable-core)](https://central.sonatype.com/artifact/com.moriatsushi.cacheable/cacheable-core)
 > Kotlin Cacheable is an annotation-based caching library for Kotlin Multiplatform.
 
+[AWS KMP](https://github.com/estivensh4/aws-kmp) - AWS KMP is an extension to AWS Kotlin Multiplatform 
+[![GitHub Repo stars](https://img.shields.io/github/stars/estivensh4/aws-kmp)](https://github.com/estivensh4/aws-kmp)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.estivensh4/aws-common-jvm)](https://central.sonatype.com/artifact/io.github.estivensh4/aws-kmp/)
+> AWS KMP is an extension to AWS Kotlin Multiplatform for JVM, Android and iOS.
+
 ### 📱 Device
 [MOKO Permissions](https://github.com/icerockdev/moko-permissions) - System permissions manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-permissions?style=flat)](https://github.com/icerockdev/moko-permissions)
@@ -950,6 +955,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/lavmee/constraintlayout-compose-multiplatform?style=flat)](https://github.com/lavmee/constraintlayout-compose-multiplatform/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
 > Useful when implementing larger layouts with more complicated alignment requirements.
+
+[KaptureX](https://github.com/estivensh4/kapturex/) - Camera and Video Library for Kotlin Multiplatform. 📸
+[![GitHub Repo stars](https://img.shields.io/github/stars/estivensh4/kapturex?style=flat)](https://github.com/estivensh4/kapturex)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.estivensh4/kaptureX)](https://central.sonatype.com/artifact/io.github.estivensh4/kaptureX)
+> Camera and Video Library for Kotlin Multiplatform.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
