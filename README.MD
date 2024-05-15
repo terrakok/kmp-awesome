@@ -626,10 +626,9 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.squareup.okio/okio)](https://central.sonatype.com/artifact/com.squareup.okio/okio)
 > Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data.
 
-[KorIO](https://github.com/korlibs/korio) - access, store, and process your data
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korio?style=flat)](https://github.com/korlibs/korio)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.korio/korio)](https://central.sonatype.com/artifact/com.soywiz.korlibs.korio/korio)
-> KorIO is a library for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization…
+[korlibs](https://github.com/korlibs/korlibs) - access, store, and process your data
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korlibs?style=flat)](https://github.com/korlibs/korlibs)
+> Libraries for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization…
 
 [Suparnatural FS](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - file system i/o
 [![GitHub Repo stars](https://img.shields.io/github/stars/suparngp/kotlin-multiplatform-projects?style=flat)](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs)
