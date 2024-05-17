@@ -218,6 +218,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
 [TitanSocket](https://github.com/TheArchitect123/TitanSocket) - WebSocket Client for Kotlin Multiplatform. Supports iOS, Android & Jvm Platforms
+[![GitHub Repo stars](https://img.shields.io/github/stars/TheArchitect123/TitanSocket?style=flat)](https://github.com/TheArchitect123/TitanSocket)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.thearchitect123/titansocket.svg)](https://central.sonatype.com/artifact/io.github.thearchitect123/titansocket)
 > TitanSocket is a configurable WebSocket client for Kotlin Multiplatform. Fast, Lightweight, and easily connect your logging sinks into it. 
 
