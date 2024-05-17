@@ -217,6 +217,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.rsocket.kotlin/rsocket-core)](https://central.sonatype.com/artifact/io.rsocket.kotlin/rsocket-core)
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
+[TitanSocket](https://github.com/TheArchitect123/TitanSocket) - WebSocket Client for Kotlin Multiplatform. Supports iOS, Android & Jvm Platforms.
+[![Maven Central](https://central.sonatype.com/artifact/io.github.thearchitect123/titansocket)](https://central.sonatype.com/artifact/io.github.thearchitect123/titansocket)
+> TitanSocket is a configurable WebSocket client for Kotlin Multiplatform. Fast, Lightweight, and easily connect your logging sinks into it. 
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
