@@ -955,6 +955,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
 > Useful when implementing larger layouts with more complicated alignment requirements.
 
+[solivagant](https://github.com/hoc081098/solivagant) - Compose Multiplatform Navigation library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/solivagant?style=flat)](https://github.com/hoc081098/solivagant)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/solivagant-navigation)](https://central.sonatype.com/artifact/io.github.hoc081098/solivagant-navigation/)
+> Compose Multiplatform Navigation library - Pragmatic, type safety navigation for Compose Multiplatform. Based on `Freeletics Khonshu Navigation`. Supports ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling, and more...
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
