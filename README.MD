@@ -502,6 +502,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.nsk90/kstatemachine)](https://central.sonatype.com/artifact/io.github.nsk90/kstatemachine)
 > KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
+[Rinku](https://github.com/theolm/Rinku) - Deep Link Handling for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/theolm/Rinku?style=flat)](https://github.com/theolm/Rinku)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.theolm/rinku)](https://mvnrepository.com/artifact/dev.theolm)
+> A Kotlin Multiplatform library for deeplink handling
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting?style=flat)](https://github.com/icerockdev/moko-crash-reporting)
