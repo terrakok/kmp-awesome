@@ -352,7 +352,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [Compass](https://github.com/jordond/compass) - 🧭 Location toolkit for geocoding, geolocation, and autocomplete
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/compass?style=flat)](https://github.com/jordond/compass)
-[![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.compass/compass-core)](https://central.sonatype.com/namespace/dev.jordond.compass)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.compass/core)](https://central.sonatype.com/namespace/dev.jordond.compass)
 > Compass is a Kotlin Multiplatform library location toolkit. It provides a set of tools for working with location data, including geocoding, reverse geocoding, and more.
 
 ### 💉 Dependency Injection
