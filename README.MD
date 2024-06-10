@@ -856,6 +856,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.materialkolor/material-kolor)](https://central.sonatype.com/artifact/com.materialkolor/material-kolor)
 > Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.
 
+[Compose-placeholder](https://github.com/eygraber/compose-placeholder) Modifier for displaying 'placeholder' UI while content is loading.
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/compose-placeholder?style=flat)](https://github.com/eygraber/compose-placeholder)
+[![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/compose-placeholder)](https://central.sonatype.com/artifact/com.eygraber/compose-placeholder)
+> Compose multiplatform library which provides a modifier for displaying 'placeholder' UI while content is loading.
+
 [AAY-chart](https://github.com/TheChance101/AAY-chart) Compose Multiplatform chart library.
 [![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart?style=flat)](https://github.com/TheChance101/AAY-chart)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.thechance101/chart)](https://central.sonatype.com/artifact/io.github.thechance101/chart)
