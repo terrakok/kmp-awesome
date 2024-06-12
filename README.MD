@@ -202,6 +202,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/com.shepeliev/webrtc-kmp)](https://central.sonatype.com/artifact/com.shepeliev/webrtc-kmp)
 > WebRTC Kotlin Multiplatform SDK
 
+[SignalRKore](https://github.com/lepicekmichal/SignalRKore) - SignalR client
+[![GitHub Repo stars](https://img.shields.io/github/stars/lepicekmichal/SignalRKore?style=flat)](https://github.com/lepicekmichal/SignalRKore)
+[![Maven Central](https://img.shields.io/maven-central/v/eu.lepicekmichal.signalrkore/signalrkore)](https://central.sonatype.com/artifact/eu.lepicekmichal.signalrkore/signalrkore)
+> A coroutine-based Kotlin multi-platform SignalR client library.
+
 [Krossbow](https://github.com/joffrey-bion/krossbow) - WebSocket client
 [![GitHub Repo stars](https://img.shields.io/github/stars/joffrey-bion/krossbow?style=flat)](https://github.com/joffrey-bion/krossbow)
 [![Maven Central](https://img.shields.io/maven-central/v/org.hildan.krossbow/krossbow-stomp-core)](https://central.sonatype.com/artifact/org.hildan.krossbow/krossbow-stomp-core)
