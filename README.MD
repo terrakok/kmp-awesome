@@ -650,6 +650,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.suparnatural.kotlin/fs)](https://central.sonatype.com/artifact/com.suparnatural.kotlin/fs)
 > Kotlin multiplatform file system i/o for android, iOS, Java and NodeJS
 
+[FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder
+[![GitHub Repo stars](https://img.shields.io/github/stars/vinceglb/FileKit?style=flat)](https://github.com/vinceglb/FileKit)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.vinceglb/filekit-core)](https://central.sonatype.com/artifact/io.github.vinceglb/filekit-core)
+> Files, Medias, Folder Picker and File saver library for Kotlin Multiplatform and Compose Multiplatform
+
 ### 🚀 Language extensions
 [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library 
 [![GitHub Repo stars](https://img.shields.io/github/stars/arrow-kt/arrow?style=flat)](https://github.com/arrow-kt/arrow)
