@@ -150,35 +150,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/co.touchlab/kermit)](https://central.sonatype.com/artifact/co.touchlab/kermit)
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
 
-[Canard](https://github.com/kosi-libs/Canard) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/Canard?style=flat)](https://github.com/kosi-libs/Canard)
-[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.log/canard)](https://mvnrepository.com/artifact/org.kodein.log/canard)
-> Canard is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.
-
-[Klogger](https://github.com/korlibs/klogger) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/klogger?style=flat)](https://github.com/korlibs/klogger)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.klogger/klogger)](https://central.sonatype.com/artifact/com.soywiz.korlibs.klogger/klogger)
-> Klogger is a logger library for multiplatform Kotlin. This library provides a simple interface to do logging into suitable outputs like javascript’s console, or stdout/stderr.
-
-[Cabret](https://github.com/Foso/Cabret-Log) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/Foso/Cabret-Log?style=flat)](https://github.com/Foso/Cabret-Log)
-[![Maven Central](https://img.shields.io/maven-central/v/de.jensklingenberg.cabret/cabret-compiler-runtime)](https://central.sonatype.com/artifact/de.jensklingenberg.cabret/cabret-compiler-runtime)
-> This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform.
-
 [KmLogging](https://github.com/LighthouseGames/KmLogging) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/LighthouseGames/KmLogging?style=flat)](https://github.com/LighthouseGames/KmLogging)
 [![Maven Central](https://img.shields.io/maven-central/v/org.lighthousegames/logging)](https://central.sonatype.com/artifact/org.lighthousegames/logging)
 > Kotlin multiplatform logging. High performance, composable and simple to use. 
-
-[Kydra Log](https://github.com/PocketByte/kotlin-kydra-log) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/PocketByte/kotlin-kydra-log?style=flat)](https://github.com/PocketByte/kotlin-kydra-log)
-[![Maven Central](https://img.shields.io/maven-central/v/ru.pocketbyte.kydra/kydra-log)](https://central.sonatype.com/artifact/ru.pocketbyte.kydra/kydra-log)
-> Kotlin Multiplatform Library that allows to write logs in common module.
-
-[kmp-xlog](https://github.com/HackWebRTC/kmp-xlog) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/HackWebRTC/kmp-xlog?style=flat)](https://github.com/HackWebRTC/kmp-xlog)
-[![Maven Central](https://img.shields.io/maven-central/v/com.piasy/kmp-xlog)](https://central.sonatype.com/artifact/com.piasy/kmp-xlog)
-> KMP wrapper for [tencent mars xlog](https://github.com/Tencent/mars).
 
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
@@ -226,11 +201,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
 [![Maven Central](https://img.shields.io/maven-central/v/com.russhwolf/multiplatform-settings)](https://central.sonatype.com/artifact/com.russhwolf/multiplatform-settings)
 > This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data
-
-[abc-kmm-shared-storage](https://github.com/line/abc-kmm-shared-storage) - Key-Value storage
-[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-shared-storage?style=flat)](https://github.com/line/abc-kmm-shared-storage)
-[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-shared-storage)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-shared-storage)
-> A local storage management library for Kotlin Multiplatform Mobile iOS and Android 
 
 [KVault](https://github.com/Liftric/KVault) - secure key-value storage
 [![GitHub Repo stars](https://img.shields.io/github/stars/Liftric/KVault?style=flat)](https://github.com/Liftric/KVault)
@@ -426,16 +396,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/org.reduxkotlin/redux-kotlin-threadsafe)](https://central.sonatype.com/artifact/org.reduxkotlin/redux-kotlin-threadsafe)
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 
-[CoRed](https://github.com/kittinunf/CoRed) - Opinionated Redux-like implementation
-[![GitHub Repo stars](https://img.shields.io/github/stars/kittinunf/CoRed?style=flat)](https://github.com/kittinunf/CoRed)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.kittinunf.cored/cored)](https://central.sonatype.com/artifact/com.github.kittinunf.cored/cored)
-> CoRed is Redux-like implementation that maintains the benefits of Redux's core idea without the boilerplate. No more action types, action creators, switch statements or complicated setup. It is Kotlin and it has coroutine supported right out-of-the-box.
-
-[Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - Redux for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/abhimuktheeswarar/Flywheel?style=flat)](https://github.com/abhimuktheeswarar/Flywheel)
-[![Maven Central](https://img.shields.io/maven-central/v/com.msabhi/flywheel)](https://central.sonatype.com/artifact/com.msabhi/flywheel)
-> A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.
-
 [FlowRedux](https://github.com/freeletics/FlowRedux) - Statemachine library with nice DSL
 [![GitHub Repo stars](https://img.shields.io/github/stars/freeletics/FlowRedux?style=flat)](https://github.com/freeletics/FlowRedux)
 [![Maven Central](https://img.shields.io/maven-central/v/com.freeletics.flowredux/flowredux)](https://central.sonatype.com/artifact/com.freeletics.flowredux/flowredux)
@@ -455,11 +415,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/oolong-kt/oolong?style=flat)](https://github.com/oolong-kt/oolong)
 [![Maven Central](https://img.shields.io/maven-central/v/org.oolong-kt/oolong)](https://central.sonatype.com/artifact/org.oolong-kt/oolong)
 > Oolong is an [Elm](https://guide.elm-lang.org/architecture) inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
-
-[Summer](https://github.com/adevone/summer) - Share ViewModels between iOS, Android and Web apps
-[![GitHub Repo stars](https://img.shields.io/github/stars/adevone/summer?style=flat)](https://github.com/adevone/summer)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.adevone.summer/summer)](https://central.sonatype.com/artifact/com.github.adevone.summer/summer)
-> Summer is a presentation level library with kotlin-multiplatform support. It can be used to share viewModels between iOS, Android and Web apps.  Summer does not use code generation and thus have not significant effort on compilation time and odd build-time errors.  Project aims to have out-of-box support of Android Framework, Jetpack Compose, UIKit and SwiftUI without any adapters and platform-specific limitations.
 
 [Premo](https://github.com/dmdevgo/Premo) — Presentation Model (aka View Model) and Navigation
 [![GitHub Repo stars](https://img.shields.io/github/stars/dmdevgo/premo?style=flat)](https://github.com/dmdevgo/Premo)
@@ -496,11 +451,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.kuuuurt/multiplatform-paging)](https://central.sonatype.com/artifact/io.github.kuuuurt/multiplatform-paging)
 > A Kotlin Multiplatform library for pagination.
 
-[Kotlin Bloc](https://github.com/1gravity/Kotlin-Bloc) - UI framework for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/1gravity/Kotlin-Bloc?style=flat)](https://github.com/1gravity/Kotlin-Bloc)
-[![Maven Central](https://img.shields.io/maven-central/v/com.1gravity/bloc-core)](https://central.sonatype.com/artifact/com.1gravity/bloc-core)
-> Kotlin Bloc is a simple, predictable and composable UI framework for Kotlin Multiplatform supporting Android, iOS and JVM.
-
 [kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - Kotlin Multiplatform ViewModel
 [![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/kmp-viewmodel?style=flat)](https://github.com/hoc081098/kmp-viewmodel)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/kmp-viewmodel)](https://central.sonatype.com/artifact/io.github.hoc081098/kmp-viewmodel/)
@@ -536,16 +486,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/NSExceptionKt?style=flat)](https://github.com/rickclephas/NSExceptionKt)
 [![Maven Central](https://img.shields.io/maven-central/v/com.rickclephas.kmp/nsexception-kt-core)](https://central.sonatype.com/artifact/com.rickclephas.kmp/nsexception-kt-core)
 > Unhandled Kotlin exceptions logging for Apple platforms.
-
-[abc-kmm-analytics-tools](https://github.com/line/abc-kmm-analytics-tools) - Analytics Tools 
-[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-analytics-tools?style=flat)](https://github.com/line/abc-kmm-analytics-tools)
-[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-analytics-tools)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-analytics-tools)
-> Automatically tracking and sending events of screen view and capture
-
-[Analytics](https://github.com/ppav/analytics) - analytics facade
-[![GitHub Repo stars](https://img.shields.io/github/stars/ppav/analytics?style=flat)](https://github.com/ppav/analytics)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.ppav.analytics/analytics)](https://central.sonatype.com/artifact/io.github.ppav/analytics/analytics)
-> Kotlin Multiplatform library as a simple facade or abstraction for analytics.
 
 [trckr](https://github.com/dzmpr/trckr) - KSP processor
 [![GitHub Repo stars](https://img.shields.io/github/stars/dzmpr/trckr?style=flat)](https://github.com/dzmpr/trckr)
@@ -1031,11 +971,6 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.sentry/sentry-kotlin-multiplatform)](https://central.sonatype.com/artifact/io.sentry/sentry-kotlin-multiplatform)
 > This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.
 
-[VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK 
-[![GitHub Repo stars](https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin?style=flat)](https://github.com/vksdk/vk-sdk-kotlin)
-[![Maven Central](https://img.shields.io/maven-central/v/com.petersamokhin.vksdk/core)](https://central.sonatype.com/artifact/com.petersamokhin.vksdk/core)
-> Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations
-
 [bitcoin-kmp](https://github.com/ACINQ/bitcoin-kmp) - Kotlin Multiplatform Bitcoin Library
 [![GitHub Repo stars](https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat)](https://github.com/ACINQ/bitcoin-kmp)
 [![Maven Central](https://img.shields.io/maven-central/v/fr.acinq.bitcoin/bitcoin-kmp)](https://central.sonatype.com/artifact/fr.acinq.bitcoin/bitcoin-kmp)
@@ -1070,11 +1005,6 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/configcat/kotlin-sdk?style=flat)](https://github.com/configcat/kotlin-sdk)
 [![Maven Central](https://img.shields.io/maven-central/v/com.configcat/configcat-kotlin-client)](https://central.sonatype.com/artifact/com.configcat/configcat-kotlin-client)
 > Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
-
-[Solana-kmp](https://github.com/metaplex-foundation/solana-kmp) - Kotlin Multiplatform SDK for Kotlin 
-[![GitHub Repo stars](https://img.shields.io/github/stars/metaplex-foundation/solana-kmp?style=flat)](https://github.com/metaplex-foundation/solana-kmp)
-[![Maven Central](https://img.shields.io/maven-central/v/foundation.metaplex/solana)](https://central.sonatype.com/artifact/foundation.metaplex/solana)
-> Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.
 
 ### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
