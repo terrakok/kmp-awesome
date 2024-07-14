@@ -1006,6 +1006,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.configcat/configcat-kotlin-client)](https://central.sonatype.com/artifact/com.configcat/configcat-kotlin-client)
 > Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
 
+[Overwatch-player-search-api](https://github.com/shalva97/overwatch-player-search-api) - Kotlin Multiplatform SDK for searching players in Overwatch
+[![GitHub Repo stars](https://img.shields.io/github/stars/shalva97/overwatch-player-search-api?style=flat)](https://github.com/shalva97/overwatch-player-search-api)
+[GitHub Packages](https://github.com/shalva97?tab=packages&repo_name=overwatch-player-search-api)
+> Search and get statistics about players in Overwatch 
+
 ### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum?style=flat)](https://github.com/korlibs/kbignum)
