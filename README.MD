@@ -672,11 +672,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-datetime)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-datetime)
 > A multiplatform Kotlin library for working with date and time.
 
-[Klock](https://github.com/korlibs/klock) - Date & Time library
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/klock?style=flat)](https://github.com/korlibs/klock)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz/klock)](https://central.sonatype.com/artifact/com.soywiz/klock)
-> Klock is a Date & Time library for Multiplatform Kotlin. It is designed to be as allocation-free as possible using Kotlin inline classes, to be consistent and portable across targets since all the code is written in Common Kotlin, and to provide an API that is powerful, fun and easy to use.
-
 [Island Time](https://github.com/erikc5000/island-time) - Date & Time library
 [![GitHub Repo stars](https://img.shields.io/github/stars/erikc5000/island-time?style=flat)](https://github.com/erikc5000/island-time)
 [![Maven Central](https://img.shields.io/maven-central/v/io.islandtime/core)](https://central.sonatype.com/artifact/io.islandtime/core)
