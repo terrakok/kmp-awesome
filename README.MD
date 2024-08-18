@@ -461,6 +461,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.kuuuurt/multiplatform-paging)](https://central.sonatype.com/artifact/io.github.kuuuurt/multiplatform-paging)
 > A Kotlin Multiplatform library for pagination.
 
+[lazy-pagination-compose](https://github.com/Ahmad-Hamwi/lazy-pagination-compose) - Pagination library for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Ahmad-Hamwi/lazy-pagination-compose?style=flat)](https://github.com/Ahmad-Hamwi/lazy-pagination-compose)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ahmad-hamwi/lazy-pagination-compose)](https://central.sonatype.com/artifact/io.github.ahmad-hamwi/lazy-pagination-compose)
+> Intuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables. 
+
 [kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - Kotlin Multiplatform ViewModel
 [![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/kmp-viewmodel?style=flat)](https://github.com/hoc081098/kmp-viewmodel)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/kmp-viewmodel)](https://central.sonatype.com/artifact/io.github.hoc081098/kmp-viewmodel/)
