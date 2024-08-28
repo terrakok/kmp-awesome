@@ -1,10 +1,10 @@
-# <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/icon.svg" width="30"/> Awesome Kotlin Multiplatform
+# <img src="https://github.com/terrakok/kmp-awesome/raw/master/img/icon.svg" width="30"/> Awesome Kotlin Multiplatform
 
-<img src="https://github.com/terrakok/kmm-awesome/raw/master/img/multiplatform-sharing.svg" align="center" width="400"/>
+<img src="https://github.com/terrakok/kmp-awesome/raw/master/img/multiplatform-sharing.svg" align="center" width="400"/>
 
-[![Pull request](https://img.shields.io/badge/PRs-welcome-success?style=flat)](https://github.com/terrakok/kmm-awesome/pulls)
+[![Pull request](https://img.shields.io/badge/PRs-welcome-success?style=flat)](https://github.com/terrakok/kmp-awesome/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmm-awesome?style=flat)](https://github.com/terrakok/kmm-awesome)
+[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmp-awesome?style=flat)](https://github.com/terrakok/kmp-awesome)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](https://central.sonatype.com/search?q=g%3Aorg.jetbrains.kotlin)
 
 Kotlin Multiplatform technology simplifies the development of cross-platform projects.
@@ -29,39 +29,39 @@ It reduces time spent writing and maintaining the same code for different platfo
 ## Contents
 <table>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#tooling">🛠 Tooling</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-log">📋 Log</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-network">🌎 Network</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#tooling">🛠 Tooling</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-log">📋 Log</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-network">🌎 Network</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-storage">📦 Storage</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-device">📱 Device</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-dependency-injection">💉 Dependency Injection</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-storage">📦 Storage</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-device">📱 Device</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-dependency-injection">💉 Dependency Injection</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-architecture">🏗 Architecture</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-analytics">🔍 Analytics</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-test">🩺 Test</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-architecture">🏗 Architecture</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-analytics">🔍 Analytics</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-test">🩺 Test</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-crypto">🔑 Crypto</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-file">📁 File</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extensions">🚀 Language extensions</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-crypto">🔑 Crypto</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-file">📁 File</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-language-extensions">🚀 Language extensions</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-serializer">🗃 Serializer</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-date-time">⏰ Date-Time</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-asynchronous">➿ Asynchronous</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-serializer">🗃 Serializer</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-date-time">⏰ Date-Time</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-asynchronous">➿ Asynchronous</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-compose-ui">🍎 Compose UI</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-graphics">🎨 Graphics</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-service-sdk">🧩 Service SDK</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-compose-ui">🍎 Compose UI</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-graphics">🎨 Graphics</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-service-sdk">🧩 Service SDK</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-arithmetic">🧮 Arithmetic</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-resources">🛢 Resources</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-utils">🔧 Utils</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-arithmetic">🧮 Arithmetic</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-resources">🛢 Resources</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-utils">🔧 Utils</a></td>
   </tr>
 </table>
 
