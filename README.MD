@@ -1045,6 +1045,11 @@ your Compose apps.
 > The plugin and a library work in tandem to provide a unified API across platforms for reading resources from each source set's resources folder.
 
 ### 🔧 Utils
+[KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - 35+ Modules to accelerate your Kotlin Multiplatform Development.
+[![GitHub Repo stars](https://img.shields.io/github/stars/TheArchitect123/KmpEssentials?style=flat)](https://github.com/TheArchitect123/KmpEssentials)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.thearchitect123/kmpEssentials)](https://central.sonatype.com/artifact/io.github.thearchitect123/kmpEssentials)
+> KmpEssentials is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports both iOS & Android
+
 [UUID](https://github.com/benasher44/uuid) - UUID generator
 [![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid?style=flat)](https://github.com/benasher44/uuid)
 [![Maven Central](https://img.shields.io/maven-central/v/com.benasher44/uuid)](https://central.sonatype.com/artifact/com.benasher44/uuid)
