@@ -391,10 +391,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/pro.respawn.flowmvi/core)](https://central.sonatype.com/namespace/pro.respawn.flowmvi)
 > FlowMVI is a KMP MVI library based on coroutines with a rich DSL and a powerful plugin system.
 
-[KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - KMM ViewModels
-[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMM-ViewModel?style=flat)](https://github.com/rickclephas/KMM-ViewModel)
-[![Maven Central](https://img.shields.io/maven-central/v/com.rickclephas.kmm/kmm-viewmodel-core)](https://central.sonatype.com/artifact/com.rickclephas.kmm/kmm-viewmodel-core)
-> A library that allows you to share ViewModels between Android and iOS.
+[KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - KMP ViewModels
+[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMP-ObservableViewModel?style=flat)](https://github.com/rickclephas/KMP-ObservableViewModel)
+[![Maven Central](https://img.shields.io/maven-central/v/com.rickclephas.kmp/kmp-observableviewmodel-core)](https://central.sonatype.com/artifact/com.rickclephas.kmp/kmp-observableviewmodel-core)
+> A library (previously known as KMM-ViewModel) that allows you to use AndroidX/Kotlin ViewModels with SwiftUI.
 
 [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) - FSM-based MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM?style=flat)](https://github.com/Kontur-Mobile/VisualFSM)
