@@ -1034,8 +1034,9 @@ your Compose apps.
 > Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
 
 ### 🛢 Resources
-[Libres](https://github.com/Skeptick/libres) gradle plugin 
+[Libres](https://github.com/Skeptick/libres) - Resources manager.
 [![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.skeptick.libres/libres)](https://central.sonatype.com/artifact/io.github.skeptick.libres/libres)
 > String/Image resources generation in Kotlin Multiplatform.
 
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
