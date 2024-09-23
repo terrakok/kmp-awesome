@@ -775,16 +775,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.dnd/compose-dnd)](https://central.sonatype.com/artifact/com.mohamedrejeb.dnd/compose-dnd)
 > Compose DND is a library that allows you to easily add drag and drop functionality to your Jetpack Compose and Compose Multiplatform projects.
 
-[Libres-Compose](https://github.com/Skeptick/libres) Resources generation in Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.skeptick.libres/libres-compose)](https://central.sonatype.com/artifact/io.github.skeptick.libres/libres-compose)
-> This artifact provides painterResource function that can be used to get Painter from io.github.skeptick.libres.Image in common code.
-
-[InsetsX](https://github.com/mori-atsushi/insetsx) WindowInsets
-[![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/insetsx?style=flat)](https://github.com/mori-atsushi/insetsx)
-[![Maven Central](https://img.shields.io/maven-central/v/com.moriatsushi.insetsx/insetsx)](https://central.sonatype.com/artifact/com.moriatsushi.insetsx/insetsx)
-> InsetsX provides a WindowInsets utility for Compose Multiplatform.
-
 [Window Size Class](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) Window Size Class
 [![GitHub Repo stars](https://img.shields.io/github/stars/chrisbanes/material3-windowsizeclass-multiplatform?style=flat)](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.chrisbanes.material3/material3-window-size-class-multiplatform)](https://central.sonatype.com/artifact/dev.chrisbanes.material3/material3-window-size-class-multiplatform)
