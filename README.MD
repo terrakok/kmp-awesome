@@ -85,10 +85,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/wireapp/carthage-gradle-plugin?style=flat)](https://github.com/wireapp/carthage-gradle-plugin)
 > Adds support for integrating Carthage dependencies into a KMM project.
 
-[Libres](https://github.com/Skeptick/libres) gradle plugin 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
-> String/Image resources generation in Kotlin Multiplatform.
-
 [MOKO KSwift](https://github.com/icerockdev/moko-kswift) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-kswift?style=flat)](https://github.com/icerockdev/moko-kswift)
 > KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.
@@ -1038,6 +1034,11 @@ your Compose apps.
 > Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
 
 ### 🛢 Resources
+[Libres](https://github.com/Skeptick/libres) - Resources manager.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.skeptick.libres/libres)](https://central.sonatype.com/artifact/io.github.skeptick.libres/libres)
+> String/Image resources generation in Kotlin Multiplatform.
+
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources?style=flat)](https://github.com/icerockdev/moko-resources)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/resources)](https://central.sonatype.com/artifact/dev.icerock.moko/resources)
