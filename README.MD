@@ -837,6 +837,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.thechance101/chart)](https://central.sonatype.com/artifact/io.github.thechance101/chart)
 > The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
 
+[CMPCharts](https://github.com/Chaintech-Network/CMPCharts) Compose Multiplatform graph library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Chaintech-Network/CMPCharts?style=flat)](https://github.com/Chaintech-Network/CMPCharts)
+[![Maven Central](https://img.shields.io/maven-central/v/network.chaintech/cmpcharts)](https://central.sonatype.com/artifact/network.chaintech/cmpcharts)
+> A very Minimal, Sleek and Lightweight Graph library for Compose Multiplatform. Currently supported platforms are Desktop Android, IOS and Desktop
+
 [kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette?style=flat)](https://github.com/jordond/kmpalette)
 [![Maven Central](https://img.shields.io/maven-central/v/com.kmpalette/kmpalette-core)](https://central.sonatype.com/artifact/com.kmpalette/kmpalette-core)
@@ -861,6 +866,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexzhirkevich/qrose?style=flat)](https://github.com/alexzhirkevich/qrose)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/qrose)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/qrose/badge.svg)
 > Styled QR code generation library for Compose Multiplatform.
+
+[QRKit](https://github.com/Chaintech-Network/QRKitComposeMultiplatform) - Multiplatform QR code reader & generator
+[![GitHub Repo stars](https://img.shields.io/github/stars/Chaintech-Network/QRKitComposeMultiplatform?style=flat)](https://github.com/Chaintech-Network/QRKitComposeMultiplatform)
+[![Maven Central](https://img.shields.io/maven-central/v/network.chaintech/qr-kit)](https://central.sonatype.com/artifact/network.chaintech/qr-kit)
+> QRKit is a Compose Multiplatform library designed for seamless QR code scanning & QR code Generating across Android, iOS, and Desktop applications.
 
 [rebugger](https://github.com/theapache64/rebugger) - A recomposition debugger
 [![GitHub Repo stars](https://img.shields.io/github/stars/theapache64/rebugger?style=flat)](https://github.com/theapache64/rebugger)
@@ -960,6 +970,12 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/colorpicker-compose?style=flat)](https://github.com/skydoves/colorpicker-compose/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/colorpicker-compose.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%colorpicker-compose)
 > Kotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.
+
+
+[MediaPlayer-KMP](https://github.com/KhubaibKhan4/MediaPlayer-KMP): MediaPlayer library for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/MediaPlayer-KMP?style=flat)](https://github.com/skydoves/KhubaibKhan4/MediaPlayer-KMP)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/mediaplayer-kmp.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/mediaplayer-kmp)
+> MediaPlayer-KMP is a Kotlin Multiplatform (KMP) library that allows you to display and play YouTube videos across Android, iOS, Web, and Desktop platforms using JetBrains Compose Multiplatform.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
