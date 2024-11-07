@@ -838,11 +838,6 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/compose-placeholder)](https://central.sonatype.com/artifact/com.eygraber/compose-placeholder)
 > Compose multiplatform library which provides a modifier for displaying 'placeholder' UI while content is loading.
 
-[AAY-chart](https://github.com/TheChance101/AAY-chart) Compose Multiplatform chart library.
-[![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart?style=flat)](https://github.com/TheChance101/AAY-chart)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.thechance101/chart)](https://central.sonatype.com/artifact/io.github.thechance101/chart)
-> The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
-
 [kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette?style=flat)](https://github.com/jordond/kmpalette)
 [![Maven Central](https://img.shields.io/maven-central/v/com.kmpalette/kmpalette-core)](https://central.sonatype.com/artifact/com.kmpalette/kmpalette-core)
