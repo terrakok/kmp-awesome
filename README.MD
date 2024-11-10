@@ -373,6 +373,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.
 
 ### 🏗 Architecture
+[KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials
+[![GitHub Repo stars](https://img.shields.io/github/stars/thearchitect123/kmpEssentials?style=flat)](https://github.com/TheArchitect123/KmpEssentials)
+> **KmpEssentials** is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch
+
 [Evas](https://github.com/sellmair/evas) - Events and States for Kotlin
 [![GitHub Repo stars](https://img.shields.io/github/stars/sellmair/evas?style=flat)](https://github.com/sellmair/evas)
 [![Maven Central](https://img.shields.io/maven-central/v/io.sellmair/evas)](https://central.sonatype.com/artifact/io.sellmair/evas)
