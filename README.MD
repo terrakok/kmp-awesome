@@ -375,7 +375,13 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ### 🏗 Architecture
 [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials)
 [![GitHub Repo stars](https://img.shields.io/github/stars/thearchitect123/kmpEssentials?style=flat)](https://github.com/TheArchitect123/KmpEssentials)
-[![Maven Central](https://central.sonatype.com/artifact/io.github.thearchitect123/kmpEssentials)](https://github.com/TheArchitect123/KmpEssentials)
+ <a href="https://central.sonatype.com/artifact/io.github.thearchitect123/kmpEssentials">
+    <img alt="GitHub" src="https://img.shields.io/maven-central/v/io.github.thearchitect123/kmpEssentials">
+  </a>
+
+  <a href="https://github.com/TheArchitect123/kmpEssentials">
+    <img alt="GitHub" src="https://img.shields.io/badge/_Android,_AppleWatch,_iOS-white.svg">
+  </a>
 > **KmpEssentials** is a library that contains apis (40+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch
 
 [Evas](https://github.com/sellmair/evas) - Events and States for Kotlin
