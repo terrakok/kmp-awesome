@@ -1178,6 +1178,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
+[KOMM](https://github.com/Scogun/komm) - Kotlin Object Multiplatform Mapper
+[![GitHub Repo stars](https://img.shields.io/github/stars/Scogun/komm?style=flat)](https://github.com/Scogun/komm)
+[![Maven Central](https://img.shields.io/maven-central/v/com.ucasoft.komm/komm-annotations)](https://central.sonatype.com/namespace/com.ucasoft.komm/komm-annotations)
+> Kotlin Object Multiplatform Mapper which generates mapping function via KSP and supports multi-mapping, converters, resolvers, null-substitute etc.
+
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
 Few rules:  
