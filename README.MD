@@ -1,10 +1,10 @@
-# <img src="https://github.com/terrakok/kmm-awesome/raw/master/img/icon.svg" width="30"/> Awesome Kotlin Multiplatform
+# <img src="https://github.com/terrakok/kmp-awesome/raw/master/img/icon.svg" width="30"/> Awesome Kotlin Multiplatform
 
-<img src="https://github.com/terrakok/kmm-awesome/raw/master/img/multiplatform-sharing.svg" align="center" width="400"/>
+<img src="https://github.com/terrakok/kmp-awesome/raw/master/img/multiplatform-sharing.svg" align="center" width="400"/>
 
-[![Pull request](https://img.shields.io/badge/PRs-welcome-success?style=flat)](https://github.com/terrakok/kmm-awesome/pulls)
+[![Pull request](https://img.shields.io/badge/PRs-welcome-success?style=flat)](https://github.com/terrakok/kmp-awesome/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmm-awesome?style=flat)](https://github.com/terrakok/kmm-awesome)
+[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmp-awesome?style=flat)](https://github.com/terrakok/kmp-awesome)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](https://central.sonatype.com/search?q=g%3Aorg.jetbrains.kotlin)
 
 Kotlin Multiplatform technology simplifies the development of cross-platform projects.
@@ -23,45 +23,46 @@ It reduces time spent writing and maintaining the same code for different platfo
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
 🗄 [Jetpack Compose Components](https://m3.material.io/components)  
 🗄 [Compose Material 3 Gallery](https://terrakok.github.io/compose-material-3-gallery/)  
+🎨 [Material Theme Builder](https://materialkolor.com)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
-📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
+📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)  
 
 ## Contents
 <table>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#tooling">🛠 Tooling</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-log">📋 Log</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-network">🌎 Network</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#tooling">🛠 Tooling</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-log">📋 Log</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-network">🌎 Network</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-storage">📦 Storage</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-device">📱 Device</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-dependency-injection">💉 Dependency Injection</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-storage">📦 Storage</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-device">📱 Device</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-dependency-injection">💉 Dependency Injection</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-architecture">🏗 Architecture</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-analytics">🔍 Analytics</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-test">🩺 Test</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-architecture">🏗 Architecture</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-analytics">🔍 Analytics</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-test">🩺 Test</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-crypto">🔑 Crypto</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-file">📁 File</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-language-extensions">🚀 Language extensions</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-crypto">🔑 Crypto</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-file">📁 File</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-language-extensions">🚀 Language extensions</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-serializer">🗃 Serializer</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-date-time">⏰ Date-Time</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-asynchronous">➿ Asynchronous</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-serializer">🗃 Serializer</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-date-time">⏰ Date-Time</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-asynchronous">➿ Asynchronous</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-compose-ui">🍎 Compose UI</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-graphics">🎨 Graphics</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-service-sdk">🧩 Service SDK</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-compose-ui">🍎 Compose UI</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-graphics">🎨 Graphics</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-service-sdk">🧩 Service SDK</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-arithmetic">🧮 Arithmetic</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-resources">🛢 Resources</a></td>
-    <td><a href="https://github.com/terrakok/kmm-awesome#-utils">🔧 Utils</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-arithmetic">🧮 Arithmetic</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-resources">🛢 Resources</a></td>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-utils">🔧 Utils</a></td>
   </tr>
 </table>
 
@@ -84,10 +85,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [Carthage](https://github.com/wireapp/carthage-gradle-plugin) integration 
 [![GitHub Repo stars](https://img.shields.io/github/stars/wireapp/carthage-gradle-plugin?style=flat)](https://github.com/wireapp/carthage-gradle-plugin)
 > Adds support for integrating Carthage dependencies into a KMM project.
-
-[Libres](https://github.com/Skeptick/libres) gradle plugin 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
-> String/Image resources generation in Kotlin Multiplatform.
 
 [MOKO KSwift](https://github.com/icerockdev/moko-kswift) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-kswift?style=flat)](https://github.com/icerockdev/moko-kswift)
@@ -133,6 +130,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/AboutLibraries?style=flat)](https://github.com/mikepenz/AboutLibraries)
 > Collects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.
 
+[Power-Assert](https://kotlinlang.org/docs/power-assert.html) gradle plugin 
+[![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/kotlin?style=flat)](https://github.com/JetBrains/kotlin/tree/master/plugins/power-assert)
+> The Kotlin Power-assert compiler plugin improves the debugging experience by providing detailed failure messages with contextual information. It simplifies the process of writing tests by automatically generating intermediate values in failure messages. It helps you understand why a test failed without needing complex assertion libraries.
+
+[Valkyrie](https://github.com/ComposeGears/Valkyrie) IntelliJ IDEA / Android Studio plugin 
+![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat)
+> Convert SVG/XML icons into Compose ImageVector with convenient code formatting. Plugin provides ability to one-click conversion or icon pack creation with batch export. 
+
 ## Libraries
 
 ### 📋 Log
@@ -146,35 +151,16 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/co.touchlab/kermit)](https://central.sonatype.com/artifact/co.touchlab/kermit)
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
 
-[Canard](https://github.com/kosi-libs/Canard) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/Canard?style=flat)](https://github.com/kosi-libs/Canard)
-[![Maven Central](https://img.shields.io/maven-central/v/org.kodein.log/canard)](https://mvnrepository.com/artifact/org.kodein.log/canard)
-> Canard is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.
-
-[Klogger](https://github.com/korlibs/klogger) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/klogger?style=flat)](https://github.com/korlibs/klogger)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.klogger/klogger)](https://central.sonatype.com/artifact/com.soywiz.korlibs.klogger/klogger)
-> Klogger is a logger library for multiplatform Kotlin. This library provides a simple interface to do logging into suitable outputs like javascript’s console, or stdout/stderr.
-
-[Cabret](https://github.com/Foso/Cabret-Log) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/Foso/Cabret-Log?style=flat)](https://github.com/Foso/Cabret-Log)
-[![Maven Central](https://img.shields.io/maven-central/v/de.jensklingenberg.cabret/cabret-compiler-runtime)](https://central.sonatype.com/artifact/de.jensklingenberg.cabret/cabret-compiler-runtime)
-> This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform.
-
 [KmLogging](https://github.com/LighthouseGames/KmLogging) - logger
 [![GitHub Repo stars](https://img.shields.io/github/stars/LighthouseGames/KmLogging?style=flat)](https://github.com/LighthouseGames/KmLogging)
 [![Maven Central](https://img.shields.io/maven-central/v/org.lighthousegames/logging)](https://central.sonatype.com/artifact/org.lighthousegames/logging)
 > Kotlin multiplatform logging. High performance, composable and simple to use. 
 
-[Kydra Log](https://github.com/PocketByte/kotlin-kydra-log) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/PocketByte/kotlin-kydra-log?style=flat)](https://github.com/PocketByte/kotlin-kydra-log)
-[![Maven Central](https://img.shields.io/maven-central/v/ru.pocketbyte.kydra/kydra-log)](https://central.sonatype.com/artifact/ru.pocketbyte.kydra/kydra-log)
-> Kotlin Multiplatform Library that allows to write logs in common module.
+[kotlin-logging](https://github.com/oshai/kotlin-logging) - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/oshai/kotlin-logging?style=flat)](https://github.com/oshai/kotlin-logging)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
+> Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
-[kmp-xlog](https://github.com/HackWebRTC/kmp-xlog) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/HackWebRTC/kmp-xlog?style=flat)](https://github.com/HackWebRTC/kmp-xlog)
-[![Maven Central](https://img.shields.io/maven-central/v/com.piasy/kmp-xlog)](https://central.sonatype.com/artifact/com.piasy/kmp-xlog)
-> KMP wrapper for [tencent mars xlog](https://github.com/Tencent/mars).
 
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
@@ -222,11 +208,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
 [![Maven Central](https://img.shields.io/maven-central/v/com.russhwolf/multiplatform-settings)](https://central.sonatype.com/artifact/com.russhwolf/multiplatform-settings)
 > This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data
-
-[abc-kmm-shared-storage](https://github.com/line/abc-kmm-shared-storage) - Key-Value storage
-[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-shared-storage?style=flat)](https://github.com/line/abc-kmm-shared-storage)
-[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-shared-storage)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-shared-storage)
-> A local storage management library for Kotlin Multiplatform Mobile iOS and Android 
 
 [KVault](https://github.com/Liftric/KVault) - secure key-value storage
 [![GitHub Repo stars](https://img.shields.io/github/stars/Liftric/KVault?style=flat)](https://github.com/Liftric/KVault)
@@ -331,7 +312,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 [Kable](https://github.com/juullabs/kable) - Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 [![GitHub Repo stars](https://img.shields.io/github/stars/juullabs/kable?style=flat)](https://github.com/juullabs/kable)
-[![Maven Central](https://img.shields.io/maven-central/v/com.juul.kable/core)](https://central.sonatype.com/artifact/com.juul.kable/core/)
+[![Maven Central](https://img.shields.io/maven-central/v/com.juul.kable/kable-core)](https://central.sonatype.com/artifact/com.juul.kable/kable-core/)
 >Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 
 [Blue-Falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform library for iOS and Android
@@ -354,6 +335,16 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mirzemehdi/KMPNotifier?style=flat)](https://github.com/mirzemehdi/KMPNotifier)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.mirzemehdi/kmpnotifier)](https://central.sonatype.com/artifact/io.github.mirzemehdi/kmpnotifier)
 > Kotlin Multiplatform Push Notification Library using Firebase for iOS and Android.
+
+[Compass](https://github.com/jordond/compass) - 🧭 Location toolkit for geocoding, geolocation, and autocomplete
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/compass?style=flat)](https://github.com/jordond/compass)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.compass/core)](https://central.sonatype.com/namespace/dev.jordond.compass)
+> Compass is a Kotlin Multiplatform library location toolkit. It provides a set of tools for working with location data, including geocoding, reverse geocoding, and more.
+
+[Connectivity](https://github.com/jordond/connectivity) - Retrieve and monitor internet connectivity
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/connectivity?style=flat)](https://github.com/jordond/connectivity)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.connectivity/connectivity-core)](https://central.sonatype.com/namespace/dev.jordond.connectivity)
+> Connectivity provides network monitoring capabilities for multiplatform projects. It can monitor network connectivity using native APIs on Android and Apple devices, or by making HTTP requests to specified hosts.
 
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
@@ -387,6 +378,17 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.
 
 ### 🏗 Architecture
+[KmpEssentials](https://github.com/TheArchitect123/KmpEssentials)
+[![GitHub Repo stars](https://img.shields.io/github/stars/thearchitect123/kmpEssentials?style=flat)](https://github.com/TheArchitect123/KmpEssentials)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.thearchitect123/kmpEssentials)](https://github.com/TheArchitect123/KmpEssentials)
+ > **KmpEssentials** is a library that contains apis (40+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch
+
+[Evas](https://github.com/sellmair/evas) - Events and States for Kotlin
+[![GitHub Repo stars](https://img.shields.io/github/stars/sellmair/evas?style=flat)](https://github.com/sellmair/evas)
+[![Maven Central](https://img.shields.io/maven-central/v/io.sellmair/evas)](https://central.sonatype.com/artifact/io.sellmair/evas)
+> Evas is a library providing  
+> **Events:** A performant, scalable and most importantly scoped Event-Channel integrated with coroutines. **States:** A pragmatic state container.
+
 [MVI Kotlin](https://github.com/arkivanov/MVIKotlin) - MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/MVIKotlin?style=flat)](https://github.com/arkivanov/MVIKotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.arkivanov.mvikotlin/mvikotlin)](https://central.sonatype.com/artifact/com.arkivanov.mvikotlin/mvikotlin)
@@ -402,10 +404,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/pro.respawn.flowmvi/core)](https://central.sonatype.com/namespace/pro.respawn.flowmvi)
 > FlowMVI is a KMP MVI library based on coroutines with a rich DSL and a powerful plugin system.
 
-[KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - KMM ViewModels
-[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMM-ViewModel?style=flat)](https://github.com/rickclephas/KMM-ViewModel)
-[![Maven Central](https://img.shields.io/maven-central/v/com.rickclephas.kmm/kmm-viewmodel-core)](https://central.sonatype.com/artifact/com.rickclephas.kmm/kmm-viewmodel-core)
-> A library that allows you to share ViewModels between Android and iOS.
+[KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - KMP ViewModels
+[![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/KMP-ObservableViewModel?style=flat)](https://github.com/rickclephas/KMP-ObservableViewModel)
+[![Maven Central](https://img.shields.io/maven-central/v/com.rickclephas.kmp/kmp-observableviewmodel-core)](https://central.sonatype.com/artifact/com.rickclephas.kmp/kmp-observableviewmodel-core)
+> A library (previously known as KMM-ViewModel) that allows you to use AndroidX/Kotlin ViewModels with SwiftUI.
 
 [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) - FSM-based MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM?style=flat)](https://github.com/Kontur-Mobile/VisualFSM)
@@ -416,16 +418,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/reduxkotlin/redux-kotlin?style=flat)](https://github.com/reduxkotlin/redux-kotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/org.reduxkotlin/redux-kotlin-threadsafe)](https://central.sonatype.com/artifact/org.reduxkotlin/redux-kotlin-threadsafe)
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
-
-[CoRed](https://github.com/kittinunf/CoRed) - Opinionated Redux-like implementation
-[![GitHub Repo stars](https://img.shields.io/github/stars/kittinunf/CoRed?style=flat)](https://github.com/kittinunf/CoRed)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.kittinunf.cored/cored)](https://central.sonatype.com/artifact/com.github.kittinunf.cored/cored)
-> CoRed is Redux-like implementation that maintains the benefits of Redux's core idea without the boilerplate. No more action types, action creators, switch statements or complicated setup. It is Kotlin and it has coroutine supported right out-of-the-box.
-
-[Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - Redux for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/abhimuktheeswarar/Flywheel?style=flat)](https://github.com/abhimuktheeswarar/Flywheel)
-[![Maven Central](https://img.shields.io/maven-central/v/com.msabhi/flywheel)](https://central.sonatype.com/artifact/com.msabhi/flywheel)
-> A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.
 
 [FlowRedux](https://github.com/freeletics/FlowRedux) - Statemachine library with nice DSL
 [![GitHub Repo stars](https://img.shields.io/github/stars/freeletics/FlowRedux?style=flat)](https://github.com/freeletics/FlowRedux)
@@ -446,11 +438,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/oolong-kt/oolong?style=flat)](https://github.com/oolong-kt/oolong)
 [![Maven Central](https://img.shields.io/maven-central/v/org.oolong-kt/oolong)](https://central.sonatype.com/artifact/org.oolong-kt/oolong)
 > Oolong is an [Elm](https://guide.elm-lang.org/architecture) inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
-
-[Summer](https://github.com/adevone/summer) - Share ViewModels between iOS, Android and Web apps
-[![GitHub Repo stars](https://img.shields.io/github/stars/adevone/summer?style=flat)](https://github.com/adevone/summer)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.adevone.summer/summer)](https://central.sonatype.com/artifact/com.github.adevone.summer/summer)
-> Summer is a presentation level library with kotlin-multiplatform support. It can be used to share viewModels between iOS, Android and Web apps.  Summer does not use code generation and thus have not significant effort on compilation time and odd build-time errors.  Project aims to have out-of-box support of Android Framework, Jetpack Compose, UIKit and SwiftUI without any adapters and platform-specific limitations.
 
 [Premo](https://github.com/dmdevgo/Premo) — Presentation Model (aka View Model) and Navigation
 [![GitHub Repo stars](https://img.shields.io/github/stars/dmdevgo/premo?style=flat)](https://github.com/dmdevgo/Premo)
@@ -487,10 +474,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.kuuuurt/multiplatform-paging)](https://central.sonatype.com/artifact/io.github.kuuuurt/multiplatform-paging)
 > A Kotlin Multiplatform library for pagination.
 
-[Kotlin Bloc](https://github.com/1gravity/Kotlin-Bloc) - UI framework for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/1gravity/Kotlin-Bloc?style=flat)](https://github.com/1gravity/Kotlin-Bloc)
-[![Maven Central](https://img.shields.io/maven-central/v/com.1gravity/bloc-core)](https://central.sonatype.com/artifact/com.1gravity/bloc-core)
-> Kotlin Bloc is a simple, predictable and composable UI framework for Kotlin Multiplatform supporting Android, iOS and JVM.
+[lazy-pagination-compose](https://github.com/Ahmad-Hamwi/lazy-pagination-compose) - Pagination library for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Ahmad-Hamwi/lazy-pagination-compose?style=flat)](https://github.com/Ahmad-Hamwi/lazy-pagination-compose)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ahmad-hamwi/lazy-pagination-compose)](https://central.sonatype.com/artifact/io.github.ahmad-hamwi/lazy-pagination-compose)
+> Intuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables. 
 
 [kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - Kotlin Multiplatform ViewModel
 [![GitHub Repo stars](https://img.shields.io/github/stars/hoc081098/kmp-viewmodel?style=flat)](https://github.com/hoc081098/kmp-viewmodel)
@@ -507,6 +494,16 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.nsk90/kstatemachine)](https://central.sonatype.com/artifact/io.github.nsk90/kstatemachine)
 > KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
+[Rinku](https://github.com/theolm/Rinku) - Deep Link Handling for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/theolm/Rinku?style=flat)](https://github.com/theolm/Rinku)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.theolm/rinku)](https://mvnrepository.com/artifact/dev.theolm)
+> A Kotlin Multiplatform library for deeplink handling
+
+[Resaca](https://github.com/sebaslogen/resaca) - Scope ViewModels to a Composable, surviving config. changes and navigation
+[![GitHub Repo stars](https://img.shields.io/github/stars/sebaslogen/resaca?style=flat)](https://github.com/sebaslogen/resaca/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sebaslogen/resaca)](https://central.sonatype.com/artifact/io.github.sebaslogen/resaca)
+> Scope ViewModels (or plain objects) to a Composable, surviving configuration changes and navigation, to break your app's logic into smaller and reusable components.
+
 ### 🔍 Analytics
 [MOKO Crash Reporting](https://github.com/icerockdev/moko-crash-reporting) - reporting to Crashlytics
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-crash-reporting?style=flat)](https://github.com/icerockdev/moko-crash-reporting)
@@ -522,16 +519,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/rickclephas/NSExceptionKt?style=flat)](https://github.com/rickclephas/NSExceptionKt)
 [![Maven Central](https://img.shields.io/maven-central/v/com.rickclephas.kmp/nsexception-kt-core)](https://central.sonatype.com/artifact/com.rickclephas.kmp/nsexception-kt-core)
 > Unhandled Kotlin exceptions logging for Apple platforms.
-
-[abc-kmm-analytics-tools](https://github.com/line/abc-kmm-analytics-tools) - Analytics Tools 
-[![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-analytics-tools?style=flat)](https://github.com/line/abc-kmm-analytics-tools)
-[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-analytics-tools)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-analytics-tools)
-> Automatically tracking and sending events of screen view and capture
-
-[Analytics](https://github.com/ppav/analytics) - analytics facade
-[![GitHub Repo stars](https://img.shields.io/github/stars/ppav/analytics?style=flat)](https://github.com/ppav/analytics)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.ppav.analytics/analytics)](https://central.sonatype.com/artifact/io.github.ppav/analytics/analytics)
-> Kotlin Multiplatform library as a simple facade or abstraction for analytics.
 
 [trckr](https://github.com/dzmpr/trckr) - KSP processor
 [![GitHub Repo stars](https://img.shields.io/github/stars/dzmpr/trckr?style=flat)](https://github.com/dzmpr/trckr)
@@ -590,9 +577,9 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)](https://central.sonatype.com/artifact/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
 > Libsodium bindings project uses libsodium c sources and libsodium.js to provide a kotlin multiplatform wrapper library for libsodium.
 
-[Krypto](https://github.com/korlibs/krypto) - Pure Kotlin cryptography library
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/krypto?style=flat)](https://github.com/korlibs/krypto)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.krypto/krypto)](https://central.sonatype.com/artifact/com.soywiz.korlibs.krypto/krypto)
+[korlibs-crypto](https://github.com/korlibs/korlibs/tree/main/korlibs-crypto) - Pure Kotlin cryptography library
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korlibs?style=flat)](https://github.com/korlibs/korlibs/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korge/korlibs-crypto)](https://central.sonatype.com/artifact/com.soywiz.korge/korlibs-crypto)
 > SecureRandom, Hash (MD5/SHA1/SHA256), AES
 
 [cryptohash](https://github.com/appmattus/crypto/tree/main/cryptohash) - A set of cryptographic (and not so cryptographic) hashing functions
@@ -626,20 +613,29 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Kotlin Multiplatform library for obtaining cryptographically secure random data from the system. Modeled after Java's SecureRandom class, it provides a simple API surface area. Under the hood it utilizes system functions so that SecureRandom is accessible from common code.
 
 ### 📁 File
+[kotlinx-io](https://github.com/Kotlin/kotlinx-io) - Kotlin multiplatform I/O library
+[![Github Repo starts](https://img.shields.io/github/stars/Kotlin/kotlinx-io?style=flat)](https://github.com/Kotlin/kotlinx-io)
+[![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-io-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-io-core)
+> A multiplatform Kotlin library providing basic IO primitives. kotlinx-io is based on Okio but does not preserve backward compatibility with it.
+
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio?style=flat)](https://github.com/square/okio)
 [![Maven Central](https://img.shields.io/maven-central/v/com.squareup.okio/okio)](https://central.sonatype.com/artifact/com.squareup.okio/okio)
 > Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data.
 
-[KorIO](https://github.com/korlibs/korio) - access, store, and process your data
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korio?style=flat)](https://github.com/korlibs/korio)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.korio/korio)](https://central.sonatype.com/artifact/com.soywiz.korlibs.korio/korio)
-> KorIO is a library for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization…
+[korlibs](https://github.com/korlibs/korlibs) - access, store, and process your data
+[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korlibs?style=flat)](https://github.com/korlibs/korlibs)
+> Libraries for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization…
 
 [Suparnatural FS](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - file system i/o
 [![GitHub Repo stars](https://img.shields.io/github/stars/suparngp/kotlin-multiplatform-projects?style=flat)](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs)
 [![Maven Central](https://img.shields.io/maven-central/v/com.suparnatural.kotlin/fs)](https://central.sonatype.com/artifact/com.suparnatural.kotlin/fs)
 > Kotlin multiplatform file system i/o for android, iOS, Java and NodeJS
+
+[FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder
+[![GitHub Repo stars](https://img.shields.io/github/stars/vinceglb/FileKit?style=flat)](https://github.com/vinceglb/FileKit)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.vinceglb/filekit-core)](https://central.sonatype.com/artifact/io.github.vinceglb/filekit-core)
+> Files, Medias, Folder Picker and File saver library for Kotlin Multiplatform and Compose Multiplatform
 
 ### 🚀 Language extensions
 [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library 
@@ -714,11 +710,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-datetime)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-datetime)
 > A multiplatform Kotlin library for working with date and time.
 
-[Klock](https://github.com/korlibs/klock) - Date & Time library
-[![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/klock?style=flat)](https://github.com/korlibs/klock)
-[![Maven Central](https://img.shields.io/maven-central/v/com.soywiz/klock)](https://central.sonatype.com/artifact/com.soywiz/klock)
-> Klock is a Date & Time library for Multiplatform Kotlin. It is designed to be as allocation-free as possible using Kotlin inline classes, to be consistent and portable across targets since all the code is written in Common Kotlin, and to provide an API that is powerful, fun and easy to use.
-
 [Island Time](https://github.com/erikc5000/island-time) - Date & Time library
 [![GitHub Repo stars](https://img.shields.io/github/stars/erikc5000/island-time?style=flat)](https://github.com/erikc5000/island-time)
 [![Maven Central](https://img.shields.io/maven-central/v/io.islandtime/core)](https://central.sonatype.com/artifact/io.islandtime/core)
@@ -729,11 +720,21 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.softartdev/kronos)](https://central.sonatype.com/artifact/io.github.softartdev/kronos)
 > Kotlin Multiplatform library for network time synchronization. Extension for [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) library.
 
+[KCron](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library
+[![GitHub Repo stars](https://img.shields.io/github/stars/Scogun/kcron-common?style=flat)](https://github.com/Scogun/kcron-common)
+[![Maven Central](https://img.shields.io/maven-central/v/com.ucasoft.kcron/kcron-common)](https://central.sonatype.com/artifact/com.ucasoft.kcron/kcron-common)
+> Kotlin Multiplatform library for build and parsing cron expression. Support custom date time providers. Has default implementation based on [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) library. 
+
 ### ➿ Asynchronous
 [Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Kotlin coroutines
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.coroutines?style=flat)](https://github.com/Kotlin/kotlinx.coroutines)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-coroutines-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core)
 > Library support for Kotlin coroutines
+
+[molecule](https://github.com/cashapp/molecule) - Build a StateFlow stream using Jetpack Compose
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/molecule?style=flat)](https://github.com/cashapp/molecule)
+[![Maven Central](https://img.shields.io/maven-central/v/app.cash.molecule/molecule-runtime)](https://central.sonatype.com/artifact/app.cash.molecule/molecule-runtime)
+> Build a StateFlow or Flow stream using Jetpack Compose and NOT Jetpack Compose UI!
 
 [Reaktive](https://github.com/badoo/Reaktive) - Reactive Extensions
 [![GitHub Repo stars](https://img.shields.io/github/stars/badoo/Reaktive?style=flat)](https://github.com/badoo/Reaktive)
@@ -796,16 +797,6 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.dnd/compose-dnd)](https://central.sonatype.com/artifact/com.mohamedrejeb.dnd/compose-dnd)
 > Compose DND is a library that allows you to easily add drag and drop functionality to your Jetpack Compose and Compose Multiplatform projects.
 
-[Libres-Compose](https://github.com/Skeptick/libres) Resources generation in Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.skeptick.libres/libres-compose)](https://central.sonatype.com/artifact/io.github.skeptick.libres/libres-compose)
-> This artifact provides painterResource function that can be used to get Painter from io.github.skeptick.libres.Image in common code.
-
-[InsetsX](https://github.com/mori-atsushi/insetsx) WindowInsets
-[![GitHub Repo stars](https://img.shields.io/github/stars/mori-atsushi/insetsx?style=flat)](https://github.com/mori-atsushi/insetsx)
-[![Maven Central](https://img.shields.io/maven-central/v/com.moriatsushi.insetsx/insetsx)](https://central.sonatype.com/artifact/com.moriatsushi.insetsx/insetsx)
-> InsetsX provides a WindowInsets utility for Compose Multiplatform.
-
 [Window Size Class](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) Window Size Class
 [![GitHub Repo stars](https://img.shields.io/github/stars/chrisbanes/material3-windowsizeclass-multiplatform?style=flat)](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.chrisbanes.material3/material3-window-size-class-multiplatform)](https://central.sonatype.com/artifact/dev.chrisbanes.material3/material3-window-size-class-multiplatform)
@@ -820,6 +811,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kamel-Media/Kamel?style=flat)](https://github.com/Kamel-Media/Kamel)
 [![Maven Central](https://img.shields.io/maven-central/v/media.kamel/kamel-core)](https://central.sonatype.com/artifact/media.kamel/kamel-core)
 > An asynchronous media loading library for Compose Multiplatform.
+
+[Sketch](https://github.com/panpf/sketch) Image loader for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/panpf/sketch?style=flat)](https://github.com/panpf/sketch)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.panpf.sketch4/sketch-core)](https://search.maven.org/artifact/io.github.panpf.sketch4/sketch-core)
+> Sketch is an image loading library designed for Compose Multiplatform. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
 
 [Compose Icons](https://github.com/DevSrSouza/compose-icons) Open Source icon packs for Compose Multiplatform. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/DevSrSouza/compose-icons?style=flat)](https://github.com/DevSrSouza/compose-icons)
@@ -847,10 +843,10 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.materialkolor/material-kolor)](https://central.sonatype.com/artifact/com.materialkolor/material-kolor)
 > Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.
 
-[AAY-chart](https://github.com/TheChance101/AAY-chart) Compose Multiplatform chart library.
-[![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart?style=flat)](https://github.com/TheChance101/AAY-chart)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.thechance101/chart)](https://central.sonatype.com/artifact/io.github.thechance101/chart)
-> The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
+[Compose-placeholder](https://github.com/eygraber/compose-placeholder) Modifier for displaying 'placeholder' UI while content is loading.
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/compose-placeholder?style=flat)](https://github.com/eygraber/compose-placeholder)
+[![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/compose-placeholder)](https://central.sonatype.com/artifact/com.eygraber/compose-placeholder)
+> Compose multiplatform library which provides a modifier for displaying 'placeholder' UI while content is loading.
 
 [kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette?style=flat)](https://github.com/jordond/kmpalette)
@@ -946,6 +942,36 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/cupertino)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/cupertino)
 > Compose Cupertino is a Kotlin Multiplatform library for the Compose Multiplatform UI framework. It provides various UI components and adaptive wrappers for making native-looking iOS applications.
 
+[ConstraintLayout Compose Multiplatform](https://github.com/Lavmee/constraintlayout-compose-multiplatform/) - ConstraintLayout Compose for Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/lavmee/constraintlayout-compose-multiplatform?style=flat)](https://github.com/lavmee/constraintlayout-compose-multiplatform/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://central.sonatype.com/artifact/tech.annexflow.compose/constraintlayout-compose-multiplatform)
+> Useful when implementing larger layouts with more complicated alignment requirements.
+
+[Compose Settings](https://github.com/alorma/Compose-Settings/) - Compose Settings.
+[![GitHub Repo stars](https://img.shields.io/github/stars/alorma/Compose-Settings?style=flat)](https://github.com/alorma/Compose-Settings/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.alorma.compose-settings/ui-tiles.svg)](https://central.sonatype.com/namespace/com.github.alorma.compose-settings)
+> Compose Multiplatform #Compose Settings library.
+
+[material-motion-compose](https://github.com/fornewid/material-motion-compose) - Material Motion for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/fornewid/material-motion-compose?style=flat)](https://github.com/fornewid/material-motion-compose/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.fornewid/material-motion-compose-core)](https://central.sonatype.com/artifact/io.github.fornewid/material-motion-compose-core)
+> A library for implementing motion system in Material Components for Compose Multiplatform.
+
+[Tiamat](https://github.com/ComposeGears/Tiamat) - Compose Multiplatform navigation library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Tiamat?style=flat)](https://github.com/ComposeGears/Tiamat/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.composegears/tiamat)](https://central.sonatype.com/artifact/io.github.composegears/tiamat)
+> Key features: code generation free, pure Compose, nested navigation support, back-stack alteration (+deep-links), pass ANY types between screens as data, even lambdas, customizable transitions.
+
+[Landscapist](https://github.com/skydoves/landscapist): Compose image loading library for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/landscapist?style=flat)](https://github.com/skydoves/landscapist/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/landscapist.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%2520landscapist)
+> A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.
+
+[colorpicker-compose](https://github.com/skydoves/colorpicker-compose): Color Picker library for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/colorpicker-compose?style=flat)](https://github.com/skydoves/colorpicker-compose/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/colorpicker-compose.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%colorpicker-compose)
+> Kotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
@@ -977,11 +1003,6 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform?style=flat)](https://github.com/getsentry/sentry-kotlin-multiplatform)
 [![Maven Central](https://img.shields.io/maven-central/v/io.sentry/sentry-kotlin-multiplatform)](https://central.sonatype.com/artifact/io.sentry/sentry-kotlin-multiplatform)
 > This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.
-
-[VK SDK Kotlin](https://github.com/vksdk/vk-sdk-kotlin) - Unofficial VK SDK 
-[![GitHub Repo stars](https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin?style=flat)](https://github.com/vksdk/vk-sdk-kotlin)
-[![Maven Central](https://img.shields.io/maven-central/v/com.petersamokhin.vksdk/core)](https://central.sonatype.com/artifact/com.petersamokhin.vksdk/core)
-> Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations
 
 [bitcoin-kmp](https://github.com/ACINQ/bitcoin-kmp) - Kotlin Multiplatform Bitcoin Library
 [![GitHub Repo stars](https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat)](https://github.com/ACINQ/bitcoin-kmp)
@@ -1018,11 +1039,6 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.configcat/configcat-kotlin-client)](https://central.sonatype.com/artifact/com.configcat/configcat-kotlin-client)
 > Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.
 
-[Solana-kmp](https://github.com/metaplex-foundation/solana-kmp) - Kotlin Multiplatform SDK for Kotlin 
-[![GitHub Repo stars](https://img.shields.io/github/stars/metaplex-foundation/solana-kmp?style=flat)](https://github.com/metaplex-foundation/solana-kmp)
-[![Maven Central](https://img.shields.io/maven-central/v/foundation.metaplex/solana)](https://central.sonatype.com/artifact/foundation.metaplex/solana)
-> Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.
-
 ### 🧮 Arithmetic
 [KBigNum](https://github.com/korlibs/kbignum) - Big Numbers
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/kbignum?style=flat)](https://github.com/korlibs/kbignum)
@@ -1035,6 +1051,11 @@ your Compose apps.
 > Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.
 
 ### 🛢 Resources
+[Libres](https://github.com/Skeptick/libres) - Resources manager.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Skeptick/libres?style=flat)](https://github.com/Skeptick/libres)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.skeptick.libres/libres)](https://central.sonatype.com/artifact/io.github.skeptick.libres/libres)
+> String/Image resources generation in Kotlin Multiplatform.
+
 [MOKO Resources](https://github.com/icerockdev/moko-resources) - System resources manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-resources?style=flat)](https://github.com/icerockdev/moko-resources)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/resources)](https://central.sonatype.com/artifact/dev.icerock.moko/resources)
@@ -1162,14 +1183,13 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
-## Suggest your own ideas
-[What libraries are you missing?](https://github.com/terrakok/kmm-awesome/discussions/7)
-
-## Authors
-https://github.com/terrakok/kmm-awesome/graphs/contributors
-
 ## Contribution guide
-Feel free to contribute. Follow common style and welcome! :)
+Feel free to contribute. Follow common style and welcome!  
+Few rules:  
+ 1) every suggesion should contain link to any project uses the library (not an author's sample)
+ 2) the library is supposed to support Android + iOS targets
+ 3) the library must be published to the MavenCentral
+ 4) the library should be a popular (github stars ~ 50, at least)
 
 ## License
 ```
