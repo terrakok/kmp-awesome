@@ -1178,6 +1178,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
+[JSON:API Kotlin](https://github.com/eygraber/jsonapi-kotlin) - A Kotlin Multiplatform kotlinx.serialization library for working with JSON:API
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/jsonapi-kotlin?style=flat)](https://github.com/eygraber/jsonapi-kotlin)
+[![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/jsonapi-kotlin)](https://central.sonatype.com/artifact/com.eygraber/jsonapi-kotlin)
+> JSON:API Kotlin allows serializing JSON:API requests and response in Kotlin Multiplatform projects.
+
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
 Few rules:  
