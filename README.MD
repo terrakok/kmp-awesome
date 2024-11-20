@@ -23,8 +23,9 @@ It reduces time spent writing and maintaining the same code for different platfo
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
 🗄 [Jetpack Compose Components](https://m3.material.io/components)  
 🗄 [Compose Material 3 Gallery](https://terrakok.github.io/compose-material-3-gallery/)  
+🎨 [Material Theme Builder](https://materialkolor.com)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
-📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)
+📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)  
 
 ## Contents
 <table>
@@ -310,7 +311,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 [Kable](https://github.com/juullabs/kable) - Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 [![GitHub Repo stars](https://img.shields.io/github/stars/juullabs/kable?style=flat)](https://github.com/juullabs/kable)
-[![Maven Central](https://img.shields.io/maven-central/v/com.juul.kable/core)](https://central.sonatype.com/artifact/com.juul.kable/core/)
+[![Maven Central](https://img.shields.io/maven-central/v/com.juul.kable/kable-core)](https://central.sonatype.com/artifact/com.juul.kable/kable-core/)
 >Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 
 [Blue-Falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform library for iOS and Android
@@ -376,6 +377,17 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.
 
 ### 🏗 Architecture
+[KmpEssentials](https://github.com/TheArchitect123/KmpEssentials)
+[![GitHub Repo stars](https://img.shields.io/github/stars/thearchitect123/kmpEssentials?style=flat)](https://github.com/TheArchitect123/KmpEssentials)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.thearchitect123/kmpEssentials)](https://github.com/TheArchitect123/KmpEssentials)
+ > **KmpEssentials** is a library that contains apis (40+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch
+
+[Evas](https://github.com/sellmair/evas) - Events and States for Kotlin
+[![GitHub Repo stars](https://img.shields.io/github/stars/sellmair/evas?style=flat)](https://github.com/sellmair/evas)
+[![Maven Central](https://img.shields.io/maven-central/v/io.sellmair/evas)](https://central.sonatype.com/artifact/io.sellmair/evas)
+> Evas is a library providing  
+> **Events:** A performant, scalable and most importantly scoped Event-Channel integrated with coroutines. **States:** A pragmatic state container.
+
 [MVI Kotlin](https://github.com/arkivanov/MVIKotlin) - MVI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/arkivanov/MVIKotlin?style=flat)](https://github.com/arkivanov/MVIKotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.arkivanov.mvikotlin/mvikotlin)](https://central.sonatype.com/artifact/com.arkivanov.mvikotlin/mvikotlin)
@@ -600,6 +612,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Kotlin Multiplatform library for obtaining cryptographically secure random data from the system. Modeled after Java's SecureRandom class, it provides a simple API surface area. Under the hood it utilizes system functions so that SecureRandom is accessible from common code.
 
 ### 📁 File
+[kotlinx-io](https://github.com/Kotlin/kotlinx-io) - Kotlin multiplatform I/O library
+[![Github Repo starts](https://img.shields.io/github/stars/Kotlin/kotlinx-io?style=flat)](https://github.com/Kotlin/kotlinx-io)
+[![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-io-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-io-core)
+> A multiplatform Kotlin library providing basic IO primitives. kotlinx-io is based on Okio but does not preserve backward compatibility with it.
+
 [Okio](https://github.com/square/okio) - access, store, and process your data
 [![GitHub Repo stars](https://img.shields.io/github/stars/square/okio?style=flat)](https://github.com/square/okio)
 [![Maven Central](https://img.shields.io/maven-central/v/com.squareup.okio/okio)](https://central.sonatype.com/artifact/com.squareup.okio/okio)
@@ -830,11 +847,6 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/compose-placeholder)](https://central.sonatype.com/artifact/com.eygraber/compose-placeholder)
 > Compose multiplatform library which provides a modifier for displaying 'placeholder' UI while content is loading.
 
-[AAY-chart](https://github.com/TheChance101/AAY-chart) Compose Multiplatform chart library.
-[![GitHub Repo stars](https://img.shields.io/github/stars/TheChance101/AAY-chart?style=flat)](https://github.com/TheChance101/AAY-chart)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.thechance101/chart)](https://central.sonatype.com/artifact/io.github.thechance101/chart)
-> The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native. Currently supported platforms are Desktop Android and IOS
-
 [kmPalette](https://github.com/jordond/kmpalette) A port of Androidx Palette, generate palettes from image.
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/kmpalette?style=flat)](https://github.com/jordond/kmpalette)
 [![Maven Central](https://img.shields.io/maven-central/v/com.kmpalette/kmpalette-core)](https://central.sonatype.com/artifact/com.kmpalette/kmpalette-core)
@@ -958,6 +970,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/lexilabs-app/basic?style=flat)](https://github.com/lexilabs-app/basic)
 [![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-images)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-images)
 > Basic-Images uses platform-specific bitmap libraries to download (via KTOR) and display JPEG, PNG, and WEBP files as a Composable.
+
+[colorpicker-compose](https://github.com/skydoves/colorpicker-compose): Color Picker library for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/colorpicker-compose?style=flat)](https://github.com/skydoves/colorpicker-compose/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/colorpicker-compose.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%colorpicker-compose)
+> Kotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
