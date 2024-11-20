@@ -986,6 +986,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.aallam.openai/openai-client)](https://central.sonatype.com/artifact/com.aallam.openai/openai-client)
 > Kotlin client for [OpenAI's API](https://beta.openai.com/docs/api-reference) with multiplatform and coroutines capabilities.
 
+[basic-ads](https://github.com/LexiLabs-App/basic) - Composables for Google AdMob in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/LexiLabs-App/basic?style=flat)](https://github.com/LexiLabs-App/basic)
+[![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-ads)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-ads)
+> Composables for [Google AdMob](https://admob.google.com) Banner, Interstitial, and Rewarded ads in Kotlin Multiplatform
+
 [Sentry SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) - Sentry Kotlin Multiplatform SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform?style=flat)](https://github.com/getsentry/sentry-kotlin-multiplatform)
 [![Maven Central](https://img.shields.io/maven-central/v/io.sentry/sentry-kotlin-multiplatform)](https://central.sonatype.com/artifact/io.sentry/sentry-kotlin-multiplatform)
