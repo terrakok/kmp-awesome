@@ -772,6 +772,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Works with kotlinx-datetime and offers features like relative time ("2 hours ago"), durations and file sizes.
 
 ### 🍎 Compose UI
+[Alarmee](https://github.com/tweener/alarmee) Alarm scheduler with local notifications.
+[![GitHub Repo stars](https://img.shields.io/github/stars/tweener/alarmee?style=flat)](https://github.com/tweener/alarmee)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.tweener/alarmee)](https://central.sonatype.com/artifact/io.github.tweener/alarmee)
+> A Compose Multiplatform library for effortless alarm and local notification scheduling on both Android and iOS.
+
 [Appyx](https://github.com/bumble-tech/appyx) Navigation, transition animations, gestures, UI components.
 [![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx?style=flat)](https://github.com/bumble-tech/appyx)
 [![Maven Central](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)](https://central.sonatype.com/artifact/com.bumble.appyx/appyx-interactions)
