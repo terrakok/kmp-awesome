@@ -484,6 +484,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.behzodhalil/meteor-mvi)](https://central.sonatype.com/artifact/io.github.behzodhalil/meteor-mvi)
 >  MVI/Redux framework for Kotlin Multiplatform
 
+[Passage](https://github.com/tweener/passage) Authentication with Firebase (Google, Apple, Email/password).
+[![GitHub Repo stars](https://img.shields.io/github/stars/tweener/passage?style=flat)](https://github.com/tweener/passage)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.tweener/passage)](https://central.sonatype.com/artifact/io.github.tweener/passage)
+> A Kotlin/Compose Multiplatform library for easy authentication on Android and iOS.
+
 [KStateMachine](https://github.com/nsk90/kstatemachine) - Multiplatform state machine library with coroutines support
 [![GitHub Repo stars](https://img.shields.io/github/stars/nsk90/kstatemachine?style=flat)](https://github.com/nsk90/kstatemachine)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.nsk90/kstatemachine)](https://central.sonatype.com/artifact/io.github.nsk90/kstatemachine)
