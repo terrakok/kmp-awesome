@@ -305,6 +305,12 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/media)](https://central.sonatype.com/artifact/dev.icerock.moko/media)
 > This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.
 
+[MediaPlayer-KMP](https://github.com/KhubaibKhan4/MediaPlayer-KMP) - A Comprehensive Media Player for Kotlin Multiplatform  
+[![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/MediaPlayer-KMP?style=flat)](https://github.com/KhubaibKhan4/MediaPlayer-KMP)  
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/mediaplayer-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/mediaplayer-kmp)  
+> **Features**: Platform-agnostic support for Android, iOS, Web, and Desktop. Compose Multiplatform integration, YouTube video and audio playback, streaming support, event handling, ReelsView support, AutoPlay, and Authentication Token implementation.
+
+
 [MOKO Maps](https://github.com/icerockdev/moko-maps) - Google/Mapbox maps manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-maps?style=flat)](https://github.com/icerockdev/moko-maps)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/maps)](https://central.sonatype.com/artifact/dev.icerock.moko/maps)
