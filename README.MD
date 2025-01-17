@@ -64,6 +64,11 @@ It reduces time spent writing and maintaining the same code for different platfo
     <td><a href="https://github.com/terrakok/kmp-awesome#-resources">🛢 Resources</a></td>
     <td><a href="https://github.com/terrakok/kmp-awesome#-utils">🔧 Utils</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/terrakok/kmp-awesome#-health">🏥 Health</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ### 🛠 Tooling
@@ -1182,6 +1187,12 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat)](https://github.com/prof18/RSS-Parser)
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
+
+### 🏥 Health
+[KHealth](https://github.com/shubhamsinghshubham777/KHealth) - A Kotlin Multiplatform library to interact with Health APIs
+[![GitHub Repo stars](https://img.shields.io/github/stars/shubhamsinghshubham777/KHealth?style=flat)](https://github.com/shubhamsinghshubham777/KHealth)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.shubhamsinghshubham777/khealth)](https://central.sonatype.com/namespace/io.github.shubhamsinghshubham777)
+> A Kotlin Multiplatform wrapper for Android's Health Connect and Apple's HealthKit. It supports Android, iOS, and watchOS.
 
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
