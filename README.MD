@@ -280,6 +280,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-notifications)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-notifications)
 > Remote Notification Manager for Kotlin Multiplatform Mobile
 
+[Alert-KMP](https://github.com/KhubaibKhan4/Alert-KMP) - Local and Native Notifications Library  
+[![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/Alert-KMP?style=flat)](https://github.com/KhubaibKhan4/Alert-KMP)  
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/alert-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/alert-kmp)  
+> Native notifications, Toasts, and Alerts for Kotlin Multiplatform.
+
 [abc-kmm-Location](https://github.com/line/abc-kmm-location) - Location manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-location?style=flat)](https://github.com/line/abc-kmm-location)
 [![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-location)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-location)
@@ -299,6 +304,12 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-media?style=flat)](https://github.com/icerockdev/moko-media)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/media)](https://central.sonatype.com/artifact/dev.icerock.moko/media)
 > This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.
+
+[MediaPlayer-KMP](https://github.com/KhubaibKhan4/MediaPlayer-KMP) - A Comprehensive Media Player for Kotlin Multiplatform  
+[![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/MediaPlayer-KMP?style=flat)](https://github.com/KhubaibKhan4/MediaPlayer-KMP)  
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/mediaplayer-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/mediaplayer-kmp)  
+> **Features**: Platform-agnostic support for Android, iOS, Web, and Desktop. Compose Multiplatform integration, YouTube video and audio playback, streaming support, event handling, ReelsView support, AutoPlay, and Authentication Token implementation.
+
 
 [MOKO Maps](https://github.com/icerockdev/moko-maps) - Google/Mapbox maps manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-maps?style=flat)](https://github.com/icerockdev/moko-maps)
