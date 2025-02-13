@@ -362,7 +362,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/KScan)](https://central.sonatype.com/artifact/io.github.ismai117/KScan)
 > KScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps
 
-[Dynamsoft Barcode Reader](https://github.com/tony-xlh/Compose-Multiplatform-QR-Code-Scanner) - Dynamsoft Barcode Reader
+[Dynamsoft Barcode Reader](https://github.com/tony-xlh/Compose-Multiplatform-QR-Code-Scanner) - Barcode Scanner
 [![GitHub Repo stars](https://img.shields.io/github/stars/tony-xlh/Compose-Multiplatform-QR-Code-Scanner?style=flat)](https://github.com/tony-xlh/Compose-Multiplatform-QR-Code-Scanner)
 > A demo using Dynamsoft Barcode Reader to scan barcodes from camera frames
 
