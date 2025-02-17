@@ -310,6 +310,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/media)](https://central.sonatype.com/artifact/dev.icerock.moko/media)
 > This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.
 
+[ComposeMultiplatformMediaPlayer](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer) - Powerful media player library designed for Compose Multiplatform & KMP.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Chaintech-Network/ComposeMultiplatformMediaPlayer?style=flat)](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer)
+[![Maven Central](https://img.shields.io/maven-central/v/network.chaintech/compose-multiplatform-media-player)](https://central.sonatype.com/artifact/network.chaintech/compose-multiplatform-media-player)
+> This library delivers seamless video playback, reels, audio, YouTube integration, thumbnails, and HLS m3u8 support across iOS, Android, and Desktop, with extensive control customization for diverse media applications.
+
 [MediaPlayer-KMP](https://github.com/KhubaibKhan4/MediaPlayer-KMP) - A Comprehensive Media Player for Kotlin Multiplatform  
 [![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/MediaPlayer-KMP?style=flat)](https://github.com/KhubaibKhan4/MediaPlayer-KMP)  
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/mediaplayer-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/mediaplayer-kmp)  
