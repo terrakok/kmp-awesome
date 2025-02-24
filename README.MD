@@ -362,6 +362,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/KScan)](https://central.sonatype.com/artifact/io.github.ismai117/KScan)
 > KScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps
 
+[Alarmee](https://github.com/tweener/alarmee) Alarm scheduler with local notifications.
+[![GitHub Repo stars](https://img.shields.io/github/stars/tweener/alarmee?style=flat)](https://github.com/tweener/alarmee)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.tweener/alarmee)](https://central.sonatype.com/artifact/io.github.tweener/alarmee)
+> A Kotlin/Compose Multiplatform library for easy alarm and local notification scheduling on both Android and iOS.
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat)](https://github.com/InsertKoinIO/koin)
