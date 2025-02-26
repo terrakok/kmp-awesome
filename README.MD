@@ -224,6 +224,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.realm.kotlin/gradle-plugin)](https://central.sonatype.com/artifact/io.realm.kotlin/gradle-plugin)
 > Realm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.
 
+[Re.This](https://github.com/vendelieu/re.this) - Redis client
+[![GitHub Repo stars](https://img.shields.io/github/stars/vendelieu/re.this?style=flat)](https://github.com/vendelieu/re.this)
+[![Maven Central](https://img.shields.io/maven-central/v/eu.vendeli/rethis)](https://central.sonatype.com/artifact/eu.vendeli/rethis)
+> Redis Client that supports wide range of targets, utilizes the strengths of coroutines, gives simple and easy-to-use api, and robustness.
+
 [Kotbase](https://github.com/jeffdgr8/kotbase) - NoSQL JSON document database
 [![GitHub Repo stars](https://img.shields.io/github/stars/jeffdgr8/kotbase?style=flat)](https://github.com/jeffdgr8/kotbase)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.kotbase/couchbase-lite)](https://central.sonatype.com/namespace/dev.kotbase)
