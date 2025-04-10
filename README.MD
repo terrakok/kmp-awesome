@@ -162,11 +162,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
 > Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
-[basic-logging](https://github.com/lexilabs-app/basic) - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/lexilabs-app/basic?style=flat)](https://github.com/lexilabs-app/basic)
-[![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-logging)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-logging)
-> Basic-Logging uses platform-specific logging libraries to support Kotlin, Java, Apple, Javascript, WASM, MinGW, Linux, and JVM.
-
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor?style=flat)](https://github.com/ktorio/ktor)
@@ -1003,11 +998,6 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/landscapist.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%2520landscapist)
 > A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.
 
-[basic-images](https://github.com/lexilabs-app/basic) - Compose image loading library for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/lexilabs-app/basic?style=flat)](https://github.com/lexilabs-app/basic)
-[![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-images)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-images)
-> Basic-Images uses platform-specific bitmap libraries to download (via KTOR) and display JPEG, PNG, and WEBP files as a Composable.
-
 [colorpicker-compose](https://github.com/skydoves/colorpicker-compose): Color Picker library for Kotlin Multiplatform.
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/colorpicker-compose?style=flat)](https://github.com/skydoves/colorpicker-compose/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/colorpicker-compose.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%colorpicker-compose)
@@ -1055,8 +1045,8 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.aallam.openai/openai-client)](https://central.sonatype.com/artifact/com.aallam.openai/openai-client)
 > Kotlin client for [OpenAI's API](https://beta.openai.com/docs/api-reference) with multiplatform and coroutines capabilities.
 
-[basic-ads](https://github.com/LexiLabs-App/basic) - Composables for Google AdMob in Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/LexiLabs-App/basic?style=flat)](https://github.com/LexiLabs-App/basic)
+[basic-ads](https://github.com/LexiLabs-App/basic-ads) - Composables for Google AdMob in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/LexiLabs-App/basic-ads?style=flat)](https://github.com/LexiLabs-App/basic-ads)
 [![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-ads)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-ads)
 > Composables for [Google AdMob](https://admob.google.com) Banner, Interstitial, and Rewarded ads in Kotlin Multiplatform
 
@@ -1213,11 +1203,6 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/korlibs/korau?style=flat)](https://github.com/korlibs/korau)
 [![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.korau/korau)](https://central.sonatype.com/artifact/com.soywiz.korlibs.korau/korau)
 > Pure Kotlin WAV, MP3 and OGG vorbis decoders
-
-[basic-sound](https://github.com/lexilabs-app/basic) - Audio loading library for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/lexilabs-app/basic?style=flat)](https://github.com/lexilabs-app/basic)
-[![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-sound)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-sound)
-> Basic-Sound integrates audio by downloading from a URL, accessing a local path, or linking to Composable Resources. Currently supports Android, Apple, js, and wasm.
 
 [Kim](https://github.com/Ashampoo/kim) - Kotlin Image Metadata
 [![GitHub Repo stars](https://img.shields.io/github/stars/Ashampoo/kim?style=flat)](https://github.com/Ashampoo/kim)
