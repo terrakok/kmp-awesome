@@ -22,6 +22,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
 🗄 [Jetpack Compose Components](https://m3.material.io/components)  
+🗄 [Compose Multiplatform Components](https://composables.com)  
 🗄 [Compose Material 3 Gallery](https://terrakok.github.io/compose-material-3-gallery/)  
 🎨 [Material Theme Builder](https://materialkolor.com)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
@@ -233,6 +234,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/dev.kotbase/couchbase-lite)](https://central.sonatype.com/namespace/dev.kotbase)
 > Kotlin Multiplatform library for Couchbase Lite—a lightweight, embedded, NoSQL JSON document database—supporting SQL++, key/value, and full-text search queries; observability; binary attachments; and data sync.
 
+[Kotlin Multiplatform AppDirs](https://github.com/syer10/Kotlin-Multiplatform-AppDirs) - User storage/settings/config directories for all platforms (desktop and Android) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/syer10/Kotlin-Multiplatform-AppDirs?style=flat)](https://github.com/syer10/Kotlin-Multiplatform-AppDirs)
+[![Maven Central](https://img.shields.io/maven-central/v/ca.gosyer/kotlin-multiplatform-appdirs)](https://central.sonatype.com/namespace/ca.gosyer)
+> Get app data directory in all desktops (Linux/Mac/Windows) as well as user-scoped data directory on Android
+
 [Store 5](https://github.com/MobileNativeFoundation/Store) - Kotlin Library for Async Data Loading and Caching 
 [![GitHub Repo stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store?style=flat)](https://github.com/MobileNativeFoundation/Store)
 [![Maven Central](https://img.shields.io/maven-central/v/org.mobilenativefoundation.store/store5)](https://central.sonatype.com/artifact/org.mobilenativefoundation.store/store5)
@@ -284,6 +290,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-notifications)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-notifications)
 > Remote Notification Manager for Kotlin Multiplatform Mobile
 
+[Alert-KMP](https://github.com/KhubaibKhan4/Alert-KMP) - Local and Native Notifications Library  
+[![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/Alert-KMP?style=flat)](https://github.com/KhubaibKhan4/Alert-KMP)  
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/alert-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/alert-kmp)  
+> Native notifications, Toasts, and Alerts for Kotlin Multiplatform.
+
 [abc-kmm-Location](https://github.com/line/abc-kmm-location) - Location manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/line/abc-kmm-location?style=flat)](https://github.com/line/abc-kmm-location)
 [![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.abc/kmm-location)](https://central.sonatype.com/artifact/com.linecorp.abc/kmm-location)
@@ -303,6 +314,12 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-media?style=flat)](https://github.com/icerockdev/moko-media)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/media)](https://central.sonatype.com/artifact/dev.icerock.moko/media)
 > This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.
+
+[MediaPlayer-KMP](https://github.com/KhubaibKhan4/MediaPlayer-KMP) - A Comprehensive Media Player for Kotlin Multiplatform  
+[![GitHub Repo stars](https://img.shields.io/github/stars/KhubaibKhan4/MediaPlayer-KMP?style=flat)](https://github.com/KhubaibKhan4/MediaPlayer-KMP)  
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/mediaplayer-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/mediaplayer-kmp)  
+> **Features**: Platform-agnostic support for Android, iOS, Web, and Desktop. Compose Multiplatform integration, YouTube video and audio playback, streaming support, event handling, ReelsView support, AutoPlay, and Authentication Token implementation.
+
 
 [MOKO Maps](https://github.com/icerockdev/moko-maps) - Google/Mapbox maps manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-maps?style=flat)](https://github.com/icerockdev/moko-maps)
@@ -344,6 +361,16 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/jordond/connectivity?style=flat)](https://github.com/jordond/connectivity)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.connectivity/connectivity-core)](https://central.sonatype.com/namespace/dev.jordond.connectivity)
 > Connectivity provides network monitoring capabilities for multiplatform projects. It can monitor network connectivity using native APIs on Android and Apple devices, or by making HTTP requests to specified hosts.
+
+[kScan](https://github.com/ismai117/KScan) - Barcode Scanner
+[![GitHub Repo stars](https://img.shields.io/github/stars/ismai117/KScan?style=flat)](https://github.com/ismai117/KScan)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/KScan)](https://central.sonatype.com/artifact/io.github.ismai117/KScan)
+> KScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps
+
+[Alarmee](https://github.com/tweener/alarmee) Alarm scheduler with local notifications.
+[![GitHub Repo stars](https://img.shields.io/github/stars/tweener/alarmee?style=flat)](https://github.com/tweener/alarmee)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.tweener/alarmee)](https://central.sonatype.com/artifact/io.github.tweener/alarmee)
+> A Kotlin/Compose Multiplatform library for easy alarm and local notification scheduling on both Android and iOS.
 
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
@@ -857,6 +884,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.svenjacobs.reveal/reveal-core)](https://central.sonatype.com/artifact/com.svenjacobs.reveal/reveal-core/badge.svg)
 > A reveal effect (coach mark, tutorial, onboarding) for Compose Multiplatform (Android, iOS, desktop, Web)
 
+[Compose Media Player](https://github.com/kdroidFilter/ComposeMediaPlayer) Multiplatform Compose Media Player
+[![GitHub Repo stars](https://img.shields.io/github/stars/kdroidFilter/ComposeMediaPlayer?style=flat)](https://github.com/kdroidFilter/ComposeMediaPlayer)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kdroidfilter/composemediaplayer)](https://central.sonatype.com/artifact/io.github.kdroidfilter/composemediaplayer/badge.svg)
+> Compose Media Player is a video player library designed for Compose Multiplatform, supporting multiple platforms including Android, macOS, Windows, Linux and Compose Web (Wasm) 
+
 [KMP-ComposeUIViewController](https://github.com/GuilhE/KMP-ComposeUIViewController) KMP-ComposeUIViewController.
 [![GitHub Repo stars](https://img.shields.io/github/stars/GuilhE/KMP-ComposeUIViewController?style=flat)](https://github.com/GuilhE/KMP-ComposeUIViewController)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp)](https://central.sonatype.com/artifact/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp)
@@ -936,6 +968,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.ismai117/kottie)](https://central.sonatype.com/artifact/io.github.ismai117/kottie)
 > Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Airbnb/Lottie.
 
+[Carbon Compose](https://github.com/gabrieldrn/carbon-compose) - IBM's Carbon design system in Compose multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/gabrieldrn/carbon-compose?style=flat)](https://github.com/gabrieldrn/carbon-compose)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.gabrieldrn/carbon)](https://central.sonatype.com/artifact/io.github.gabrieldrn/carbon)
+> Carbon compose is a Compose Multiplatform implementation of Carbon, an open source design system from IBM.
+
 [Compose Cupertino](https://github.com/alexzhirkevich/compose-cupertino/) - Compose Multiplatform UI components for iOS.
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexzhirkevich/compose-cupertino?style=flat)](https://github.com/alexzhirkevich/compose-cupertino/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.alexzhirkevich/cupertino)](https://central.sonatype.com/artifact/io.github.alexzhirkevich/cupertino)
@@ -975,6 +1012,21 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/colorpicker-compose?style=flat)](https://github.com/skydoves/colorpicker-compose/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/colorpicker-compose.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%colorpicker-compose)
 > Kotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.
+
+[Calendar](https://github.com/kizitonwose/Calendar): Calendar library for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/kizitonwose/Calendar?style=flat)](https://github.com/kizitonwose/Calendar/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.kizitonwose.calendar/compose-multiplatform.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=com.kizitonwose.calendar%compose-multiplatform)
+> A highly customizable calendar library for Android and Compose Multiplatform, backed by RecyclerView for the view system, and LazyRow/LazyColumn for compose.
+
+[Compose Unstyled](https://github.com/composablehorizons/compose-unstyled/): Unstyled components for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/composablehorizons/compose-unstyled?style=flat)](https://github.com/composablehorizons/compose-unstyled/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.composables/core.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=com.composables.core)
+> Unstyled, fully accessible components for Jetpack Compose & Compose Multiplatform that you can customize to your heart's content.
+
+[lumo-ui](https://github.com/nomanr/lumo-ui/): A Gradle plugin to build your Compose component library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/nomanr/lumo-ui?style=flat)](https://github.com/nomanr/lumo-ui/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/com.nomanr/lumo)](https://search.maven.org/artifact/com.nomanr/lumo)
+> Beautifully designed, customizable UI components for Compose, ready to copy and paste into your apps.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
@@ -1196,6 +1248,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat)](https://github.com/prof18/RSS-Parser)
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
+
+[JsonPathKt](https://github.com/eygraber/JsonPathKt) - A lighter and more efficient implementation of JsonPath in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/JsonPathKt?style=flat)](https://github.com/eygraber/JsonPathKt)
+[![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/jsonpathkt-kotlinx)](https://central.sonatype.com/artifact/com.eygraber/jsonpathkt-kotlinx)
+> JsonPathKt provides a fast and performant way to work with JsonPath in Kotlin Multiplatform projects.
 
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
