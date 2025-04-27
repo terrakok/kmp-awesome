@@ -316,6 +316,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.khubaibkhan4/mediaplayer-kmp)](https://central.sonatype.com/artifact/io.github.khubaibkhan4/mediaplayer-kmp)  
 > **Features**: Platform-agnostic support for Android, iOS, Web, and Desktop. Compose Multiplatform integration, YouTube video and audio playback, streaming support, event handling, ReelsView support, AutoPlay, and Authentication Token implementation.
 
+[Gadulka](https://github.com/kkostov/gadulka) - A Comprehensive Media Player for Kotlin Multiplatform  
+[![GitHub Repo stars](https://img.shields.io/github/stars/kkostov/gadulka?style=flat)](https://github.com/kkostov/gadulka)  
+[![Maven Central](https://img.shields.io/maven-central/v/eu.iamkonstantin.kotlin/gadulka)](https://img.shields.io/maven-central/v/eu.iamkonstantin.kotlin/gadulka)  
+> A minimalistic audio player library for Kotlin Multiplatform and Compose Multiplatform. Supports playback on iOS, Android, Desktop (JVM) and WasmJS.
 
 [MOKO Maps](https://github.com/icerockdev/moko-maps) - Google/Mapbox maps manager
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-maps?style=flat)](https://github.com/icerockdev/moko-maps)
