@@ -1024,6 +1024,10 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.nomanr/lumo)](https://search.maven.org/artifact/com.nomanr/lumo)
 > Beautifully designed, customizable UI components for Compose, ready to copy and paste into your apps.
 
+[PocketBand](https://github.com/xrad/PocketBand/): Versatile software synth app using KMP/CMP.
+[![GitHub Repo stars](https://img.shields.io/github/stars/xrad/PocketBand?style=flat)](https://github.com/xrad/PocketBand/stargazers)
+> Complete app which can be compiled for Android and as a macOS DMG (jvmTarget.) Written using Compose Multiplatform exclusively. Also showcases C++ interop and multi-module.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
