@@ -204,6 +204,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.rsocket.kotlin/rsocket-core)](https://central.sonatype.com/artifact/io.rsocket.kotlin/rsocket-core)
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
+[inspektor](https://github.com/ShreyashKore/inspektor) - Ktor network inspection and mocking library
+[![GitHub Repo stars](https://img.shields.io/github/stars/ShreyashKore/inspektor?style=flat)](https://github.com/ShreyashKore/inspektor)
+[![Maven Central](https://img.shields.io/maven-central/v/com.gyanoba.inspektor/inspektor)](https://central.sonatype.com/artifact/com.gyanoba.inspektor/inspektor)
+> A multiplatform HTTP inspection library for Ktor inspired by Chucker with request response overriding/mocking
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
