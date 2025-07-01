@@ -139,6 +139,9 @@ It reduces time spent writing and maintaining the same code for different platfo
 ![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat)
 > Convert SVG/XML icons into Compose ImageVector with convenient code formatting. Plugin provides ability to one-click conversion or icon pack creation with batch export. 
 
+[Axer](https://github.com/orioneee/Axer) Android, JVM, and iOS library  ![GitHub Repo stars](https://img.shields.io/github/stars/orioneee/Axer?style=flat)  
+> Monitor HTTP requests, record fatal and non-fatal exceptions, and inspect Room database in real-time with custom query execution and table value editing.  
+
 ## Libraries
 
 ### 📋 Log
