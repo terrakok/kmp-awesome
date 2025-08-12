@@ -1026,7 +1026,7 @@ your Compose apps.
 
 [compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui): Fluent Design UI library for Compose Multiplatform.
 [![GitHub Repo stars](https://img.shields.io/github/stars/compose-fluent/compose-fluent-ui?style=flat)](https://github.com/compose-fluent/compose-fluent-ui/stargazers)
-[![Maven Central](https://img.shields.io/maven-central/v/com.nomanr/lumo)](https://search.maven.org/artifact/io.github.compose-fluent/fluent)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.compose-fluent/fluent)](https://search.maven.org/artifact/io.github.compose-fluent/fluent)
 > Compose Fluent UI is a multiplatform UI library that implements Fluent Design System using Compose Multiplatform. It provides an abundance of components for creating user interfaces similar to those in WinUI 3 applications.
 
 ### 🎨 Graphics
