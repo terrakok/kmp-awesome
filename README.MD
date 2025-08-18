@@ -368,6 +368,13 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.tweener/alarmee)](https://central.sonatype.com/artifact/io.github.tweener/alarmee)
 > A Kotlin/Compose Multiplatform library for easy alarm and local notification scheduling on both Android and iOS.
 
+[ImagePickerKMP](https://github.com/ismoy/ImagePickerKMP) Camera photo capture and gallery image selection.
+[![GitHub Repo stars](https://img.shields.io/github/stars/ismoy/ImagePickerKMP?style=flat)](https://github.com/ismoy/ImagePickerKMP)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ismoy/imagepickerkmp)](https://central.sonatype.com/artifact/io.github.ismoy/imagepickerkmp)
+> A Kotlin Multiplatform library for **picking images and capturing photos** with support for **Android and iOS**.  
+Simple to use, production-ready, and published on Maven Central.  
+
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat)](https://github.com/InsertKoinIO/koin)
