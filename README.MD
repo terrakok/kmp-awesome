@@ -139,6 +139,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 ![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat)
 > Convert SVG/XML icons into Compose ImageVector with convenient code formatting. Plugin provides ability to one-click conversion or icon pack creation with batch export. 
 
+[KMPify](https://github.com/MahmoudRH/kmpify) migration tool
+[![GitHub Repo stars](https://img.shields.io/github/stars/MahmoudRH/kmpify?style=flat)](https://github.com/MahmoudRH/kmpify)
+> Automates the migration of Android Jetpack Compose projects to Compose Multiplatform by converting resource imports, annotations, and references. Built with KMP and Compose Desktop, it speeds up tedious migration tasks.
+
 ## Libraries
 
 ### 📋 Log
