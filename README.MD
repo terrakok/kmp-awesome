@@ -563,7 +563,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 > Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing 
 
 [TestBalloon](https://github.com/infix-de/testBalloon)
-[![GitHub Repo stars](https://img.shields.io/github/stars/infix-de/testBalloon?style=flat)](https://github.com/kotest/kotest)
+[![GitHub Repo stars](https://img.shields.io/github/stars/infix-de/testBalloon?style=flat)](https://github.com/infix-de/testBalloon)
 [![Maven Central](https://img.shields.io/maven-central/v/de.infix.testBalloon/testBalloon-framework-core)](https://central.sonatype.com/artifact/de.infix.testBalloon/testBalloon-framework-core)
 > Fast, powerful and easy-to-use Kotlin test framework, built from the ground up for Kotlin Multiplatform and coroutines
 
