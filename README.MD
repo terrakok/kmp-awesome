@@ -559,8 +559,8 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest?style=flat)](https://github.com/kotest/kotest)
-[![Maven Central](https://img.shields.io/maven-central/v/io.kotest/kotest-mpp)](https://central.sonatype.com/artifact/io.kotest/kotest-mpp)
-> Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing 
+[![Maven Central](https://img.shields.io/maven-central/v/io.kotest/kotest-common)](https://central.sonatype.com/artifact/io.kotest/kotest-common)
+> Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 
 [TestBalloon](https://github.com/infix-de/testBalloon)
 [![GitHub Repo stars](https://img.shields.io/github/stars/infix-de/testBalloon?style=flat)](https://github.com/infix-de/testBalloon)
