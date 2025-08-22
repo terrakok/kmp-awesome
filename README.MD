@@ -139,6 +139,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 ![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat)
 > Convert SVG/XML icons into Compose ImageVector with convenient code formatting. Plugin provides ability to one-click conversion or icon pack creation with batch export. 
 
+[KMPify](https://github.com/MahmoudRH/kmpify) migration tool
+[![GitHub Repo stars](https://img.shields.io/github/stars/MahmoudRH/kmpify?style=flat)](https://github.com/MahmoudRH/kmpify)
+> Automates the migration of Android Jetpack Compose projects to Compose Multiplatform by converting resource imports, annotations, and references. Built with KMP and Compose Desktop, it speeds up tedious migration tasks.
+
 ## Libraries
 
 ### 📋 Log
@@ -564,6 +568,11 @@ Simple to use, production-ready, and published on Maven Central.
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest?style=flat)](https://github.com/kotest/kotest)
 [![Maven Central](https://img.shields.io/maven-central/v/io.kotest/kotest-mpp)](https://central.sonatype.com/artifact/io.kotest/kotest-mpp)
 > Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing 
+
+[TestBalloon](https://github.com/infix-de/testBalloon)
+[![GitHub Repo stars](https://img.shields.io/github/stars/infix-de/testBalloon?style=flat)](https://github.com/infix-de/testBalloon)
+[![Maven Central](https://img.shields.io/maven-central/v/de.infix.testBalloon/testBalloon-framework-core)](https://central.sonatype.com/artifact/de.infix.testBalloon/testBalloon-framework-core)
+> Fast, powerful and easy-to-use Kotlin test framework, built from the ground up for Kotlin Multiplatform and coroutines
 
 [Turbine](https://github.com/cashapp/turbine) - test library
 [![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/turbine?style=flat)](https://github.com/mpetuska/klip)
