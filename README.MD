@@ -403,6 +403,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/cc.popkorn/popkorn)](https://central.sonatype.com/artifact/cc.popkorn/popkorn)
 > PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.
 
+[Ivy DI](https://github.com/Ivy-Apps/di) - Runtime DI for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Ivy-Apps/di?style=flat)](https://github.com/Ivy-Apps/di)
+[![Maven Central Version](https://img.shields.io/maven-central/v/com.ivy-apps/di?color=5C3DF5)](https://central.sonatype.com/artifact/com.ivy-apps/di)
+> A simple and lightweight runtime Dependency Injection (DI) container for Kotlin Multiplatform. Ivy DI is a small dependency injection library with an intuitive API and limited features.
+
 ### 🏗 Architecture
 [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials)
 [![GitHub Repo stars](https://img.shields.io/github/stars/thearchitect123/kmpEssentials?style=flat)](https://github.com/TheArchitect123/KmpEssentials)
