@@ -1069,6 +1069,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/Aallam/openai-kotlin?style=flat)](https://github.com/Aallam/openai-kotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.aallam.openai/openai-client)](https://central.sonatype.com/artifact/com.aallam.openai/openai-client)
 > Kotlin client for [OpenAI's API](https://beta.openai.com/docs/api-reference) with multiplatform and coroutines capabilities.
+ 
+> [Gateway](https://github.com/brahyam/Gateway) - AI providers client
+[![GitHub Repo stars](https://img.shields.io/github/stars/brahyam/Gateway?style=flat)](https://github.com/brahyam/Gateway)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.brahyam/gateway-client)](https://central.sonatype.com/artifact/io.github.brahyam/gateway-client)
+> Android and Kotlin Multiplatform client for accessing different AI providers (OpenAI, Claude, Gemini, Groq, Mistral AI, Together AI, Anthropic Claude, AI/ML API) optionally adding API key protection, device attestation using Play Integrity/Device Check and IP rate limiting.
 
 [Sentry SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) - Sentry Kotlin Multiplatform SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform?style=flat)](https://github.com/getsentry/sentry-kotlin-multiplatform)
