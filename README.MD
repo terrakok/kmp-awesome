@@ -166,7 +166,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
 > Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
-
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
 [![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor?style=flat)](https://github.com/ktorio/ktor)
@@ -1069,6 +1068,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/Aallam/openai-kotlin?style=flat)](https://github.com/Aallam/openai-kotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.aallam.openai/openai-client)](https://central.sonatype.com/artifact/com.aallam.openai/openai-client)
 > Kotlin client for [OpenAI's API](https://beta.openai.com/docs/api-reference) with multiplatform and coroutines capabilities.
+
+[basic-ads](https://github.com/LexiLabs-App/basic-ads) - Composables for Google AdMob in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/LexiLabs-App/basic-ads?style=flat)](https://github.com/LexiLabs-App/basic-ads)
+[![Maven Central](https://img.shields.io/maven-central/v/app.lexilabs.basic/basic-ads)](https://central.sonatype.com/artifact/app.lexilabs.basic/basic-ads)
+> Composables for [Google AdMob](https://admob.google.com) Banner, Interstitial, and Rewarded ads in Kotlin Multiplatform
 
 [Sentry SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) - Sentry Kotlin Multiplatform SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform?style=flat)](https://github.com/getsentry/sentry-kotlin-multiplatform)
