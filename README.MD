@@ -1254,6 +1254,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.
 
+[Spraypaint.Kt](https://github.com/maicol07/spraypaintkt) - A Kotlin Multiplatform JSON:API client inspired by Spraypaint.JS
+[![GitHub Repo stars](https://img.shields.io/github/stars/maicol07/spraypaintkt?style=flat)](https://github.com/maicol07/spraypaintkt)
+[![Maven Central](https://img.shields.io/maven-central/v/it.maicol07.spraypaintkt/core)](https://central.sonatype.com/artifact/it.maicol07.spraypaintkt/core)
+> Spraypaint.Kt A Kotlin library for interacting with JSONAPI-compliant APIs via resources/models.
+
 [JsonPathKt](https://github.com/eygraber/JsonPathKt) - A lighter and more efficient implementation of JsonPath in Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/JsonPathKt?style=flat)](https://github.com/eygraber/JsonPathKt)
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/jsonpathkt-kotlinx)](https://central.sonatype.com/artifact/com.eygraber/jsonpathkt-kotlinx)
