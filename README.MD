@@ -178,6 +178,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/de.jensklingenberg.ktorfit/ktorfit-lib)](https://central.sonatype.com/artifact/de.jensklingenberg.ktorfit/ktorfit-lib)
 > HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
 
+[Extra-Ktor-Plugins](https://github.com/Flaxoos/extra-ktor-plugins) - Extra plugins for Ktor Server/Client
+[![GitHub Repo stars](https://img.shields.io/github/stars/Flaxoos/extra-ktor-plugins)](https://github.com/Flaxoos/extra-ktor-plugins)
+[![Maven-central](https://img.shields.io/maven-central/v/io.github.flaxoos/ktor-server-task-scheduling)](https://search.maven.org/search?q=io.github.flaxoos%20AND%20ktor)
+> Feature-rich, efficient, and highly customizable plugins for your Multiplatform Ktor Server or Client, Getting Ktor closer to be on par with alternative frameworks such as Spring
+
 [Apollo GraphQL](https://github.com/apollographql/apollo-android) - GraphQL client
 [![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android?style=flat)](https://github.com/apollographql/apollo-android)
 [![Maven Central](https://img.shields.io/maven-central/v/com.apollographql.apollo3/apollo-runtime)](https://central.sonatype.com/artifact/com.apollographql.apollo3/apollo-runtime)
