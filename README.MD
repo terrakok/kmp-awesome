@@ -924,6 +924,11 @@ your Compose apps.
 [![jitpack.io](https://jitpack.io/v/theapache64/rebugger.svg)](https://jitpack.io/#theapache64/rebugger)
 > A simple Compose library to print the reason for recomposition in your `Logcat` window.
 
+[WebView Multiplatform Mobile (CustomTabs and Safari)](https://github.com/final-class/WebView-Multiplatform-Mobile) for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/final-class/WebView-Multiplatform-Mobile?style=flat)](https://github.com/final-class/WebView-Multiplatform-Mobile)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.final-class/webview-multiplatform-mobile.svg)](https://central.sonatype.com/artifact/io.github.final-class/webview-multiplatform-mobile)
+> WebView Multiplatform Mobile is a cross-platform library for embedding web content in Android and iOS apps. It utilizes CustomTabs for Android and SFSafariViewController for iOS, ensuring secure and fast web interaction with native UI and performance.
+
 [Compose WebView Multiplatform](https://github.com/KevinnZou/compose-webview-multiplatform) WebView for Compose Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/KevinnZou/compose-webview-multiplatform?style=flat)](https://github.com/KevinnZou/compose-webview-multiplatform)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.kevinnzou/compose-webview-multiplatform.svg)](https://search.maven.org/artifact/io.github.kevinnzou/compose-webview-multiplatform)
