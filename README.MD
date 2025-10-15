@@ -1054,6 +1054,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.korim/korim)](https://central.sonatype.com/artifact/com.soywiz.korlibs.korim/korim)
 > Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin
 
+[Krop](https://github.com/tamimattafi/krop) - Image Cropping for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/tamimattafi/krop?style=flat)](https://github.com/tamimattafi/krop)
+[![Maven Central](https://img.shields.io/maven-central/v/com.attafitamim.krop/ui)](https://central.sonatype.com/artifact/com.attafitamim.krop/ui)
+> Easy to use image cropping library for Compose Multiplatform, with support for shapes, aspect-ratios, transformations, large images, auto zoom...
+
 ### 🧩 Service SDK
 [Firebase Kotlin SDK](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase 
 [![GitHub Repo stars](https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk?style=flat)](https://github.com/GitLiveApp/firebase-kotlin-sdk)
