@@ -166,6 +166,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
 > Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
+[stream-log](https://github.com/GetStream/stream-log) - A lightweight logger for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/getstream/stream-log?style=flat)](https://github.com/GetStream/stream-log)
+[![Maven Central](https://img.shields.io/maven-central/v/io.getstream/stream-log.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.getstream%22%20AND%20a:%22stream-log%22)
+> Stream Log is a lightweight and extensible logger library for Kotlin Multiplatform.
 
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
