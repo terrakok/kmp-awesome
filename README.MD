@@ -1043,6 +1043,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.compose-fluent/fluent)](https://search.maven.org/artifact/io.github.compose-fluent/fluent)
 > Compose Fluent UI is a multiplatform UI library that implements Fluent Design System using Compose Multiplatform. It provides an abundance of components for creating user interfaces similar to those in WinUI 3 applications.
 
+[CraftD](https://github.com/CodandoTV/CraftD): Server Driven UI Library for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/CodandoTV/CraftD?style=flat)](https://github.com/CodandoTV/CraftD/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.codandotv/craftd-compose)](https://search.maven.org/artifact/io.github.codandotv/craftd-compose)
+> A Compose Multiplatform library to implement Server-Driven UI quickly and easily.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
