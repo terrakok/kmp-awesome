@@ -929,6 +929,23 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.kevinnzou/compose-webview-multiplatform.svg)](https://search.maven.org/artifact/io.github.kevinnzou/compose-webview-multiplatform)
 > A WebView library that offers essential WebView features for Compose Multiplatform. It supports loading URLs and HTML data, evaluating JavaScript, and managing cookies. Currently, it is available for Android, iOS, and Desktop platforms.
 
+[KMP Maps](https://github.com/software-mansion/kmp-maps) Universal map component for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/kmp-maps?style=flat)](https://github.com/software-mansion/kmp-maps)
+[![Maven Central](https://img.shields.io/maven-central/v/com.swmansion.kmpmaps/core)](https://central.sonatype.com/artifact/com.swmansion.kmpmaps/core)
+> Universal map component for Compose Multiplatform, offering seamless integration with native map APIs on both Android and iOS platforms. Supports Google Maps on Android and Apple Maps or Google Maps on iOS, with customizable markers, GeoJSON support, and rich geometry features.
+
+[KMP Sharing](https://github.com/software-mansion/kmp-sharing) Universal sharing function for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/kmp-sharing?style=flat)](https://github.com/software-mansion/kmp-sharing)
+[![Maven Central](https://img.shields.io/maven-central/v/com.swmansion.kmpsharing/kmp-sharing)](https://central.sonatype.com/artifact/com.swmansion.kmpsharing/kmp-sharing)
+
+> Universal sharing function for Compose Multiplatform. Single API for both Android and iOS, using native Android Intent system and iOS UIActivityViewController. Supports file sharing with proper MIME type detection and platform-specific customization options.
+
+[KMP Wheel Picker](https://github.com/software-mansion-labs/kmp-wheel-picker) Modular wheel picker for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion-labs/kmp-wheel-picker?style=flat)](https://github.com/software-mansion-labs/kmp-wheel-picker)
+[![Maven Central](https://img.shields.io/maven-central/v/com.swmansion.kmpwheelpicker/kmp-wheel-picker)](https://central.sonatype.com/artifact/com.swmansion.kmpwheelpicker/kmp-wheel-picker)
+
+> Modular wheel picker for Compose Multiplatform. Use your own composables for items and window, style items based on position, customize buffer size, animations, and scroll friction. Supports programmatic scrolling with animation.
+
 [ZoomImage](https://github.com/panpf/zoomimage) Library for zoom images
 [![GitHub Repo stars](https://img.shields.io/github/stars/panpf/zoomimage?style=flat)](https://github.com/panpf/zoomimage)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.panpf.zoomimage/zoomimage-core)](https://search.maven.org/artifact/io.github.panpf.zoomimage/zoomimage-core)
@@ -963,6 +980,12 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/KoalaPlot/koalaplot-core?style=flat)](https://github.com/KoalaPlot/koalaplot-core/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.koalaplot/koalaplot-core)](https://central.sonatype.com/artifact/io.github.koalaplot/koalaplot-core)
 > Build great-looking interactive plots for Android, Desktop, iOS, and Web using a single API and common code base. Supports over 7 graph types.
+
+[Vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible multiplatform chart library
+[![GitHub Repo stars](https://img.shields.io/github/stars/patrykandpatrick/vico?style=flat)](https://github.com/patrykandpatrick/vico)
+[![Maven Central](https://img.shields.io/maven-central/v/com.patrykandpatrick.vico/compose)](https://central.sonatype.com/artifact/com.patrykandpatrick.vico/compose)
+
+> A powerful and extensible multiplatform chart library. Offers native support for Jetpack Compose, Compose Multiplatform, and the Android view system.
 
 [Precompose](https://github.com/Tlaster/PreCompose) Compose Multiplatform Navigation.
 [![GitHub Repo stars](https://img.shields.io/github/stars/Tlaster/PreCompose?style=flat)](https://github.com/Tlaster/PreCompose)
