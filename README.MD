@@ -797,6 +797,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.autodesk/CoroutineWorker)](https://central.sonatype.com/artifact/com.autodesk/CoroutineWorker)
 > Kotlin Coroutine-based workers for native
 
+[KMPTaskManager](https://github.com/vietnguyentuan2019/KMPTaskManager) - Background Task Scheduler
+[![GitHub Repo stars](https://img.shields.io/github/stars/vietnguyentuan2019/KMPTaskManager?style=flat)](https://github.com/vietnguyentuan2019/KMPTaskManager)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.vietnguyentuan2019/kmptaskmanager)](https://central.sonatype.com/artifact/io.github.vietnguyentuan2019/kmptaskmanager)
+> Unified background task scheduler for Android (WorkManager) and iOS (BGTaskScheduler). Supports 9 trigger types, task chains, and smart retry with backoff.
+
 [Koru](https://github.com/FutureMind/koru) - Coroutine wrappers for Kotlin Native 
 [![GitHub Repo stars](https://img.shields.io/github/stars/FutureMind/koru?style=flat)](https://github.com/FutureMind/koru)
 [![Maven Central](https://img.shields.io/maven-central/v/com.futuremind/koru)](https://central.sonatype.com/artifact/com.futuremind/koru)
