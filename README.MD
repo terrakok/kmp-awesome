@@ -1082,6 +1082,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.korim/korim)](https://central.sonatype.com/artifact/com.soywiz.korlibs.korim/korim)
 > Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin
 
+[YouTubePlayer](https://github.com/IlyaPavlovskii/YouTubePlayer) - YouTube kotlin multiplatform player
+[![GitHub Repo stars](https://img.shields.io/github/stars/IlyaPavlovskii/YouTubePlayer)](https://github.com/IlyaPavlovskii/YouTubePlayer)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ilyapavlovskii/youtubeplayer-compose.svg)](https://search.maven.org/artifact/io.github.ilyapavlovskii/youtubeplayer)
+> YouTube kotlin multiplatform player. The YouTubePlayer composable allows you to embed a YouTube video player in your Jetpack Compose app.
+
 ### 🧩 Service SDK
 [Firebase Kotlin SDK](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase 
 [![GitHub Repo stars](https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk?style=flat)](https://github.com/GitLiveApp/firebase-kotlin-sdk)
