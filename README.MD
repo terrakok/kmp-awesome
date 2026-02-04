@@ -817,6 +817,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/nl.jacobras/Human-Readable)](https://central.sonatype.com/artifact/nl.jacobras/Human-Readable)
 > Works with kotlinx-datetime and offers features like relative time ("2 hours ago"), durations and file sizes.
 
+### 🎨 UI Frameworks
+[KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance, full-platform development framework with unified codebase.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-TDS/KuiklyUI?style=flat)](https://github.com/Tencent-TDS/KuiklyUI)
+> Tencent's cross-platform UI framework supporting Android, iOS, HarmonyOS, Web, and Mini Programs. Features native rendering, dynamic updates, and hot reload capabilities.
+
 ### 🍎 Compose UI
 [Appyx](https://github.com/bumble-tech/appyx) Navigation, transition animations, gestures, UI components.
 [![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx?style=flat)](https://github.com/bumble-tech/appyx)
