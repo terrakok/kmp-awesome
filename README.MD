@@ -561,6 +561,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/ru.cookedapp.trckr/trckr-core)](https://central.sonatype.com/artifact/ru.cookedapp.trckr/trckr-core)
 > KSP processer that simplifies the collection of analytics
 
+[umami-kotlin](https://github.com/AppOutlet/umami-kotlin) - Privacy-first analytics
+[![GitHub Repo stars](https://img.shields.io/github/stars/AppOutlet/umami-kotlin?style=flat)](https://github.com/AppOutlet/umami-kotlin)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.appoutlet/umami)](https://central.sonatype.com/artifact/dev.appoutlet/umami)
+> Simple library for adding privacy-first analytics to your Kotlin applications using Umami (Alternative to Google Analytics)
+
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest?style=flat)](https://github.com/kotest/kotest)
