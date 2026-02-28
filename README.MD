@@ -607,6 +607,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.willowtreeapps.assertk/assertk)](https://central.sonatype.com/artifact/com.willowtreeapps.assertk/assertk)
 > Fluent assertions library for Kotlin with full Multiplatform support.
 
+[Fakt](https://github.com/rsicarelli/fakt) - Type-safe fake generation with compiler plugin
+[![GitHub Repo stars](https://img.shields.io/github/stars/rsicarelli/fakt?style=flat)](https://github.com/rsicarelli/fakt)
+[![Maven Central](https://img.shields.io/maven-central/v/com.rsicarelli.fakt/compiler)](https://central.sonatype.com/artifact/com.rsicarelli.fakt/compiler)
+> Automate the fake-over-mock pattern. Type-safe test fake generation for Kotlin Multiplatform via FIR/IR compiler plugin.
+
 ### 🔑 Crypto
 [Cryptography-Kotlin](https://github.com/whyoleg/cryptography-kotlin) - Type-safe Multiplatform cryptography library for Kotlin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/whyoleg/cryptography-kotlin?style=flat)](https://github.com/whyoleg/cryptography-kotlin)
