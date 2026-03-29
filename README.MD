@@ -1262,14 +1262,14 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.soywiz.korlibs.korau/korau)](https://central.sonatype.com/artifact/com.soywiz.korlibs.korau/korau)
 > Pure Kotlin WAV, MP3 and OGG vorbis decoders
 
-[Kim](https://github.com/Ashampoo/kim) - Kotlin Image Metadata
-[![GitHub Repo stars](https://img.shields.io/github/stars/Ashampoo/kim?style=flat)](https://github.com/Ashampoo/kim)
-[![Maven Central](https://img.shields.io/maven-central/v/com.ashampoo/kim)](https://central.sonatype.com/artifact/com.ashampoo/kim)
+[Kim](https://github.com/StefanOltmann/kim) - Kotlin Image Metadata
+[![GitHub Repo stars](https://img.shields.io/github/stars/StefanOltmann/kim?style=flat)](https://github.com/StefanOltmann/kim)
+[![Maven Central](https://img.shields.io/maven-central/v/de.stefan-oltmann/kim)](https://central.sonatype.com/artifact/de.stefan-oltmann/kim)
 > Kotlin Multiplatform library for reading and writing image metadata
 
-[XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
-[![GitHub Repo stars](https://img.shields.io/github/stars/Ashampoo/xmpcore?style=flat)](https://github.com/Ashampoo/xmpcore)
-[![Maven Central](https://img.shields.io/maven-central/v/com.ashampoo/xmpcore)](https://central.sonatype.com/artifact/com.ashampoo/xmpcore)
+[XMP Core for Kotlin Multiplatform](https://github.com/StefanOltmann/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
+[![GitHub Repo stars](https://img.shields.io/github/stars/StefanOltmann/xmpcore?style=flat)](https://github.com/StefanOltmann/xmpcore)
+[![Maven Central](https://img.shields.io/maven-central/v/de.stefan-oltmann/xmpcore)](https://central.sonatype.com/artifact/de.stefan-oltmann/xmpcore)
 > Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files
 
 [Highlights](https://github.com/SnipMeDev/Highlights) - Kotlin Multiplatform syntax highlighting engine
