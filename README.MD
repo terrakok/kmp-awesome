@@ -167,6 +167,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
 > Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
+[Lognity](https://gitlab.com/connect2x/lognity) - logger
+[![GitHub Repo stars](https://img.shields.io/gitlab/stars/connect2x%2Flognity?style=flat)](https://gitlab.com/connect2x/lognity)
+[![Maven Central](https://img.shields.io/maven-central/v/de.connect2x.lognity/lognity-core)](https://central.sonatype.com/artifact/de.connect2x.lognity/lognity-core)
+> A lightweight logging facade and implementation for Kotlin Multiplatform.
 
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
@@ -351,6 +355,16 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ujizin/Camposer?style=flat)](https://github.com/ujizin/Camposer)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.ujizin/camposer)](https://search.maven.org/artifact/io.github.ujizin/camposer)
 > Camera library built with Compose Multiplatform for photo/video capture, zoom, focus-on-tap, flash/torch, exposure control, and optional code scanning.
+
+[Filament](https://github.com/karmakrafts/Filament) - Native parallelism.
+[![GitHub Repo stars](https://img.shields.io/github/stars/karmakrafts/Filament?style=flat)](https://github.com/karmakrafts/Filament)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.karmakrafts.filament/filament-core)](https://central.sonatype.com/artifact/dev.karmakrafts.filament/filament-core)
+> Common Thread class (and snychronization primitives) for Kotlin/Multiplatform.
+
+[SysNotify](https://gitlab.com/connect2x/sysnotify) - Cloudless system notifications.
+[![GitHub Repo stars](https://img.shields.io/gitlab/stars/connect2x%2Fsysnotify?style=flat)](https://gitlab.com/connect2x/sysnotify)
+[![Maven Central](https://img.shields.io/maven-central/v/de.connect2x.sysnotify/sysnotify-core)](https://central.sonatype.com/artifact/de.connect2x.sysnotify/sysnotify-core)
+> Cross-platform system notifications for Kotlin Multiplatform.
 
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
@@ -633,10 +647,14 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.vinceglb/filekit-core)](https://central.sonatype.com/artifact/io.github.vinceglb/filekit-core)
 > Files, Medias, Folder Picker and File saver library for Kotlin Multiplatform and Compose Multiplatform
 
-[Kompress](https://github.com/karmakrafts/kompress) - Compress and decompress your data
-[![GitHub Repo stars](https://img.shields.io/github/stars/karmakrafts/kompress?style=flat)](https://github.com/vinceglb/FileKit)
+[Kompress](https://github.com/karmakrafts/kompress) - Compression extensions for kotlinx.io
+[![GitHub Repo stars](https://img.shields.io/github/stars/karmakrafts/kompress?style=flat)](https://github.com/karmakrafts/Kompress)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.karmakrafts.kompress/kompress-core)](https://central.sonatype.com/artifact/dev.karmakrafts.kompress/kompress-core)
 > Deflate/Inflate compression APIs for Kotlin Multiplatform.
+
+[kMMIO](https://github.com/karmakrafts/kmmio) - Memory mapped (file) IO for kotlinx.io
+[![GitHub Repo stars](https://img.shields.io/github/stars/karmakrafts/kmmio?style=flat)](https://github.com/karmakrafts/kmmio)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.karmakrafts.kmmio/kmmio-core)](https://central.sonatype.com/artifact/dev.karmakrafts.kmmio/kmmio-core)
 
 ### 🚀 Language extensions
 [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library 
