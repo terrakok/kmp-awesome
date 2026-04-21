@@ -655,6 +655,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [kMMIO](https://github.com/karmakrafts/kmmio) - Memory mapped (file) IO for kotlinx.io
 [![GitHub Repo stars](https://img.shields.io/github/stars/karmakrafts/kmmio?style=flat)](https://github.com/karmakrafts/kmmio)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.karmakrafts.kmmio/kmmio-core)](https://central.sonatype.com/artifact/dev.karmakrafts.kmmio/kmmio-core)
+> Lightweight MMIO for Kotlin Multiplatform.
 
 ### 🚀 Language extensions
 [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library 
