@@ -716,6 +716,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.ucasoft.kcron/kcron-common)](https://central.sonatype.com/artifact/com.ucasoft.kcron/kcron-common)
 > Kotlin Multiplatform library for build and parsing cron expression. Support custom date time providers. Has default implementation based on [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) library. 
 
+[ComposeDatePicker](https://github.com/mikekpl/compose-datepicker) - A lightweight, highly customizable Date Picker built from the ground up for Compose Multiplatform. No friction, no boilerplate, it just works.
+[![GitHub Repo stars](https://img.shields.io/github/stars/mikekpl/compose-datepicker?style=flat)](https://github.com/mikekpl/compose-datepicker)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.mikelau/compose-datepicker.svg?label=Maven%20Central)]
+> A Compose Multiplatform Date Picker Library that uses [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) library. 
+
 ### ➿ Asynchronous
 [Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Kotlin coroutines
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.coroutines?style=flat)](https://github.com/Kotlin/kotlinx.coroutines)
