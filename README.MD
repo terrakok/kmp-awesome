@@ -204,6 +204,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.rsocket.kotlin/rsocket-core)](https://central.sonatype.com/artifact/io.rsocket.kotlin/rsocket-core)
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
+[kt-search](https://github.com/jillesvangurp/kt-search) - Elasticsearch & OpenSearch client
+[![GitHub Repo stars](https://img.shields.io/github/stars/jillesvangurp/kt-search?style=flat)](https://github.com/jillesvangurp/kt-search)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.jillesvangurp/kt-search)](https://central.sonatype.com/artifact/io.github.jillesvangurp/kt-search)
+> Multi platform kotlin client for Elasticsearch & Opensearch with easily extendable Kotlin DSLs for queries, mappings, bulk, and more.
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
@@ -259,6 +264,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/xxfast/KStore?style=flat)](https://github.com/xxfast/KStore)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.xxfast/kstore)](https://central.sonatype.com/artifact/io.github.xxfast/kstore/)
 > A Kotlin multiplatform library that assists in saving and restoring objects to and from disk
+
+[KSafe](https://github.com/ioannisa/KSafe) - Encrypted key-value storage with Hardware-Backed Security
+[![GitHub Repo stars](https://img.shields.io/github/stars/ioannisa/KSafe?style=flat)](https://github.com/ioannisa/KSafe)
+[![Maven Central](https://img.shields.io/maven-central/v/eu.anifantakis/ksafe)](https://central.sonatype.com/artifact/eu.anifantakis/ksafe)
+> An Effortless Enterprise-Grade Encrypted key-value storage for Kotlin Multiplatform and Native Android with Hardware-Backed Security.
 
 [Universal-Cache](https://github.com/andrew0000/universal-cache) - Kotlin caching and request sharing
 [![GitHub Repo stars](https://img.shields.io/github/stars/andrew0000/universal-cache?style=flat)](https://github.com/andrew0000/universal-cache)
@@ -351,6 +361,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ujizin/Camposer?style=flat)](https://github.com/ujizin/Camposer)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.ujizin/camposer)](https://search.maven.org/artifact/io.github.ujizin/camposer)
 > Camera library built with Compose Multiplatform for photo/video capture, zoom, focus-on-tap, flash/torch, exposure control, and optional code scanning.
+
+[CountryPicker-KMP](https://github.com/stevdza-san/CountryPicker-KMP) - Country selection with Dial codes, Currencies, Flags and ISO codes
+[![GitHub Repo stars](https://img.shields.io/github/stars/stevdza-san/CountryPicker-KMP?style=flat)](https://github.com/stevdza-san/CountryPicker-KMP)
+[![Maven Central](https://img.shields.io/maven-central/v/com.stevdza-san/countrypicker)](https://central.sonatype.com/artifact/com.stevdza-san/countrypicker)
+> A lightweight KMP library that simplifies country selection by providing Country enum with Dial codes, Currencies, Flags and ISO codes—Adopted for Android, iOS, Desktop, and Web.
 
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
@@ -1066,6 +1081,31 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/dev.rikkaui/foundation)](https://central.sonatype.com/artifact/dev.rikkaui/foundation)
 > RikkaUI — composing elements into harmony. Shadcn/UI Inspired component library & design system for Jetpack Compose.
 
+[Table-KMP](https://github.com/mamon-aburawi/Table-KMP) - Data grid for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/mamon-aburawi/Table-KMP?style=flat)](https://github.com/mamon-aburawi/Table-KMP)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.mamon-aburawi/table-kmp)](https://central.sonatype.com/artifact/io.github.mamon-aburawi/table-kmp)
+> A beautiful, responsive, and fully customizable data grid library built natively for Compose Multiplatform.
+
+[ComposePdfReader](https://github.com/NucleusFramework/ComposePdfReader) - PDF rendering and text-extraction for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/NucleusFramework/ComposePdfReader?style=flat)](https://github.com/NucleusFramework/ComposePdfReader)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.nucleusframework/pdfium)](https://central.sonatype.com/artifact/dev.nucleusframework/pdfium)
+> A Kotlin Multiplatform PDF rendering and text-extraction library built on top of pdfium and Compose Multiplatform. Compose-first API, and a sample desktop/mobile reader with thumbnails, progressive rendering, and selectable text.
+
+[compose-alert-banner](https://github.com/mofeejegi/compose-alert-banner) - Alert banner for Compose
+[![GitHub Repo stars](https://img.shields.io/github/stars/mofeejegi/compose-alert-banner?style=flat)](https://github.com/mofeejegi/compose-alert-banner)
+[![Maven Central](https://img.shields.io/maven-central/v/com.mofeejegi.alert/alert-banner-compose)](https://central.sonatype.com/artifact/com.mofeejegi.alert/alert-banner-compose)
+> A simple, customizable, and modern library for displaying alert banners in your Jetpack Compose, Compose Multiplatform and native iOS (Swift) applications.
+
+[charts](https://github.com/HDCharts/charts) - Charts for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/HDCharts/charts?style=flat)](https://github.com/HDCharts/charts)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.dautovicharis/charts)](https://central.sonatype.com/artifact/io.github.dautovicharis/charts)
+> Charts for Jetpack Compose — Multiplatform (Android · iOS · Web · Desktop)
+
+[KMPLiquidGlass](https://github.com/Kashif-E/KMPLiquidGlass) - Liquid Glass effect for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kashif-E/KMPLiquidGlass?style=flat)](https://github.com/Kashif-E/KMPLiquidGlass)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kashif-mehmood-km/backdrop)](https://central.sonatype.com/artifact/io.github.kashif-mehmood-km/backdrop)
+> Compose Multiplatform Liquid Glass effect
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
@@ -1241,6 +1281,11 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/JsonPathKt?style=flat)](https://github.com/eygraber/JsonPathKt)
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/jsonpathkt-kotlinx)](https://central.sonatype.com/artifact/com.eygraber/jsonpathkt-kotlinx)
 > JsonPathKt provides a fast and performant way to work with JsonPath in Kotlin Multiplatform projects.
+
+[kotlin-csv](https://github.com/jsoizo/kotlin-csv) - Pure Kotlin CSV Reader/Writer
+[![GitHub Repo stars](https://img.shields.io/github/stars/jsoizo/kotlin-csv?style=flat)](https://github.com/jsoizo/kotlin-csv)
+[![Maven Central](https://img.shields.io/maven-central/v/com.jsoizo/kotlin-csv)](https://central.sonatype.com/artifact/com.jsoizo/kotlin-csv)
+> Pure Kotlin CSV Reader/Writer
 
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
