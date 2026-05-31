@@ -718,7 +718,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [ComposeDatePicker](https://github.com/mikekpl/compose-datepicker) - A lightweight, highly customizable Date Picker built from the ground up for Compose Multiplatform. No friction, no boilerplate, it just works.
 [![GitHub Repo stars](https://img.shields.io/github/stars/mikekpl/compose-datepicker?style=flat)](https://github.com/mikekpl/compose-datepicker)
-[![Maven Central](https://img.shields.io/maven-central/v/dev.mikelau/compose-datepicker.svg?label=Maven%20Central)]
+[![Maven Central](https://img.shields.io/maven-central/v/dev.mikelau/compose-datepicker)]
 > A Compose Multiplatform Date Picker Library that uses [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) library. 
 
 ### ➿ Asynchronous
