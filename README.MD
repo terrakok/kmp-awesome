@@ -117,7 +117,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 [Nucleus](https://github.com/kdroidFilter/Nucleus) - desktop platform utils
 [![GitHub Repo stars](https://img.shields.io/github/stars/kdroidFilter/Nucleus?style=flat)](https://github.com/kdroidFilter/Nucleus)
-[![Maven Central](https://img.shields.io/maven-central/v/put.coordinates.here)](https://central.sonatype.com/artifact/put.coordinates.here)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kdroidfilter/nucleus.core-runtime)](https://central.sonatype.com/artifact/io.github.kdroidfilter/nucleus.core-runtime)
 > Nucleus is the native desktop platform for the JVM. Combined with Compose Multiplatform, it forms the most complete, most performant, and most deeply integrated desktop application stack ever built — on any language, any runtime, any platform.
 
 [Swift Klib](https://github.com/ttypic/swift-klib-plugin) gradle plugin 
@@ -657,7 +657,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 ### 🗃 Serializer
 [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat)](https://github.com/Kotlin/kotlinx.serialization)
-[![Maven Central](https://img.shields.io/maven-central/v/net.peanuuutz.tomlkt/tomlkt)](https://central.sonatype.com/artifact/net.peanuuutz.tomlkt/tomlkt)
+[![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-serialization-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-serialization-core)
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
 
 [Ksoup](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)
@@ -672,7 +672,7 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 
 [tomlkt](https://github.com/Peanuuutz/tomlkt) - Multiplatform TOML encoder and decoder, powered by kotlinx.serialization 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Peanuuutz/tomlkt?style=flat)](https://github.com/Peanuuutz/tomlkt)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.pdvrieze.xmlutil/core)](https://central.sonatype.com/artifact/io.github.pdvrieze.xmlutil/core)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.eav.tomlkt/tomlkt)](https://central.sonatype.com/artifact/dev.eav.tomlkt/tomlkt)
 > Lightweight and easy to use kotlinx.serialization plugin for TOML serialization and deserialization.
 
 [Ksoup](https://github.com/MohamedRejeb/ksoup) - Kotlin Multiplatform HTML Parser
@@ -1211,11 +1211,6 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/z4kn4fein/kotlin-semver?style=flat)](https://github.com/z4kn4fein/kotlin-semver)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.z4kn4fein/semver)](https://central.sonatype.com/artifact/io.github.z4kn4fein/semver)
 > Semantic Versioning library for Kotlin Multiplatform.
-
-[Kontrol](https://github.com/chopyourbrain/kontrol) - Debug menu
-[![GitHub Repo stars](https://img.shields.io/github/stars/chopyourbrain/kontrol?style=flat)](https://github.com/chopyourbrain/kontrol)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.chopyourbrain/kontrol)](https://central.sonatype.com/artifact/io.github.chopyourbrain/kontrol/)
-> Kotlin Multiplatform library for creating a debugging menu.
 
 [Kim](https://github.com/StefanOltmann/kim) - Kotlin Image Metadata
 [![GitHub Repo stars](https://img.shields.io/github/stars/StefanOltmann/kim?style=flat)](https://github.com/StefanOltmann/kim)
