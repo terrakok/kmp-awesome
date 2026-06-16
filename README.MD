@@ -367,6 +367,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.stevdza-san/countrypicker)](https://central.sonatype.com/artifact/com.stevdza-san/countrypicker)
 > A lightweight KMP library that simplifies country selection by providing Country enum with Dial codes, Currencies, Flags and ISO codes—Adopted for Android, iOS, Desktop, and Web.
 
+[Biometrik](https://github.com/N7ghtm4r3/Biometrik) - Biometric authentication for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/n7ghtm4r3/Biometrik?style=flat)](https://github.com/N7ghtm4r3/Biometrik)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.n7ghtm4r3/biometrik)](https://central.sonatype.com/artifact/io.github.n7ghtm4r3/biometrik)
+> Perform biometric authentication in Compose Multiplatform applications using each platform's native APIs
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat)](https://github.com/InsertKoinIO/koin)
