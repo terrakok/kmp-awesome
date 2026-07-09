@@ -752,6 +752,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.badoo.reaktive/reaktive)](https://central.sonatype.com/artifact/com.badoo.reaktive/reaktive)
 > Kotlin multiplatform implementation of Reactive Extensions.
 
+[Signal](https://github.com/Fenrur/Signal) - Reactive Signal Library
+[![GitHub Repo stars](https://img.shields.io/github/stars/Fenrur/Signal?style=flat)](https://github.com/Fenrur/Signal)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.fenrur/signal)](https://central.sonatype.com/artifact/io.github.fenrur/signal)
+> A lightweight, glitch-free reactive signal library for Kotlin Multiplatform, inspired by SolidJS signals and Kotlin StateFlow. Features 60+ operators, batching, thread-safety, and Flow/Reactive Streams interop.
+
 [Kotlinx Atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - atomic operations
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.atomicfu?style=flat)](https://github.com/Kotlin/kotlinx.atomicfu)
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/atomicfu)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/atomicfu)
