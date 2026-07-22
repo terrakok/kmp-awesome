@@ -69,19 +69,15 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### 🛠 Tooling
 
-[Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
-> The Kotlin Multiplatform Mobile (KMM) plugin helps you develop applications that work on both Android and iOS.
+[Kotlin Multiplatform plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform) IntelliJ IDEA / Android Studio plugin
+> This plugin for IntelliJ IDEA and Android Studio enables you to develop Kotlin Multiplatform applications targeting Android, iOS, desktop, web, and server.
 
 [CocoaPods](https://kotlinlang.org/docs/native-cocoapods.html) integration
 > Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).
 
-[Amper](https://github.com/JetBrains/amper) new experimental way for project configuration
+[kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain) The Kotlin Toolchain is a unified entry point into Kotlin.
 [![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/amper?style=flat)](https://github.com/JetBrains/amper)
-> Improving developer experience while configuring project setup. Kotlin multiplatform support is out-of-the-box. Project now has experimental status.
-
-[Swift Package](https://github.com/PaGr0m/kotlin-spm-plugin) integration 
-[![GitHub Repo stars](https://img.shields.io/github/stars/PaGr0m/kotlin-spm-plugin?style=flat)](https://github.com/PaGr0m/kotlin-spm-plugin)
-> This gradle plugin provides two-way interoperability between Kotlin dependencies and Kotlin-based Swift Package Multiplatform.
+> A set of tools for the Kotlin language, with a focus on user experience and tooling
 
 [MOKO KSwift](https://github.com/icerockdev/moko-kswift) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-kswift?style=flat)](https://github.com/icerockdev/moko-kswift)
@@ -118,7 +114,6 @@ It reduces time spent writing and maintaining the same code for different platfo
 [Nucleus](https://github.com/NucleusFramework/Nucleus) - Nucleus is the native desktop platform for the JVM.
 [![GitHub Repo stars](https://img.shields.io/github/stars/NucleusFramework/Nucleus?style=flat)](https://github.com/NucleusFramework/Nucleus)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.nucleusframework/nucleus.nucleus-application)](https://central.sonatype.com/artifact/dev.nucleusframework/nucleus.nucleus-application)
-[![Maven Central](https://img.shields.io/maven-central/v/dev.nucleusframework/nucleus.decorated-window-tao)](https://central.sonatype.com/artifact/dev.nucleusframework/nucleus.decorated-window-tao)
 > Nucleus is the native desktop platform for the JVM. Combined with Compose Multiplatform, it forms the most complete, most performant, and most deeply integrated desktop application stack ever built — on any language, any runtime, any platform.
 
 [Swift Klib](https://github.com/ttypic/swift-klib-plugin) gradle plugin 
@@ -136,6 +131,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [Power-Assert](https://kotlinlang.org/docs/power-assert.html) gradle plugin 
 [![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/kotlin?style=flat)](https://github.com/JetBrains/kotlin/tree/master/plugins/power-assert)
 > The Kotlin Power-assert compiler plugin improves the debugging experience by providing detailed failure messages with contextual information. It simplifies the process of writing tests by automatically generating intermediate values in failure messages. It helps you understand why a test failed without needing complex assertion libraries.
+
+[TestBalloon](https://github.com/infix-de/testBalloon) Kotlin testing made easy, everywhere.  
+[![GitHub Repo stars](https://img.shields.io/github/stars/infix-de/testBalloon?style=flat)](https://github.com/infix-de/testBalloon)
+> TestBalloon is a DSL-based Kotlin-first test framework. It lets you configure tests with plain Kotlin instead of restrictive, annotation-based magic. TestBalloon's concise API is extremely flexible and easy to customize for any test setup.
 
 [Valkyrie](https://github.com/ComposeGears/Valkyrie) IntelliJ IDEA / Android Studio plugin 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat)
@@ -1136,6 +1135,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.ak1/drawbox)](https://central.sonatype.com/artifact/io.ak1/drawbox)
 > Kotlin Multiplatform drawing library with SVG export, undo/redo & shapes for Android, iOS, Web & Desktop.
 
+[LazySurface](https://github.com/07jasjeet/LazySurface) - A lazy 2D-plane layout for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/07jasjeet/LazySurface?style=flat)](https://github.com/07jasjeet/LazySurfacex)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.07jasjeet/lazysurface)](https://central.sonatype.com/artifact/io.github.07jasjeet/lazysurface)
+> A lazy 2D-plane layout for Compose Multiplatform
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
@@ -1222,25 +1226,11 @@ your Compose apps.
 > The plugin and a library work in tandem to provide a unified API across platforms for reading resources from each source set's resources folder.
 
 ### 🔧 Utils
-[UUID](https://github.com/benasher44/uuid) - UUID generator
-[![GitHub Repo stars](https://img.shields.io/github/stars/benasher44/uuid?style=flat)](https://github.com/benasher44/uuid)
-[![Maven Central](https://img.shields.io/maven-central/v/com.benasher44/uuid)](https://central.sonatype.com/artifact/com.benasher44/uuid)
-> Kotlin Multiplatform UUID generator
 
 [Uri KMP](https://github.com/eygraber/uri-kmp) - A library for working with URIs in Kotlin Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/uri-kmp?style=flat)](https://github.com/eygraber/uri-kmp)
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/uri-kmp)](https://central.sonatype.com/artifact/com.eygraber/uri-kmp)
 > A library for working with URIs in Kotlin Multiplatform
-
-[Diglol Encoding](https://github.com/diglol/encoding) - Common encodings for Kotlin Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/diglol/encoding?style=flat)](https://github.com/diglol/encoding)
-[![Maven Central](https://img.shields.io/maven-central/v/com.diglol.encoding/encoding)](https://central.sonatype.com/artifact/com.diglol.encoding/encoding)
-> Diglol Encoding provides Hex/Base16, Base32, Base64 encodings for Kotlin Multiplatform.
-
-[Diglol Id](https://github.com/diglol/id) - A global Id generator for Kotlin Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/diglol/id?style=flat)](https://github.com/diglol/id)
-[![Maven Central](https://img.shields.io/maven-central/v/com.diglol.id/id)](https://central.sonatype.com/artifact/com.diglol.id/id)
-> A global Id generator for Kotlin Multiplatform. It modifies the timestamp to 5 bytes based on Xid.
 
 [ByteBuffer](https://github.com/DitchOoM/buffer) - Kotlin Multiplatform bytebuffer/byte[] wrapper 
 [![GitHub Repo stars](https://img.shields.io/github/stars/DitchOoM/buffer?style=flat)](https://github.com/DitchOoM/buffer)
@@ -1266,16 +1256,6 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/piruin/geok?style=flat)](https://github.com/piruin/geok)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.piruin/geok)](https://central.sonatype.com/artifact/io.github.piruin/geok)
 > Small geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.
-
-[fluid-currency](https://github.com/fluidsonic/fluid-currency) - currency library
-[![GitHub Repo stars](https://img.shields.io/github/stars/fluidsonic/fluid-currency?style=flat)](https://github.com/fluidsonic/fluid-currency)
-[![Maven Central](https://img.shields.io/maven-central/v/io.fluidsonic.currency/fluid-currency)](https://central.sonatype.com/artifact/io.fluidsonic.currency/fluid-currency)
-> Kotlin multiplatform currency library.
-
-[fluid-country](https://github.com/fluidsonic/fluid-country) - country library
-[![GitHub Repo stars](https://img.shields.io/github/stars/fluidsonic/fluid-country?style=flat)](https://github.com/fluidsonic/fluid-country)
-[![Maven Central](https://img.shields.io/maven-central/v/io.fluidsonic.country/fluid-country)](https://central.sonatype.com/artifact/io.fluidsonic.country/fluid-country)
-> Kotlin multiplatform country library.
 
 [FuzzyKot](https://github.com/terrakok/FuzzyKot) - Fuzzy string matching
 [![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/FuzzyKot?style=flat)](https://github.com/terrakok/FuzzyKot)
