@@ -690,6 +690,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-serialization-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-serialization-core)
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
 
+[Ghost Serializer](https://github.com/juanchurtado1991/ghost-serializer) - High-performance compile-time JSON serializer
+[![GitHub Repo stars](https://img.shields.io/github/stars/juanchurtado1991/ghost-serializer?style=flat)](https://github.com/juanchurtado1991/ghost-serializer)
+[![Maven Central](https://img.shields.io/maven-central/v/com.ghostserializer/ghost-serialization)](https://central.sonatype.com/artifact/com.ghostserializer/ghost-serialization)
+> Byte-first JSON serializer for KMP (Android, iOS, JVM) with KSP compile-time codegen, thread-local pools, and coexistence with kotlinx.serialization, Gson, and Jackson. Integrations for Ktor, Retrofit, and Spring Boot. Optional ghost-protobuf module for proto3 JSON mapping.
+
 [Ksoup (fleeksoft)](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)
 [![GitHub Repo stars](https://img.shields.io/github/stars/fleeksoft/ksoup?style=flat)](https://github.com/fleeksoft/ksoup)
 [![Maven Central](https://img.shields.io/maven-central/v/com.fleeksoft.ksoup/ksoup)](https://central.sonatype.com/artifact/com.fleeksoft.ksoup/ksoup)
