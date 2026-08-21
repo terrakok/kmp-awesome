@@ -1150,6 +1150,12 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.07jasjeet/lazysurface)](https://central.sonatype.com/artifact/io.github.07jasjeet/lazysurface)
 > A lazy 2D-plane layout for Compose Multiplatform
 
+[kmp-terminal](https://github.com/JohNan/kmp-terminal-emulator) - KMP Terminal Emulator
+[![GitHub Repo stars](https://img.shields.io/github/stars/JohNan/kmp-terminal-emulator?style=flat)](https://github.com/JohNan/kmp-terminal-emulator)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.johnan/terminal-core)](https://central.sonatype.com/artifact/io.github.johnan/terminal-core)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.johnan/terminal-ui)](https://central.sonatype.com/artifact/io.github.johnan/terminal-ui)
+> A pure Kotlin Multiplatform ANSI/VT100 terminal emulator and Compose Multiplatform GPU-accelerated canvas renderer supporting Android, iOS, JVM Desktop, and WasmJs.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
