@@ -1151,6 +1151,11 @@ your Compose apps.
 > A lazy 2D-plane layout for Compose Multiplatform
 
 ### 🎨 Graphics
+[KMPMedia](https://github.com/SolidKeyAB/kmpmedia) - Clip & animate images, SVG and video into any shape
+[![GitHub Repo stars](https://img.shields.io/github/stars/SolidKeyAB/kmpmedia?style=flat)](https://github.com/SolidKeyAB/kmpmedia)
+[![Maven Central](https://img.shields.io/maven-central/v/se.solidkey/kmpmedia-lib)](https://central.sonatype.com/artifact/se.solidkey/kmpmedia-lib)
+> Compose Multiplatform media toolkit for Android & iOS — render, clip and animate images, SVG and video into any shape (including a free-form lasso), with audio and interactive video playback.
+
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/graphics)](https://central.sonatype.com/artifact/dev.icerock.moko/graphics)
