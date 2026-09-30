@@ -1150,6 +1150,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.07jasjeet/lazysurface)](https://central.sonatype.com/artifact/io.github.07jasjeet/lazysurface)
 > A lazy 2D-plane layout for Compose Multiplatform
 
+[miuix](https://github.com/compose-miuix-ui/miuix) - A UI library for Compose MultiPlatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/compose-miuix-ui/miuix?style=flat)](https://github.com/compose-miuix-ui/miuix/stargazers)
+[![Maven Central](https://img.shields.io/maven-central/v/top.yukonga.miuix.kmp/miuix-ui)](https://search.maven.org/search?q=g:top.yukonga.miuix.kmp)
+> A shared UI library for Compose Multiplatform. Supports all platform targets. Provides components with Xiaomi HyperOS design style.
+
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat)](https://github.com/icerockdev/moko-graphics)
