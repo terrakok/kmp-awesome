@@ -1322,6 +1322,12 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.jsoizo/kotlin-csv)](https://central.sonatype.com/artifact/com.jsoizo/kotlin-csv)
 > Pure Kotlin CSV Reader/Writer
 
+
+[PdfKmp](https://github.com/ConaMobileDev/PdfKmp) - Kotlin Multiplatform PDF generator
+[![GitHub Repo stars](https://img.shields.io/github/stars/ConaMobileDev/PdfKmp?style=flat)](https://github.com/ConaMobileDev/PdfKmp)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.conamobiledev/pdfkmp)](https://central.sonatype.com/artifact/io.github.conamobiledev/pdfkmp)
+A Kotlin Multiplatform PDF generator for Android and iOS. Vector text and shapes authored with a Compose-style DSL — no rasterisation, so output stays sharp at any zoom.
+
 ## Contribution guide
 Feel free to contribute. Follow common style and welcome!  
 Few rules:  
