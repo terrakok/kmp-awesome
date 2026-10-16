@@ -144,6 +144,10 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/MahmoudRH/kmpify?style=flat)](https://github.com/MahmoudRH/kmpify)
 > Automates the migration of Android Jetpack Compose projects to Compose Multiplatform by converting resource imports, annotations, and references. Built with KMP and Compose Desktop, it speeds up tedious migration tasks.
 
+[Device Hub Pro](https://github.com/gitemre/device-hub-pro) macOS app
+[![GitHub Repo stars](https://img.shields.io/github/stars/gitemre/device-hub-pro?style=flat)](https://github.com/gitemre/device-hub-pro)
+> Free, open-source Mac app that mirrors and controls Android emulators, Android phones and iOS simulators side by side: touch and keyboard input, network, battery, location, appearance and permission controls, deep links, push notifications, logs, screenshots and recordings.
+
 ## Libraries
 
 ### 📋 Log
