@@ -22,11 +22,12 @@ It reduces time spent writing and maintaining the same code for different platfo
 📺 [YouTube](https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C)  
 🤩 [Samples](https://kotlinlang.org/docs/kmm-samples.html)  
 🗄 [Jetpack Compose Components](https://m3.material.io/components)  
-🗄 [Compose Multiplatform Components](https://composables.com)  
+🗄 [Compose Multiplatform Components](https://composables.com)
 🗄 [Compose Material 3 Gallery](https://terrakok.github.io/compose-material-3-gallery/)  
 🎨 [Material Theme Builder](https://materialkolor.com)  
 📚 [Kotlin Multiplatform by Tutorials](https://www.kodeco.com/books/kotlin-multiplatform-by-tutorials)  
 📚 [Simplifying Application Development with Kotlin Multiplatform Mobile](https://www.amazon.com/Simplifying-Application-Development-Kotlin-Multiplatform/dp/1801812586)  
+✏️ [Icons](https://www.composeicons.com)
 
 ## Contents
 <table>
