@@ -556,6 +556,9 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/ru.cookedapp.trckr/trckr-core)](https://central.sonatype.com/artifact/ru.cookedapp.trckr/trckr-core)
 > KSP processer that simplifies the collection of analytics
 
+[Measure](https://github.com/measure-sh/measure) - Open-source mobile observability
+[![GitHub Repo stars](https://img.shields.io/github/stars/measure-sh/measure?style=flat)](https://github.com/measure-sh/measure)
+> Open-source alternative to Firebase Crashlytics for monitoring and debugging mobile crashes, ANRs, and performance issues. Supports React Native and Kotlin Multiplatform (KMP).
 ### 🩺 Test
 [Kotest](https://github.com/kotest/kotest) - test framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/kotest/kotest?style=flat)](https://github.com/kotest/kotest)
