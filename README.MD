@@ -704,6 +704,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/sandwich.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%22sandwich%22)
 > Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.
 
+[AspectK](https://github.com/Mole-Labs/aspectk) - Aspect-Oriented Programming (AOP) for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/Mole-labs/aspectk?style=flat)](https://github.com/Mole-Labs/aspectk)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.mole-labs.aspectk/io.github.mole-labs.aspectk.gradle.plugin)](https://central.sonatype.com/artifact/io.github.mole-labs.aspectk/io.github.mole-labs.aspectk.gradle.plugin)
+> A Kotlin compiler plugin that adds compile-time aspect-oriented programming to Kotlin Multiplatform projects. Supports @Before, @After and @Around advice on regular, suspend and inline functions, woven via K2 IR with no runtime reflection or proxies.
+
 ### 🗃 Serializer
 [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - JSON serialization
 [![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat)](https://github.com/Kotlin/kotlinx.serialization)
