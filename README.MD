@@ -873,6 +873,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/br.com.devsrsouza.compose.icons/simple-icons)](https://central.sonatype.com/artifact/br.com.devsrsouza.compose.icons/simple-icons)
 > Compose Multiplatform icons is a pack of libraries that provide well known Icon Packs. The library usage is inspired by Compose Material Icons.
 
+[mdi-icons](https://github.com/TimoPtr/mdi-icons) Material Design Icons (MDI) catalog for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/TimoPtr/mdi-icons?style=flat)](https://github.com/TimoPtr/mdi-icons)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.timoptr/mdi-icons)](https://central.sonatype.com/artifact/io.github.timoptr/mdi-icons)
+> The full Material Design Icons catalog (7000+ icons) as ImageVector, with runtime lookup by icon name and RTL auto-mirroring. Used in production by the Home Assistant Android app.
+
 [Compose Rich Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) Provides Rich Editor component for Compose Multiplatform.
 [![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor?style=flat)](https://github.com/MohamedRejeb/Compose-Rich-Editor)
 [![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.richeditor/richeditor-compose)](https://central.sonatype.com/artifact/com.mohamedrejeb.richeditor/richeditor-compose)
