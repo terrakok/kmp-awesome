@@ -602,6 +602,10 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.willowtreeapps.assertk/assertk)](https://central.sonatype.com/artifact/com.willowtreeapps.assertk/assertk)
 > Fluent assertions library for Kotlin with full Multiplatform support.
 
+[e2e](https://github.com/tester-army/e2e) - end-to-end test framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/tester-army/e2e?style=flat)](https://github.com/tester-army/e2e)
+> TypeScript runner for testing built Android and iOS apps with natural-language agent steps and locator assertions, with a Kotlin Multiplatform example.
+
 ### 🔑 Crypto
 [Signum](https://github.com/a-sit-plus/signum) - Crypto/PKI/ASN.1 Library
 [![GitHub Repo stars](https://img.shields.io/github/stars/a-sit-plus/signum?style=flat)](https://github.com/a-sit-plus/signum)
