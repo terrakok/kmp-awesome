@@ -167,6 +167,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
 > Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
+[StackAudit](https://github.com/r1b2ns/stack-audit) - debug inspector
+[![GitHub Repo stars](https://img.shields.io/github/stars/r1b2ns/stack-audit?style=flat)](https://github.com/r1b2ns/stack-audit)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.r1b2ns/stackaudit-core)](https://central.sonatype.com/artifact/io.github.r1b2ns/stackaudit-core)
+> Debug inspector for KMP, Android, iOS and Flutter: HTTP, WebSocket, storage, SQL, analytics and feature flags, with secrets masked on the device. Includes a Compose Multiplatform viewer, a Ktor plugin and SQLDelight and multiplatform-settings wrappers.
+
 
 ### 🌎 Network
 [Ktor](https://github.com/ktorio/ktor) - http client
